@@ -4,3 +4,6 @@
 [submodule "data/human"]
 	path = data/human
 	url = https://github.com/braingpt-lovelab/brainbench_participant_data.git
+[submodule "data/machine"]
+	path = data/machine
+	url = https://github.com/braingpt-lovelab/brainbench_experiments.git
