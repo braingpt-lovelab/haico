@@ -1,0 +1,3 @@
+[submodule "data/testcases"]
+	path = data/testcases
+	url = https://github.com/braingpt-lovelab/brainbench_testcases.git
