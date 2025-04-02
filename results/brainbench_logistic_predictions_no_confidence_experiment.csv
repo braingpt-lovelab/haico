@@ -1,0 +1,16 @@
+Human,7B,13B,70B,Degree,Accuracy
+True,False,False,False,1,0.6978131212723658
+False,True,False,False,1,0.7256461232604374
+False,False,True,False,1,0.7256461232604374
+False,False,False,True,1,0.7455268389662028
+True,True,False,False,1,0.757455268389662
+True,False,True,False,1,0.7554671968190855
+True,False,False,True,1,0.6560636182902585
+False,True,True,False,1,0.6998011928429424
+False,True,False,True,1,0.705765407554672
+False,False,True,True,1,0.7216699801192843
+True,True,True,False,1,0.658051689860835
+True,True,False,True,1,0.7813121272365805
+True,False,True,True,1,0.7435387673956262
+False,True,True,True,1,0.7475149105367793
+True,True,True,True,1,0.7753479125248509
