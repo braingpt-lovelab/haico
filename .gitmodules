@@ -1,9 +1,9 @@
-[submodule "data/testcases"]
-	path = data/testcases
+[submodule "data/brainbench/testcases"]
+	path = data/brainbench/testcases
 	url = https://github.com/braingpt-lovelab/brainbench_testcases.git
-[submodule "data/human"]
-	path = data/human
+[submodule "data/brainbench/human"]
+	path = data/brainbench/human
 	url = https://github.com/braingpt-lovelab/brainbench_participant_data.git
-[submodule "data/machine"]
-	path = data/machine
+[submodule "data/brainbench/machine"]
+	path = data/brainbench/machine
 	url = https://github.com/braingpt-lovelab/brainbench_experiments.git
