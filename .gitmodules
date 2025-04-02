@@ -6,4 +6,4 @@
 	url = https://github.com/braingpt-lovelab/brainbench_participant_data.git
 [submodule "data/brainbench/machine"]
 	path = data/brainbench/machine
-	url = https://github.com/braingpt-lovelab/brainbench_experiments.git
+	url = https://github.com/braingpt-lovelab/brainbench_results.git
