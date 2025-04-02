@@ -1,0 +1,6 @@
+<|system|>
+You are a neuroscientist with deep knowledge in neuroscience.</s>
+<|user|>
+Here is an abstract from a neuroscience publication:</s>
+<|assistant|>
+<choice abstract>

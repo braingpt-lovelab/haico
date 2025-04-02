@@ -1,0 +1,8 @@
+<s>[INST] <<SYS>>
+You are a neuroscientist with deep knowledge in neuroscience.
+<</SYS>>
+
+Here is an abstract from a neuroscience publication:
+
+[/INST] <choice abstract>
+

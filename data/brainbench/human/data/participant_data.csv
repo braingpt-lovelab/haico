@@ -1,0 +1,1515 @@
+,pid,expertise,confidence,click_outside,correct,rt,abstract_id,journal_section,click_slider,recognised,age,country,current position,experience,sex
+0,9940143.0,1,15,,1,101807,34.0,human_Neurobiology of Disease,1,0,40,Australia,__other,10,Male
+1,9940143.0,55,58,,1,60826,151.0,machine_Systems/Circuits,1,0,40,Australia,__other,10,Male
+2,9940143.0,63,100,,1,75552,149.0,machine_Behavioral/Cognitive,1,0,40,Australia,__other,10,Male
+3,9940143.0,100,100,,1,77690,112.0,human_Behavioral/Cognitive,1,0,40,Australia,__other,10,Male
+4,9940143.0,92,100,,1,55842,119.0,human_Behavioral/Cognitive,1,0,40,Australia,__other,10,Male
+5,9940143.0,50,27,,1,202795,128.0,human_Behavioral/Cognitive,1,0,40,Australia,__other,10,Male
+6,9940143.0,23,14,,1,50375,37.0,machine_Systems/Circuits,1,0,40,Australia,__other,10,Male
+7,9940143.0,15,15,,1,69258,7.0,human_Behavioral/Cognitive,1,0,40,Australia,__other,10,Male
+8,9940143.0,11,13,,0,70939,179.0,human_Neurobiology of Disease,1,0,40,Australia,__other,10,Male
+9,9940153.0,1,76,clicked,1,256326,194.0,human_Behavioral/Cognitive,1,0,23,Japan,Predoctoral student,4,Male
+10,9940153.0,1,24,clicked,0,177623,197.0,human_Neurobiology of Disease,1,0,23,Japan,Predoctoral student,4,Male
+11,9940153.0,1,20,clicked,0,185836,73.0,human_Behavioral/Cognitive,1,0,23,Japan,Predoctoral student,4,Male
+12,9940153.0,1,20,clicked,0,115831,14.0,machine_Behavioral/Cognitive,1,0,23,Japan,Predoctoral student,4,Male
+13,9940153.0,1,17,clicked,1,93820,17.0,machine_Systems/Circuits,1,0,23,Japan,Predoctoral student,4,Male
+14,9940153.0,1,66,clicked,0,102920,53.0,human_Behavioral/Cognitive,1,0,23,Japan,Predoctoral student,4,Male
+15,9940153.0,1,3,clicked,1,145319,61.0,human_Cellular/Molecular,1,0,23,Japan,Predoctoral student,4,Male
+16,9940153.0,1,1,clicked,1,101689,193.0,human_Behavioral/Cognitive,1,0,23,Japan,Predoctoral student,4,Male
+17,9940153.0,1,1,clicked,0,165485,47.0,machine_Systems/Circuits,1,0,23,Japan,Predoctoral student,4,Male
+18,9940156.0,1,23,,1,215127,196.0,human_Development/Plasticity/Repair,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+19,9940156.0,13,32,,1,73240,154.0,human_Behavioral/Cognitive,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+20,9940156.0,22,45,,1,92901,143.0,human_Behavioral/Cognitive,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+21,9940156.0,2,32,,1,175159,83.0,machine_Development/Plasticity/Repair,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+22,9940156.0,57,60,,1,109471,148.0,human_Behavioral/Cognitive,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+23,9940156.0,9,31,,1,233639,133.0,human_Systems/Circuits,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+24,9940156.0,2,1,,1,161050,197.0,machine_Neurobiology of Disease,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+25,9940156.0,10,26,,0,44023,124.0,human_Systems/Circuits,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+26,9940156.0,3,46,,1,163942,58.0,machine_Neurobiology of Disease,1,0,36,Switzerland,Postdoctoral researcher,11,Male
+27,9940163.0,1,1,,1,158629,86.0,machine_Development/Plasticity/Repair,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+28,9940163.0,17,17,,0,120885,106.0,machine_Systems/Circuits,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+29,9940163.0,1,1,,1,92562,123.0,human_Cellular/Molecular,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+30,9940163.0,1,1,clicked,0,107782,90.0,human_Neurobiology of Disease,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+31,9940163.0,11,5,clicked,1,60445,49.0,human_Development/Plasticity/Repair,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+32,9940163.0,1,1,clicked,1,29675,28.0,human_Development/Plasticity/Repair,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+33,9940163.0,1,1,clicked,0,34676,159.0,human_Behavioral/Cognitive,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+34,9940163.0,1,1,clicked,1,12691,139.0,machine_Systems/Circuits,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+35,9940163.0,1,1,clicked,0,30930,38.0,human_Systems/Circuits,1,0,40,Switzerland,Postdoctoral researcher,6,Male
+36,9940187.0,11,18,clicked,0,80537,97.0,human_Cellular/Molecular,1,0,28,United Kingdom,Doctoral student,7,Male
+37,9940187.0,31,33,clicked,1,73155,126.0,human_Systems/Circuits,1,0,28,United Kingdom,Doctoral student,7,Male
+38,9940187.0,50,50,clicked,1,32725,159.0,machine_Behavioral/Cognitive,0,0,28,United Kingdom,Doctoral student,7,Male
+39,9940187.0,8,12,clicked,1,103493,27.0,human_Cellular/Molecular,1,0,28,United Kingdom,Doctoral student,7,Male
+40,9940187.0,23,28,clicked,1,44193,3.0,machine_Neurobiology of Disease,1,0,28,United Kingdom,Doctoral student,7,Male
+41,9940187.0,15,12,clicked,1,70779,116.0,machine_Behavioral/Cognitive,1,0,28,United Kingdom,Doctoral student,7,Male
+42,9940187.0,13,50,clicked,1,54347,74.0,human_Behavioral/Cognitive,1,0,28,United Kingdom,Doctoral student,7,Male
+43,9940187.0,1,1,clicked,1,43116,153.0,human_Behavioral/Cognitive,1,0,28,United Kingdom,Doctoral student,7,Male
+44,9940187.0,1,1,clicked,0,13515,125.0,human_Behavioral/Cognitive,1,0,28,United Kingdom,Doctoral student,7,Male
+45,9940270.0,54,35,,0,578129,64.0,machine_Behavioral/Cognitive,1,0,38,Netherlands,Research scientist,9,Male
+46,9940270.0,12,35,,0,77622,155.0,machine_Neurobiology of Disease,1,0,38,Netherlands,Research scientist,9,Male
+47,9940270.0,28,32,clicked,0,151191,137.0,human_Behavioral/Cognitive,1,0,38,Netherlands,Research scientist,9,Male
+48,9940270.0,27,60,clicked,0,114250,35.0,human_Cellular/Molecular,1,0,38,Netherlands,Research scientist,9,Male
+49,9940270.0,60,57,clicked,1,63398,139.0,human_Systems/Circuits,1,0,38,Netherlands,Research scientist,9,Male
+50,9940270.0,33,37,clicked,0,128941,9.0,machine_Behavioral/Cognitive,1,0,38,Netherlands,Research scientist,9,Male
+51,9940270.0,6,27,clicked,1,123655,93.0,human_Systems/Circuits,1,0,38,Netherlands,Research scientist,9,Male
+52,9940270.0,6,25,clicked,1,99026,91.0,human_Neurobiology of Disease,1,0,38,Netherlands,Research scientist,9,Male
+53,9940270.0,13,33,clicked,0,66458,173.0,human_Development/Plasticity/Repair,1,0,38,Netherlands,Research scientist,9,Male
+54,9940408.0,76,81,,0,128113,188.0,human_Systems/Circuits,1,0,34,Spain,Postdoctoral researcher,7,Male
+55,9940408.0,41,37,,0,114523,183.0,human_Cellular/Molecular,1,0,34,Spain,Postdoctoral researcher,7,Male
+56,9940408.0,39,39,,1,56691,54.0,human_Behavioral/Cognitive,1,0,34,Spain,Postdoctoral researcher,7,Male
+57,9940408.0,50,50,,0,109938,198.0,human_Behavioral/Cognitive,0,0,34,Spain,Postdoctoral researcher,7,Male
+58,9940408.0,50,50,,1,29618,99.0,machine_Development/Plasticity/Repair,0,0,34,Spain,Postdoctoral researcher,7,Male
+59,9940408.0,29,50,,1,46860,192.0,machine_Behavioral/Cognitive,1,0,34,Spain,Postdoctoral researcher,7,Male
+60,9940408.0,55,65,,0,99268,110.0,human_Neurobiology of Disease,1,0,34,Spain,Postdoctoral researcher,7,Male
+61,9940408.0,50,50,,0,38213,195.0,machine_Behavioral/Cognitive,0,0,34,Spain,Postdoctoral researcher,7,Male
+62,9940408.0,85,73,,1,50488,44.0,human_Development/Plasticity/Repair,1,0,34,Spain,Postdoctoral researcher,7,Male
+63,9940417.0,1,20,clicked,1,180189,176.0,human_Neurobiology of Disease,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+64,9940417.0,1,24,clicked,1,402073,190.0,human_Behavioral/Cognitive,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+65,9940417.0,1,15,clicked,0,89280,45.0,machine_Cellular/Molecular,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+66,9940417.0,1,1,clicked,0,139002,4.0,human_Behavioral/Cognitive,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+67,9940417.0,1,11,clicked,1,115475,58.0,human_Neurobiology of Disease,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+68,9940417.0,1,1,clicked,1,811790,46.0,machine_Systems/Circuits,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+69,9940417.0,1,1,clicked,1,76314,180.0,human_Neurobiology of Disease,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+70,9940417.0,1,18,clicked,0,44821,50.0,machine_Cellular/Molecular,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+71,9940417.0,1,1,clicked,0,84943,167.0,human_Behavioral/Cognitive,1,0,35,United Kingdom,Postdoctoral researcher,9,Male
+72,9940440.0,50,82,,1,19797,29.0,human_Cellular/Molecular,1,0,28,United Kingdom,Doctoral student,3,Male
+73,9940440.0,30,29,,0,121289,182.0,machine_Cellular/Molecular,1,0,28,United Kingdom,Doctoral student,3,Male
+74,9940440.0,53,27,,0,35571,187.0,human_Systems/Circuits,1,0,28,United Kingdom,Doctoral student,3,Male
+75,9940440.0,50,50,,1,41319,148.0,machine_Behavioral/Cognitive,0,0,28,United Kingdom,Doctoral student,3,Male
+76,9940440.0,32,8,,1,62416,96.0,machine_Cellular/Molecular,1,0,28,United Kingdom,Doctoral student,3,Male
+77,9940440.0,50,1,,0,17816,132.0,human_Behavioral/Cognitive,1,0,28,United Kingdom,Doctoral student,3,Male
+78,9940440.0,50,7,,1,20948,26.0,human_Development/Plasticity/Repair,1,0,28,United Kingdom,Doctoral student,3,Male
+79,9940440.0,18,16,,0,20364,86.0,human_Development/Plasticity/Repair,1,0,28,United Kingdom,Doctoral student,3,Male
+80,9940440.0,1,3,,0,11396,98.0,human_Development/Plasticity/Repair,1,0,28,United Kingdom,Doctoral student,3,Male
+99,9940548.0,26,13,,1,76754,1.0,human_Behavioral/Cognitive,1,0,28,Belgium,Doctoral student,6,Male
+100,9940548.0,35,67,,1,50206,175.0,machine_Systems/Circuits,1,0,28,Belgium,Doctoral student,6,Male
+101,9940548.0,34,35,clicked,0,64434,72.0,human_Systems/Circuits,1,0,28,Belgium,Doctoral student,6,Male
+102,9940548.0,62,66,clicked,0,60907,42.0,human_Neurobiology of Disease,1,0,28,Belgium,Doctoral student,6,Male
+103,9940548.0,34,38,clicked,1,59363,39.0,human_Behavioral/Cognitive,1,0,28,Belgium,Doctoral student,6,Male
+104,9940548.0,1,4,clicked,1,47307,144.0,machine_Behavioral/Cognitive,1,0,28,Belgium,Doctoral student,6,Male
+105,9940548.0,1,1,clicked,1,18364,98.0,machine_Development/Plasticity/Repair,1,0,28,Belgium,Doctoral student,6,Male
+106,9940548.0,10,10,clicked,0,27431,178.0,human_Behavioral/Cognitive,1,0,28,Belgium,Doctoral student,6,Male
+107,9940548.0,31,77,clicked,0,35473,77.0,human_Cellular/Molecular,1,0,28,Belgium,Doctoral student,6,Male
+108,9940567.0,5,80,,1,306092,183.0,machine_Cellular/Molecular,1,0,40,Austria,Postdoctoral researcher,12,Male
+109,9940567.0,7,24,,0,471944,122.0,human_Systems/Circuits,1,0,40,Austria,Postdoctoral researcher,12,Male
+110,9940567.0,32,76,,1,275775,167.0,machine_Behavioral/Cognitive,1,0,40,Austria,Postdoctoral researcher,12,Male
+111,9940567.0,19,64,,1,764046,16.0,human_Systems/Circuits,1,0,40,Austria,Postdoctoral researcher,12,Male
+112,9940567.0,13,57,,1,454227,24.0,human_Development/Plasticity/Repair,1,0,40,Austria,Postdoctoral researcher,12,Male
+113,9940567.0,14,56,,0,321918,51.0,human_Development/Plasticity/Repair,1,0,40,Austria,Postdoctoral researcher,12,Male
+114,9940567.0,15,32,,1,278696,50.0,human_Cellular/Molecular,1,0,40,Austria,Postdoctoral researcher,12,Male
+115,9940567.0,22,76,clicked,1,454928,109.0,human_Systems/Circuits,1,0,40,Austria,Postdoctoral researcher,12,Male
+116,9940567.0,10,50,clicked,1,302500,136.0,machine_Behavioral/Cognitive,1,0,40,Austria,Postdoctoral researcher,12,Male
+117,9940569.0,34,30,,0,59182,18.0,machine_Systems/Circuits,1,0,35,France,Postdoctoral researcher,10,Male
+118,9940569.0,1,12,,1,11569,36.0,human_Cellular/Molecular,1,0,35,France,Postdoctoral researcher,10,Male
+119,9940569.0,20,21,,0,20739,71.0,human_Neurobiology of Disease,1,0,35,France,Postdoctoral researcher,10,Male
+120,9940569.0,27,68,,1,45538,112.0,machine_Behavioral/Cognitive,1,0,35,France,Postdoctoral researcher,10,Male
+121,9940569.0,40,41,,0,19517,150.0,human_Behavioral/Cognitive,1,0,35,France,Postdoctoral researcher,10,Male
+122,9940569.0,1,16,,0,44716,179.0,machine_Neurobiology of Disease,1,0,35,France,Postdoctoral researcher,10,Male
+123,9940569.0,31,29,,0,25969,142.0,human_Behavioral/Cognitive,1,0,35,France,Postdoctoral researcher,10,Male
+124,9940569.0,39,30,,1,28973,146.0,human_Systems/Circuits,1,0,35,France,Postdoctoral researcher,10,Male
+125,9940569.0,41,66,,1,18955,11.0,human_Systems/Circuits,1,0,35,France,Postdoctoral researcher,10,Male
+126,9940577.0,1,1,,0,67654,30.0,human_Development/Plasticity/Repair,1,0,33,Germany,Postdoctoral researcher,7,Male
+127,9940577.0,50,50,,1,81477,184.0,human_Behavioral/Cognitive,0,0,33,Germany,Postdoctoral researcher,7,Male
+128,9940577.0,24,50,clicked,0,127964,64.0,machine_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+129,9940577.0,1,1,clicked,0,358662,157.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,7,Male
+130,9940577.0,1,71,clicked,0,76180,138.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,7,Male
+131,9940577.0,1,50,clicked,1,90071,121.0,human_Neurobiology of Disease,1,0,33,Germany,Postdoctoral researcher,7,Male
+132,9940577.0,70,50,clicked,1,121463,149.0,machine_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+133,9940577.0,1,1,clicked,0,21204,18.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,7,Male
+134,9940577.0,54,8,clicked,0,138437,8.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+144,9940605.0,4,1,,0,48490,102.0,human_Development/Plasticity/Repair,1,0,36,Denmark,Faculty/Academic staff,9,Male
+145,9940605.0,12,13,,0,68484,57.0,machine_Neurobiology of Disease,1,0,36,Denmark,Faculty/Academic staff,9,Male
+146,9940605.0,50,77,,1,55868,87.0,human_Systems/Circuits,1,0,36,Denmark,Faculty/Academic staff,9,Male
+147,9940605.0,50,50,,0,50838,136.0,human_Behavioral/Cognitive,0,0,36,Denmark,Faculty/Academic staff,9,Male
+148,9940605.0,8,13,,1,14901,131.0,machine_Behavioral/Cognitive,1,0,36,Denmark,Faculty/Academic staff,9,Male
+149,9940605.0,11,10,,1,22160,79.0,human_Behavioral/Cognitive,1,0,36,Denmark,Faculty/Academic staff,9,Male
+150,9940605.0,50,50,,0,37962,47.0,human_Systems/Circuits,0,0,36,Denmark,Faculty/Academic staff,9,Male
+151,9940605.0,5,1,,0,14341,134.0,human_Behavioral/Cognitive,1,0,36,Denmark,Faculty/Academic staff,9,Male
+152,9940605.0,50,50,,1,29817,91.0,machine_Neurobiology of Disease,0,0,36,Denmark,Faculty/Academic staff,9,Male
+153,9940646.0,1,68,,1,226801,100.0,machine_Development/Plasticity/Repair,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+154,9940646.0,3,77,,1,130077,138.0,human_Systems/Circuits,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+155,9940646.0,2,68,,1,106581,76.0,human_Behavioral/Cognitive,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+156,9940646.0,1,78,,1,70242,168.0,human_Behavioral/Cognitive,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+157,9940646.0,1,100,,1,135068,59.0,machine_Cellular/Molecular,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+158,9940646.0,1,37,,1,193284,46.0,human_Systems/Circuits,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+159,9940646.0,1,84,,1,139325,6.0,machine_Behavioral/Cognitive,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+160,9940646.0,1,100,,1,114101,104.0,human_Development/Plasticity/Repair,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+161,9940646.0,1,1,,1,152394,170.0,human_Systems/Circuits,1,0,38,United Kingdom,Postdoctoral researcher,5,Female
+163,9940681.0,9,25,,1,61684,123.0,human_Cellular/Molecular,1,0,33,Germany,Postdoctoral researcher,10,Male
+164,9940681.0,59,81,,1,69969,111.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Male
+165,9940681.0,34,35,,0,125717,199.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Male
+166,9940681.0,1,1,,1,142580,133.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Male
+167,9940681.0,10,18,,1,48300,14.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,10,Male
+168,9940681.0,1,1,,0,30593,181.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Male
+169,9940681.0,43,67,,1,75973,49.0,human_Development/Plasticity/Repair,1,0,33,Germany,Postdoctoral researcher,10,Male
+170,9940681.0,20,22,,1,82510,100.0,machine_Development/Plasticity/Repair,1,0,33,Germany,Postdoctoral researcher,10,Male
+171,9940693.0,1,16,,0,70758,197.0,human_Neurobiology of Disease,1,0,59,United States,Faculty/Academic staff,22,Male
+172,9940693.0,71,65,,0,101578,119.0,machine_Behavioral/Cognitive,1,0,59,United States,Faculty/Academic staff,22,Male
+173,9940693.0,23,71,,1,34276,151.0,machine_Systems/Circuits,1,0,59,United States,Faculty/Academic staff,22,Male
+174,9940693.0,61,61,,1,68777,187.0,human_Systems/Circuits,1,0,59,United States,Faculty/Academic staff,22,Male
+175,9940693.0,27,71,,1,55426,72.0,human_Systems/Circuits,1,0,59,United States,Faculty/Academic staff,22,Male
+176,9940693.0,13,13,,1,71493,48.0,machine_Cellular/Molecular,1,0,59,United States,Faculty/Academic staff,22,Male
+177,9940693.0,48,42,,1,95744,189.0,human_Behavioral/Cognitive,1,0,59,United States,Faculty/Academic staff,22,Male
+178,9940693.0,2,3,,1,32375,61.0,human_Cellular/Molecular,1,0,59,United States,Faculty/Academic staff,22,Male
+179,9940693.0,5,83,,1,43976,142.0,human_Behavioral/Cognitive,1,0,59,United States,Faculty/Academic staff,22,Male
+189,9940713.0,24,94,,1,78685,112.0,human_Behavioral/Cognitive,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+190,9940713.0,1,17,,1,61581,77.0,human_Cellular/Molecular,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+191,9940713.0,1,3,,1,53627,30.0,machine_Development/Plasticity/Repair,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+192,9940713.0,12,35,,0,125830,158.0,human_Cellular/Molecular,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+193,9940713.0,22,33,,0,41073,6.0,machine_Behavioral/Cognitive,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+194,9940713.0,58,57,,1,113672,159.0,human_Behavioral/Cognitive,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+195,9940713.0,57,54,,1,19642,115.0,human_Systems/Circuits,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+196,9940713.0,22,58,,1,18476,19.0,human_Systems/Circuits,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+197,9940713.0,20,35,,1,56534,190.0,machine_Behavioral/Cognitive,1,0,32,Bulgaria,Postdoctoral researcher,4,Male
+198,9940764.0,6,30,,1,193115,24.0,human_Development/Plasticity/Repair,1,0,25,China,Doctoral student,2.5,Male
+199,9940764.0,54,72,,1,66666,191.0,human_Behavioral/Cognitive,1,0,25,China,Doctoral student,2.5,Male
+200,9940764.0,1,43,,1,77377,96.0,human_Cellular/Molecular,1,0,25,China,Doctoral student,2.5,Male
+201,9940764.0,60,92,,1,174237,125.0,machine_Behavioral/Cognitive,1,0,25,China,Doctoral student,2.5,Male
+202,9940764.0,7,33,clicked,1,227944,161.0,human_Behavioral/Cognitive,1,0,25,China,Doctoral student,2.5,Male
+203,9940764.0,15,42,clicked,0,86517,3.0,human_Neurobiology of Disease,1,0,25,China,Doctoral student,2.5,Male
+204,9940764.0,1,4,clicked,0,145467,181.0,human_Systems/Circuits,1,0,25,China,Doctoral student,2.5,Male
+205,9940764.0,53,97,clicked,0,80346,9.0,machine_Behavioral/Cognitive,1,0,25,China,Doctoral student,2.5,Male
+206,9940764.0,71,100,clicked,1,111270,5.0,machine_Behavioral/Cognitive,1,0,25,China,Doctoral student,2.5,Male
+207,9940796.0,8,15,,0,160432,103.0,human_Neurobiology of Disease,1,0,25,France,Doctoral student,4,Female
+208,9940796.0,73,76,,1,59217,17.0,human_Systems/Circuits,1,0,25,France,Doctoral student,4,Female
+209,9940796.0,73,90,clicked,1,71034,182.0,machine_Cellular/Molecular,1,0,25,France,Doctoral student,4,Female
+210,9940796.0,15,13,clicked,1,141945,36.0,human_Cellular/Molecular,1,0,25,France,Doctoral student,4,Female
+211,9940796.0,62,83,clicked,1,235414,173.0,machine_Development/Plasticity/Repair,1,0,25,France,Doctoral student,4,Female
+212,9940796.0,72,90,clicked,1,85436,15.0,machine_Behavioral/Cognitive,1,0,25,France,Doctoral student,4,Female
+213,9940796.0,64,88,clicked,0,87327,7.0,human_Behavioral/Cognitive,1,0,25,France,Doctoral student,4,Female
+215,9940796.0,48,85,clicked,0,35062,140.0,human_Neurobiology of Disease,1,0,25,France,Doctoral student,4,Female
+225,9940919.0,29,95,,0,53450,183.0,human_Cellular/Molecular,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+227,9940919.0,33,65,,0,85342,185.0,human_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+228,9940919.0,1,6,,0,155447,6.0,human_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+229,9940919.0,7,19,,0,67085,174.0,human_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+230,9940919.0,3,50,,1,54348,136.0,machine_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+231,9940919.0,1,34,clicked,1,94820,182.0,human_Cellular/Molecular,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+232,9940919.0,6,38,clicked,1,153733,52.0,machine_Cellular/Molecular,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+233,9940919.0,21,18,clicked,1,4377385,107.0,human_Systems/Circuits,1,0,46,United Kingdom,Faculty/Academic staff,25,Male
+234,9940918.0,10,68,,1,73440,140.0,machine_Neurobiology of Disease,1,0,28,Germany,Doctoral student,5,Male
+235,9940918.0,11,33,,1,124912,171.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,5,Male
+236,9940918.0,41,62,,1,145043,10.0,human_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,5,Male
+237,9940918.0,70,83,,1,107883,126.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,5,Male
+238,9940918.0,66,18,,1,83283,57.0,human_Neurobiology of Disease,1,0,28,Germany,Doctoral student,5,Male
+239,9940918.0,11,13,,0,131248,16.0,machine_Systems/Circuits,1,0,28,Germany,Doctoral student,5,Male
+240,9940918.0,21,25,,1,26238,169.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,5,Male
+241,9940918.0,89,79,,1,88981,73.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,5,Male
+242,9940918.0,50,55,,1,78457,148.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,5,Male
+243,9941032.0,14,31,,0,45884,23.0,machine_Systems/Circuits,1,0,28,Ireland {Republic},Doctoral student,5,Female
+244,9941032.0,57,76,,0,31729,37.0,human_Systems/Circuits,1,0,28,Ireland {Republic},Doctoral student,5,Female
+245,9941032.0,4,34,,0,54182,25.0,machine_Development/Plasticity/Repair,1,0,28,Ireland {Republic},Doctoral student,5,Female
+246,9941032.0,40,36,,1,40200,79.0,machine_Behavioral/Cognitive,1,0,28,Ireland {Republic},Doctoral student,5,Female
+247,9941032.0,12,50,,1,29617,163.0,human_Behavioral/Cognitive,1,0,28,Ireland {Republic},Doctoral student,5,Female
+248,9941032.0,47,68,,0,41077,186.0,human_Behavioral/Cognitive,1,0,28,Ireland {Republic},Doctoral student,5,Female
+249,9941032.0,15,17,,1,15130,91.0,human_Neurobiology of Disease,1,0,28,Ireland {Republic},Doctoral student,5,Female
+250,9941032.0,10,19,,0,13581,164.0,human_Systems/Circuits,1,0,28,Ireland {Republic},Doctoral student,5,Female
+251,9941032.0,13,27,,1,23945,132.0,human_Behavioral/Cognitive,1,0,28,Ireland {Republic},Doctoral student,5,Female
+252,9940978.0,25,58,,1,157274,128.0,human_Behavioral/Cognitive,1,0,25,China,Doctoral student,4,Male
+253,9940978.0,37,36,,0,252117,64.0,human_Behavioral/Cognitive,1,0,25,China,Doctoral student,4,Male
+254,9940978.0,2,3,,1,149407,96.0,machine_Cellular/Molecular,1,0,25,China,Doctoral student,4,Male
+255,9940978.0,2,3,,1,40524,67.0,human_Neurobiology of Disease,1,0,25,China,Doctoral student,4,Male
+256,9940978.0,23,59,,0,223056,83.0,human_Development/Plasticity/Repair,1,0,25,China,Doctoral student,4,Male
+257,9940978.0,18,10,,1,147604,2.0,human_Systems/Circuits,1,0,25,China,Doctoral student,4,Male
+258,9940978.0,72,73,,1,71072,54.0,machine_Behavioral/Cognitive,1,0,25,China,Doctoral student,4,Male
+259,9940978.0,15,15,,1,66178,65.0,machine_Neurobiology of Disease,1,0,25,China,Doctoral student,4,Male
+260,9940978.0,55,70,clicked,1,888455,153.0,human_Behavioral/Cognitive,1,0,25,China,Doctoral student,4,Male
+261,9941121.0,1,7,,0,191194,86.0,machine_Development/Plasticity/Repair,1,0,64,United States,Faculty/Academic staff,35,Male
+262,9941121.0,1,4,,0,96987,80.0,human_Behavioral/Cognitive,1,0,64,United States,Faculty/Academic staff,35,Male
+263,9941121.0,1,1,,1,93009,29.0,human_Cellular/Molecular,1,0,64,United States,Faculty/Academic staff,35,Male
+264,9941121.0,10,12,,1,74820,10.0,machine_Development/Plasticity/Repair,1,0,64,United States,Faculty/Academic staff,35,Male
+265,9941121.0,1,1,,0,65059,26.0,human_Development/Plasticity/Repair,1,0,64,United States,Faculty/Academic staff,35,Male
+266,9941121.0,1,41,,1,97583,120.0,human_Systems/Circuits,1,0,64,United States,Faculty/Academic staff,35,Male
+267,9941121.0,50,60,,1,76145,154.0,human_Behavioral/Cognitive,1,0,64,United States,Faculty/Academic staff,35,Male
+268,9941121.0,1,12,,1,89565,93.0,machine_Systems/Circuits,1,0,64,United States,Faculty/Academic staff,35,Male
+269,9941121.0,1,15,,1,126530,51.0,human_Development/Plasticity/Repair,1,0,64,United States,Faculty/Academic staff,35,Male
+279,9941351.0,59,78,,0,30556,135.0,machine_Behavioral/Cognitive,1,0,48,Germany,Faculty/Academic staff,23,Male
+280,9941351.0,28,39,,1,31990,90.0,human_Neurobiology of Disease,1,0,48,Germany,Faculty/Academic staff,23,Male
+281,9941351.0,58,66,,1,50306,187.0,machine_Systems/Circuits,1,0,48,Germany,Faculty/Academic staff,23,Male
+282,9941351.0,39,55,,1,21871,122.0,human_Systems/Circuits,1,0,48,Germany,Faculty/Academic staff,23,Male
+283,9941351.0,44,58,,1,49003,34.0,human_Neurobiology of Disease,1,0,48,Germany,Faculty/Academic staff,23,Male
+284,9941351.0,53,63,,0,30756,86.0,human_Development/Plasticity/Repair,1,0,48,Germany,Faculty/Academic staff,23,Male
+285,9941351.0,55,45,,0,24171,175.0,human_Systems/Circuits,1,0,48,Germany,Faculty/Academic staff,23,Male
+286,9941351.0,53,88,,1,47622,165.0,human_Development/Plasticity/Repair,1,0,48,Germany,Faculty/Academic staff,23,Male
+287,9941351.0,54,92,,1,16138,184.0,machine_Behavioral/Cognitive,1,0,48,Germany,Faculty/Academic staff,23,Male
+288,9941348.0,16,64,,0,28358,116.0,human_Behavioral/Cognitive,1,0,46,United States,Faculty/Academic staff,15,Male
+289,9941348.0,59,57,,1,11150,146.0,human_Systems/Circuits,1,0,46,United States,Faculty/Academic staff,15,Male
+290,9941348.0,53,25,,1,13171,15.0,human_Behavioral/Cognitive,1,0,46,United States,Faculty/Academic staff,15,Male
+291,9941348.0,45,60,,1,19353,192.0,machine_Behavioral/Cognitive,1,0,46,United States,Faculty/Academic staff,15,Male
+292,9941348.0,50,50,,1,21579,36.0,machine_Cellular/Molecular,0,0,46,United States,Faculty/Academic staff,15,Male
+293,9941348.0,50,50,,1,11108,178.0,human_Behavioral/Cognitive,0,0,46,United States,Faculty/Academic staff,15,Male
+294,9941348.0,50,50,,1,9632,68.0,human_Neurobiology of Disease,0,0,46,United States,Faculty/Academic staff,15,Male
+295,9941348.0,50,50,,1,15250,25.0,human_Development/Plasticity/Repair,0,0,46,United States,Faculty/Academic staff,15,Male
+296,9941348.0,50,50,,1,15346,47.0,machine_Systems/Circuits,0,0,46,United States,Faculty/Academic staff,15,Male
+297,9941513.0,66,94,,1,91306,187.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,7,Male
+298,9941513.0,4,5,,0,201401,54.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+299,9941513.0,5,21,,1,120341,168.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+300,9941513.0,25,38,,1,86032,59.0,human_Cellular/Molecular,1,0,33,Germany,Postdoctoral researcher,7,Male
+301,9941513.0,1,6,clicked,0,104050,6.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+302,9941513.0,72,97,clicked,1,117320,85.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,7,Male
+303,9941513.0,1,11,clicked,1,79867,182.0,machine_Cellular/Molecular,1,0,33,Germany,Postdoctoral researcher,7,Male
+304,9941513.0,1,100,clicked,1,89566,46.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,7,Male
+305,9941513.0,1,76,clicked,1,79067,10.0,human_Development/Plasticity/Repair,1,0,33,Germany,Postdoctoral researcher,7,Male
+306,9941569.0,5,19,,1,90385,84.0,human_Cellular/Molecular,1,0,28,United States,Doctoral student,10,Female
+307,9941569.0,1,60,,1,41459,131.0,machine_Behavioral/Cognitive,1,0,28,United States,Doctoral student,10,Female
+308,9941569.0,4,64,,1,61297,87.0,human_Systems/Circuits,1,0,28,United States,Doctoral student,10,Female
+309,9941569.0,16,18,,0,82654,18.0,human_Systems/Circuits,1,0,28,United States,Doctoral student,10,Female
+310,9941569.0,8,62,,1,43202,50.0,machine_Cellular/Molecular,1,0,28,United States,Doctoral student,10,Female
+311,9941569.0,59,2,,1,87932,24.0,human_Development/Plasticity/Repair,1,0,28,United States,Doctoral student,10,Female
+312,9941569.0,72,62,,1,44770,184.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,10,Female
+313,9941569.0,5,18,,1,31014,118.0,human_Development/Plasticity/Repair,1,0,28,United States,Doctoral student,10,Female
+314,9941569.0,55,56,,1,109624,190.0,machine_Behavioral/Cognitive,1,0,28,United States,Doctoral student,10,Female
+315,9941803.0,1,50,,1,23437,67.0,human_Neurobiology of Disease,1,0,33,United States,Faculty/Academic staff,11,Female
+316,9941803.0,1,35,,1,40024,186.0,human_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+317,9941803.0,1,75,,0,109993,73.0,human_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+318,9941803.0,1,22,,1,24698,159.0,machine_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+319,9941803.0,1,1,,0,16921,173.0,human_Development/Plasticity/Repair,1,0,33,United States,Faculty/Academic staff,11,Female
+320,9941803.0,1,74,,1,19026,74.0,human_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+321,9941803.0,82,68,,1,29785,13.0,human_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+322,9941803.0,67,74,,1,32833,195.0,machine_Behavioral/Cognitive,1,0,33,United States,Faculty/Academic staff,11,Female
+323,9941803.0,1,14,,1,29742,48.0,machine_Cellular/Molecular,1,0,33,United States,Faculty/Academic staff,11,Female
+324,9941757.0,50,61,clicked,0,132780,117.0,machine_Behavioral/Cognitive,1,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+325,9941757.0,1,15,clicked,1,142897,52.0,human_Cellular/Molecular,1,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+326,9941757.0,73,79,clicked,0,50740,79.0,human_Behavioral/Cognitive,1,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+327,9941757.0,50,50,clicked,0,81608,198.0,human_Behavioral/Cognitive,0,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+328,9941757.0,50,50,clicked,1,114598,30.0,machine_Development/Plasticity/Repair,0,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+329,9941757.0,50,50,clicked,0,62792,64.0,human_Behavioral/Cognitive,0,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+330,9941757.0,50,50,clicked,1,53005,112.0,human_Behavioral/Cognitive,0,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+331,9941757.0,1,13,clicked,1,114650,133.0,machine_Systems/Circuits,1,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+332,9941757.0,50,50,clicked,1,44812,178.0,human_Behavioral/Cognitive,0,0,52,Canada,Faculty/Academic staff,25,Gender Variant/Non-Conforming
+333,9941954.0,50,76,,1,137811,17.0,machine_Systems/Circuits,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+334,9941954.0,78,55,,1,452003,133.0,human_Systems/Circuits,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+335,9941954.0,41,42,,1,205840,53.0,human_Behavioral/Cognitive,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+336,9941954.0,76,99,,1,132385,100.0,human_Development/Plasticity/Repair,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+337,9941954.0,87,74,,1,299695,45.0,machine_Cellular/Molecular,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+338,9941954.0,50,78,,1,142794,61.0,machine_Cellular/Molecular,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+339,9941954.0,28,65,clicked,0,325192,72.0,human_Systems/Circuits,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+340,9941954.0,25,81,clicked,0,171678,125.0,human_Behavioral/Cognitive,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+341,9941954.0,18,91,clicked,0,85845,137.0,human_Behavioral/Cognitive,1,0,40,United Kingdom,Postdoctoral researcher,15,Male
+342,9942050.0,1,12,,1,40946,46.0,human_Systems/Circuits,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+343,9942050.0,2,7,,0,30731,57.0,machine_Neurobiology of Disease,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+344,9942050.0,92,1,,0,25687,132.0,human_Behavioral/Cognitive,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+345,9942050.0,1,1,,1,14353,138.0,human_Systems/Circuits,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+346,9942050.0,92,34,,1,26442,5.0,machine_Behavioral/Cognitive,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+347,9942050.0,1,1,,1,7950,109.0,human_Systems/Circuits,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+348,9942050.0,31,34,,0,21539,142.0,human_Behavioral/Cognitive,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+349,9942050.0,73,76,,1,25973,174.0,machine_Behavioral/Cognitive,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+350,9942050.0,1,1,,0,14781,139.0,human_Systems/Circuits,1,0,33,Netherlands,Postdoctoral researcher,7,Male
+360,9942127.0,32,25,,1,92021,93.0,machine_Systems/Circuits,1,0,39,United States,Postdoctoral researcher,15,Male
+361,9942127.0,57,60,,0,42457,124.0,human_Systems/Circuits,1,0,39,United States,Postdoctoral researcher,15,Male
+362,9942127.0,10,65,,1,37320,91.0,machine_Neurobiology of Disease,1,0,39,United States,Postdoctoral researcher,15,Male
+363,9942127.0,11,6,,0,49363,66.0,human_Cellular/Molecular,1,0,39,United States,Postdoctoral researcher,15,Male
+364,9942127.0,23,60,,1,40497,90.0,human_Neurobiology of Disease,1,0,39,United States,Postdoctoral researcher,15,Male
+365,9942127.0,32,48,,1,80532,60.0,human_Cellular/Molecular,1,0,39,United States,Postdoctoral researcher,15,Male
+366,9942127.0,44,25,,0,53329,157.0,human_Systems/Circuits,1,0,39,United States,Postdoctoral researcher,15,Male
+367,9942127.0,33,30,,0,63677,193.0,human_Behavioral/Cognitive,1,0,39,United States,Postdoctoral researcher,15,Male
+368,9942127.0,1,1,,0,22229,179.0,machine_Neurobiology of Disease,1,0,39,United States,Postdoctoral researcher,15,Male
+369,9942166.0,15,94,,1,101899,64.0,machine_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+370,9942166.0,1,27,,0,119818,30.0,human_Development/Plasticity/Repair,1,0,23,United Kingdom,Doctoral student,2,Male
+371,9942166.0,1,86,,1,65855,196.0,human_Development/Plasticity/Repair,1,0,23,United Kingdom,Doctoral student,2,Male
+372,9942166.0,1,30,,0,78358,92.0,human_Development/Plasticity/Repair,1,0,23,United Kingdom,Doctoral student,2,Male
+373,9942166.0,8,93,,1,59761,41.0,machine_Neurobiology of Disease,1,0,23,United Kingdom,Doctoral student,2,Male
+374,9942166.0,1,28,,0,54006,188.0,human_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,2,Male
+375,9942166.0,5,90,,1,45089,181.0,machine_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,2,Male
+376,9942166.0,1,11,,1,104543,177.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+377,9942166.0,1,100,,1,46373,151.0,human_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,2,Male
+378,9942272.0,5,19,,0,69826,76.0,human_Behavioral/Cognitive,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+379,9942272.0,1,3,,1,44549,167.0,human_Behavioral/Cognitive,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+380,9942272.0,1,63,,0,64626,96.0,machine_Cellular/Molecular,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+381,9942272.0,3,58,,1,22658,166.0,human_Systems/Circuits,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+382,9942272.0,1,42,,0,84195,50.0,human_Cellular/Molecular,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+383,9942272.0,1,66,,1,50478,176.0,human_Neurobiology of Disease,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+384,9942272.0,1,89,clicked,0,233926,9.0,machine_Behavioral/Cognitive,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+385,9942272.0,10,31,clicked,1,88462,54.0,machine_Behavioral/Cognitive,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+386,9942272.0,3,69,clicked,1,64712,121.0,human_Neurobiology of Disease,1,0,30,Netherlands,Postdoctoral researcher,6,Female
+387,9942350.0,27,67,,1,58536,183.0,machine_Cellular/Molecular,1,0,29,United States,Doctoral student,8,Male
+388,9942350.0,65,91,,1,58099,47.0,machine_Systems/Circuits,1,0,29,United States,Doctoral student,8,Male
+389,9942350.0,45,58,,0,70875,5.0,human_Behavioral/Cognitive,1,0,29,United States,Doctoral student,8,Male
+390,9942350.0,20,36,clicked,0,143761,73.0,machine_Behavioral/Cognitive,1,0,29,United States,Doctoral student,8,Male
+391,9942350.0,14,34,clicked,1,30428,200.0,human_Behavioral/Cognitive,1,0,29,United States,Doctoral student,8,Male
+392,9942350.0,5,17,clicked,1,18370,94.0,human_Cellular/Molecular,1,0,29,United States,Doctoral student,8,Male
+393,9942350.0,63,68,clicked,1,36144,68.0,human_Neurobiology of Disease,1,0,29,United States,Doctoral student,8,Male
+394,9942350.0,7,38,clicked,0,33120,25.0,human_Development/Plasticity/Repair,1,0,29,United States,Doctoral student,8,Male
+395,9942350.0,1,11,clicked,1,32265,129.0,human_Systems/Circuits,1,0,29,United States,Doctoral student,8,Male
+396,9942510.0,6,12,,1,106467,123.0,human_Cellular/Molecular,1,0,29,United States,Postdoctoral researcher,9,Male
+397,9942510.0,62,70,,0,50323,79.0,machine_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,9,Male
+398,9942510.0,53,61,,1,81416,4.0,machine_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,9,Male
+399,9942510.0,68,72,,1,103089,105.0,human_Systems/Circuits,1,0,29,United States,Postdoctoral researcher,9,Male
+400,9942510.0,46,46,,1,65300,148.0,machine_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,9,Male
+401,9942510.0,50,50,clicked,0,96250,126.0,human_Systems/Circuits,0,0,29,United States,Postdoctoral researcher,9,Male
+402,9942510.0,50,50,clicked,1,41300,146.0,human_Systems/Circuits,0,0,29,United States,Postdoctoral researcher,9,Male
+403,9942510.0,60,69,clicked,0,41567,127.0,human_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,9,Male
+404,9942510.0,9,57,clicked,1,72855,34.0,human_Neurobiology of Disease,1,0,29,United States,Postdoctoral researcher,9,Male
+414,9943182.0,26,84,,1,60310,19.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Male
+415,9943182.0,43,63,,1,41772,3.0,human_Neurobiology of Disease,1,0,40,Germany,Research scientist,14,Male
+416,9943182.0,24,54,,1,43683,115.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Male
+417,9943182.0,54,82,,1,76862,36.0,human_Cellular/Molecular,1,0,40,Germany,Research scientist,14,Male
+418,9943182.0,60,25,,0,72768,23.0,machine_Systems/Circuits,1,0,40,Germany,Research scientist,14,Male
+419,9943182.0,17,11,,0,54576,175.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Male
+420,9943182.0,74,37,,1,39036,35.0,human_Cellular/Molecular,1,0,40,Germany,Research scientist,14,Male
+421,9943182.0,22,65,,1,28713,192.0,machine_Behavioral/Cognitive,1,0,40,Germany,Research scientist,14,Male
+422,9943182.0,10,82,,1,25725,65.0,machine_Neurobiology of Disease,1,0,40,Germany,Research scientist,14,Male
+423,9943226.0,6,24,,1,65335,71.0,human_Neurobiology of Disease,1,0,33,United Kingdom,Research scientist,8,Female
+424,9943226.0,10,26,,1,47275,83.0,machine_Development/Plasticity/Repair,1,0,33,United Kingdom,Research scientist,8,Female
+425,9943226.0,35,14,,0,89972,58.0,machine_Neurobiology of Disease,1,0,33,United Kingdom,Research scientist,8,Female
+426,9943226.0,63,75,,1,49658,195.0,human_Behavioral/Cognitive,1,0,33,United Kingdom,Research scientist,8,Female
+427,9943226.0,57,72,,1,63423,28.0,human_Development/Plasticity/Repair,1,0,33,United Kingdom,Research scientist,8,Female
+428,9943226.0,27,27,,1,58200,7.0,human_Behavioral/Cognitive,1,0,33,United Kingdom,Research scientist,8,Female
+429,9943226.0,61,59,,0,100518,113.0,human_Systems/Circuits,1,0,33,United Kingdom,Research scientist,8,Female
+430,9943226.0,32,77,,0,50707,69.0,machine_Systems/Circuits,1,0,33,United Kingdom,Research scientist,8,Female
+431,9943226.0,77,72,,1,46494,162.0,human_Behavioral/Cognitive,1,0,33,United Kingdom,Research scientist,8,Female
+432,9943528.0,24,19,,0,94145,62.0,human_Behavioral/Cognitive,1,0,44,Italy,Faculty/Academic staff,21,Male
+433,9943528.0,5,1,,1,141000,169.0,human_Behavioral/Cognitive,1,0,44,Italy,Faculty/Academic staff,21,Male
+434,9943528.0,11,8,,1,111809,41.0,human_Neurobiology of Disease,1,0,44,Italy,Faculty/Academic staff,21,Male
+435,9943528.0,4,9,,0,120514,43.0,human_Behavioral/Cognitive,1,0,44,Italy,Faculty/Academic staff,21,Male
+436,9943528.0,54,58,,1,112216,1.0,machine_Behavioral/Cognitive,1,0,44,Italy,Faculty/Academic staff,21,Male
+437,9943528.0,55,56,,1,70709,42.0,human_Neurobiology of Disease,1,0,44,Italy,Faculty/Academic staff,21,Male
+438,9943528.0,54,58,,1,86588,120.0,human_Systems/Circuits,1,0,44,Italy,Faculty/Academic staff,21,Male
+440,9943528.0,1,6,clicked,1,72227,82.0,machine_Neurobiology of Disease,1,0,44,Italy,Faculty/Academic staff,21,Male
+441,9943570.0,14,50,,1,140384,7.0,human_Behavioral/Cognitive,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+442,9943570.0,2,50,,1,90587,11.0,human_Systems/Circuits,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+443,9943570.0,6,29,,0,136451,181.0,human_Systems/Circuits,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+444,9943570.0,1,43,,1,145870,50.0,machine_Cellular/Molecular,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+445,9943570.0,1,23,,0,109541,157.0,human_Systems/Circuits,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+446,9943570.0,1,50,,1,163743,100.0,machine_Development/Plasticity/Repair,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+447,9943570.0,13,31,,1,89934,162.0,human_Behavioral/Cognitive,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+448,9943570.0,1,50,,0,172944,82.0,machine_Neurobiology of Disease,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+449,9943570.0,1,78,,1,51723,164.0,human_Systems/Circuits,1,0,48,United States,Faculty/Academic staff,16,Prefer Not to Answer
+450,9943653.0,20,17,,1,71984,138.0,human_Systems/Circuits,1,0,37,Austria,Doctoral student,3,Male
+451,9943653.0,50,79,,1,61501,55.0,human_Behavioral/Cognitive,1,0,37,Austria,Doctoral student,3,Male
+452,9943653.0,24,22,,1,47317,73.0,machine_Behavioral/Cognitive,1,0,37,Austria,Doctoral student,3,Male
+453,9943653.0,28,24,,0,98961,121.0,machine_Neurobiology of Disease,1,0,37,Austria,Doctoral student,3,Male
+454,9943653.0,15,16,,0,69366,150.0,human_Behavioral/Cognitive,1,0,37,Austria,Doctoral student,3,Male
+455,9943653.0,30,28,,0,38402,190.0,human_Behavioral/Cognitive,1,0,37,Austria,Doctoral student,3,Male
+456,9943653.0,50,50,,1,52697,69.0,human_Systems/Circuits,0,0,37,Austria,Doctoral student,3,Male
+457,9943653.0,21,50,,1,11470,153.0,human_Behavioral/Cognitive,1,0,37,Austria,Doctoral student,3,Male
+458,9943653.0,1,1,,1,18591,139.0,machine_Systems/Circuits,1,0,37,Austria,Doctoral student,3,Male
+459,9943760.0,1,50,,0,206631,113.0,human_Systems/Circuits,1,0,38,Switzerland,Predoctoral student,15,Female
+460,9943760.0,50,50,,1,188810,120.0,machine_Systems/Circuits,0,0,38,Switzerland,Predoctoral student,15,Female
+461,9943760.0,1,30,clicked,1,462705,194.0,human_Behavioral/Cognitive,1,0,38,Switzerland,Predoctoral student,15,Female
+462,9943760.0,1,50,clicked,1,125720,178.0,human_Behavioral/Cognitive,1,0,38,Switzerland,Predoctoral student,15,Female
+463,9943760.0,50,1,clicked,0,124941,64.0,machine_Behavioral/Cognitive,1,0,38,Switzerland,Predoctoral student,15,Female
+464,9943760.0,1,1,clicked,0,39429,58.0,human_Neurobiology of Disease,1,0,38,Switzerland,Predoctoral student,15,Female
+465,9943760.0,1,22,clicked,1,194689,59.0,human_Cellular/Molecular,1,0,38,Switzerland,Predoctoral student,15,Female
+466,9943760.0,1,50,clicked,1,144584,27.0,human_Cellular/Molecular,1,0,38,Switzerland,Predoctoral student,15,Female
+467,9943760.0,1,55,clicked,1,123422,46.0,machine_Systems/Circuits,1,0,38,Switzerland,Predoctoral student,15,Female
+468,9943930.0,4,19,,0,255473,77.0,human_Cellular/Molecular,1,0,39,Denmark,Faculty/Academic staff,10,Male
+469,9943930.0,7,80,clicked,0,190293,177.0,human_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+470,9943930.0,7,38,clicked,0,56375,96.0,human_Cellular/Molecular,1,0,39,Denmark,Faculty/Academic staff,10,Male
+471,9943930.0,9,12,clicked,1,72702,182.0,human_Cellular/Molecular,1,0,39,Denmark,Faculty/Academic staff,10,Male
+472,9943930.0,41,39,clicked,1,126067,116.0,machine_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+473,9943930.0,59,75,clicked,0,133728,159.0,machine_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+474,9943930.0,64,90,clicked,1,34683,112.0,human_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+475,9943930.0,64,82,clicked,0,121319,144.0,human_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+476,9943930.0,11,31,clicked,0,63615,4.0,machine_Behavioral/Cognitive,1,0,39,Denmark,Faculty/Academic staff,10,Male
+477,9943941.0,1,12,,0,73876,108.0,machine_Systems/Circuits,1,0,25,United States,Doctoral student,5,Female
+478,9943941.0,5,16,,0,86782,129.0,human_Systems/Circuits,1,0,25,United States,Doctoral student,5,Female
+479,9943941.0,33,60,,1,22298,121.0,human_Neurobiology of Disease,1,0,25,United States,Doctoral student,5,Female
+480,9943941.0,23,40,,0,33800,152.0,human_Development/Plasticity/Repair,1,0,25,United States,Doctoral student,5,Female
+481,9943941.0,41,96,,0,53482,89.0,human_Systems/Circuits,1,0,25,United States,Doctoral student,5,Female
+482,9943941.0,7,15,,1,7416,59.0,machine_Cellular/Molecular,1,0,25,United States,Doctoral student,5,Female
+483,9943941.0,10,38,,1,26290,198.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,5,Female
+484,9943941.0,25,100,,1,39372,119.0,machine_Behavioral/Cognitive,1,0,25,United States,Doctoral student,5,Female
+485,9943941.0,29,69,,1,23717,149.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,5,Female
+486,9944291.0,59,77,,0,181425,130.0,human_Development/Plasticity/Repair,1,0,33,Turkey,Predoctoral student,0,Male
+487,9944291.0,32,33,clicked,0,154910,174.0,human_Behavioral/Cognitive,1,0,33,Turkey,Predoctoral student,0,Male
+488,9944291.0,40,31,clicked,1,167476,25.0,machine_Development/Plasticity/Repair,1,0,33,Turkey,Predoctoral student,0,Male
+489,9944291.0,54,81,clicked,1,185644,26.0,human_Development/Plasticity/Repair,1,0,33,Turkey,Predoctoral student,0,Male
+490,9944291.0,59,37,clicked,0,260622,123.0,human_Cellular/Molecular,1,0,33,Turkey,Predoctoral student,0,Male
+491,9944291.0,27,28,clicked,1,204633,60.0,human_Cellular/Molecular,1,0,33,Turkey,Predoctoral student,0,Male
+492,9944291.0,33,62,clicked,1,252901,196.0,human_Development/Plasticity/Repair,1,0,33,Turkey,Predoctoral student,0,Male
+493,9944291.0,61,88,clicked,1,188516,9.0,machine_Behavioral/Cognitive,1,0,33,Turkey,Predoctoral student,0,Male
+494,9944291.0,66,95,clicked,1,119352,54.0,machine_Behavioral/Cognitive,1,0,33,Turkey,Predoctoral student,0,Male
+495,9944376.0,8,100,,1,64057,151.0,machine_Systems/Circuits,1,0,25,United States,Predoctoral student,1,Female
+496,9944376.0,20,100,clicked,1,142471,120.0,human_Systems/Circuits,1,0,25,United States,Predoctoral student,1,Female
+497,9944376.0,22,68,clicked,1,243426,189.0,human_Behavioral/Cognitive,1,0,25,United States,Predoctoral student,1,Female
+498,9944376.0,17,85,clicked,0,129955,6.0,machine_Behavioral/Cognitive,1,0,25,United States,Predoctoral student,1,Female
+499,9944376.0,27,55,clicked,1,189998,1.0,machine_Behavioral/Cognitive,1,0,25,United States,Predoctoral student,1,Female
+500,9944376.0,25,50,clicked,1,109782,75.0,human_Systems/Circuits,1,0,25,United States,Predoctoral student,1,Female
+501,9944376.0,23,50,clicked,1,100443,127.0,human_Behavioral/Cognitive,1,0,25,United States,Predoctoral student,1,Female
+502,9944376.0,38,100,clicked,1,83131,116.0,human_Behavioral/Cognitive,1,0,25,United States,Predoctoral student,1,Female
+503,9944376.0,30,66,clicked,0,161381,33.0,human_Cellular/Molecular,1,0,25,United States,Predoctoral student,1,Female
+504,9944466.0,1,20,,1,108161,156.0,human_Systems/Circuits,1,0,27,United States,Doctoral student,3,Male
+505,9944466.0,1,27,,1,54801,172.0,human_Systems/Circuits,1,0,27,United States,Doctoral student,3,Male
+506,9944466.0,1,76,,1,60801,200.0,human_Behavioral/Cognitive,1,0,27,United States,Doctoral student,3,Male
+507,9944466.0,50,77,,1,44017,159.0,human_Behavioral/Cognitive,1,0,27,United States,Doctoral student,3,Male
+508,9944466.0,73,86,,1,71944,154.0,human_Behavioral/Cognitive,1,0,27,United States,Doctoral student,3,Male
+509,9944466.0,21,25,,0,42409,191.0,human_Behavioral/Cognitive,1,0,27,United States,Doctoral student,3,Male
+510,9944466.0,1,11,,1,21589,179.0,machine_Neurobiology of Disease,1,0,27,United States,Doctoral student,3,Male
+511,9944466.0,1,12,,0,74921,52.0,machine_Cellular/Molecular,1,0,27,United States,Doctoral student,3,Male
+512,9944466.0,1,18,,1,15762,65.0,machine_Neurobiology of Disease,1,0,27,United States,Doctoral student,3,Male
+513,9944502.0,1,8,,0,111452,141.0,human_Development/Plasticity/Repair,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+514,9944502.0,6,82,,1,27316,171.0,machine_Systems/Circuits,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+515,9944502.0,96,98,,1,17792,56.0,human_Behavioral/Cognitive,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+517,9944502.0,72,95,,1,33932,143.0,human_Behavioral/Cognitive,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+518,9944502.0,5,31,,0,37353,183.0,machine_Cellular/Molecular,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+519,9944502.0,1,1,,1,26983,86.0,human_Development/Plasticity/Repair,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+520,9944502.0,3,35,,0,57855,36.0,human_Cellular/Molecular,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+521,9944502.0,23,27,,1,54506,79.0,machine_Behavioral/Cognitive,1,0,40,United States,Faculty/Academic staff,15,Prefer Not to Answer
+531,9945025.0,71,100,,0,5963,163.0,human_Behavioral/Cognitive,1,0,23,United States,Doctoral student,3,Male
+532,9945025.0,1,27,,1,11579,192.0,machine_Behavioral/Cognitive,1,0,23,United States,Doctoral student,3,Male
+533,9945025.0,50,15,,1,12566,185.0,human_Behavioral/Cognitive,1,0,23,United States,Doctoral student,3,Male
+534,9945025.0,73,70,,1,17595,14.0,machine_Behavioral/Cognitive,1,0,23,United States,Doctoral student,3,Male
+536,9945025.0,13,17,,1,6770,190.0,machine_Behavioral/Cognitive,1,0,23,United States,Doctoral student,3,Male
+537,9945025.0,7,1,,0,10071,110.0,human_Neurobiology of Disease,1,0,23,United States,Doctoral student,3,Male
+538,9945025.0,4,100,,0,7519,126.0,human_Systems/Circuits,1,0,23,United States,Doctoral student,3,Male
+539,9945025.0,1,1,,1,13597,183.0,human_Cellular/Molecular,1,0,23,United States,Doctoral student,3,Male
+540,9945026.0,18,77,,1,94068,38.0,machine_Systems/Circuits,1,0,36,United States,Doctoral student,5,Male
+541,9945026.0,50,50,,0,110035,51.0,human_Development/Plasticity/Repair,0,0,36,United States,Doctoral student,5,Male
+542,9945026.0,27,78,,0,23287,50.0,human_Cellular/Molecular,1,0,36,United States,Doctoral student,5,Male
+543,9945026.0,50,50,,1,105167,93.0,human_Systems/Circuits,0,0,36,United States,Doctoral student,5,Male
+544,9945026.0,50,50,,1,16605,146.0,human_Systems/Circuits,0,0,36,United States,Doctoral student,5,Male
+545,9945026.0,50,50,,1,15666,15.0,machine_Behavioral/Cognitive,0,0,36,United States,Doctoral student,5,Male
+546,9945026.0,50,50,,0,183811,153.0,machine_Behavioral/Cognitive,0,0,36,United States,Doctoral student,5,Male
+547,9945026.0,15,23,,1,173613,66.0,human_Cellular/Molecular,1,0,36,United States,Doctoral student,5,Male
+548,9945026.0,50,27,,1,71555,8.0,human_Behavioral/Cognitive,1,0,36,United States,Doctoral student,5,Male
+549,9945148.0,1,9,,1,29871,188.0,human_Systems/Circuits,1,0,36,Poland,Postdoctoral researcher,1,Male
+550,9945148.0,13,19,,0,45749,13.0,human_Behavioral/Cognitive,1,0,36,Poland,Postdoctoral researcher,1,Male
+551,9945148.0,9,100,,1,21451,19.0,human_Systems/Circuits,1,0,36,Poland,Postdoctoral researcher,1,Male
+552,9945148.0,2,21,clicked,1,99083,111.0,human_Systems/Circuits,1,0,36,Poland,Postdoctoral researcher,1,Male
+553,9945148.0,15,35,clicked,1,56740,128.0,human_Behavioral/Cognitive,1,0,36,Poland,Postdoctoral researcher,1,Male
+554,9945148.0,8,75,clicked,0,59980,148.0,human_Behavioral/Cognitive,1,0,36,Poland,Postdoctoral researcher,1,Male
+555,9945148.0,1,42,clicked,0,62588,45.0,machine_Cellular/Molecular,1,0,36,Poland,Postdoctoral researcher,1,Male
+556,9945148.0,29,78,clicked,1,98305,135.0,machine_Behavioral/Cognitive,1,0,36,Poland,Postdoctoral researcher,1,Male
+557,9945148.0,1,16,clicked,1,27806,30.0,machine_Development/Plasticity/Repair,1,0,36,Poland,Postdoctoral researcher,1,Male
+558,9945515.0,81,35,,1,79740,174.0,machine_Behavioral/Cognitive,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+559,9945515.0,55,62,,1,74520,125.0,machine_Behavioral/Cognitive,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+560,9945515.0,42,14,,1,102780,16.0,human_Systems/Circuits,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+561,9945515.0,47,48,,1,86739,144.0,machine_Behavioral/Cognitive,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+562,9945515.0,21,55,,0,97191,171.0,human_Systems/Circuits,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+563,9945515.0,46,42,,1,71160,168.0,human_Behavioral/Cognitive,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+564,9945515.0,4,12,,1,57249,176.0,human_Neurobiology of Disease,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+565,9945515.0,31,58,,0,38197,199.0,human_Systems/Circuits,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+566,9945515.0,24,43,,1,46720,38.0,human_Systems/Circuits,1,0,47,United Kingdom,Faculty/Academic staff,16,Male
+567,9945679.0,16,18,,0,121226,23.0,machine_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+568,9945679.0,62,71,,0,65644,199.0,human_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+569,9945679.0,2,4,,0,27519,21.0,human_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+570,9945679.0,76,75,,1,39189,184.0,human_Behavioral/Cognitive,1,0,32,Germany,Doctoral student,5,Female
+571,9945679.0,9,25,,1,33726,157.0,human_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+572,9945679.0,74,78,,0,82061,190.0,machine_Behavioral/Cognitive,1,0,32,Germany,Doctoral student,5,Female
+573,9945679.0,64,75,,1,25984,156.0,machine_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+574,9945679.0,67,75,,0,61660,41.0,human_Neurobiology of Disease,1,0,32,Germany,Doctoral student,5,Female
+575,9945679.0,3,4,,1,15072,106.0,human_Systems/Circuits,1,0,32,Germany,Doctoral student,5,Female
+585,9945839.0,15,37,,0,290350,66.0,human_Cellular/Molecular,1,0,24,United States,Predoctoral student,2,Male
+586,9945839.0,10,46,,1,219905,9.0,machine_Behavioral/Cognitive,1,0,24,United States,Predoctoral student,2,Male
+587,9945839.0,27,31,,0,143566,146.0,human_Systems/Circuits,1,0,24,United States,Predoctoral student,2,Male
+588,9945839.0,35,58,,1,111665,34.0,human_Neurobiology of Disease,1,0,24,United States,Predoctoral student,2,Male
+589,9945839.0,24,79,,1,61275,178.0,human_Behavioral/Cognitive,1,0,24,United States,Predoctoral student,2,Male
+590,9945839.0,34,60,,0,124964,57.0,machine_Neurobiology of Disease,1,0,24,United States,Predoctoral student,2,Male
+591,9945839.0,48,67,,1,128760,91.0,human_Neurobiology of Disease,1,0,24,United States,Predoctoral student,2,Male
+592,9945839.0,29,43,,1,71911,130.0,human_Development/Plasticity/Repair,1,0,24,United States,Predoctoral student,2,Male
+593,9945839.0,35,26,,1,342732,54.0,machine_Behavioral/Cognitive,1,0,24,United States,Predoctoral student,2,Male
+594,9945842.0,20,19,,0,112078,20.0,machine_Systems/Circuits,1,0,26,Japan,Predoctoral student,2,Male
+595,9945842.0,19,63,,1,62888,64.0,human_Behavioral/Cognitive,1,0,26,Japan,Predoctoral student,2,Male
+596,9945842.0,24,20,,0,102833,190.0,human_Behavioral/Cognitive,1,0,26,Japan,Predoctoral student,2,Male
+597,9945842.0,27,51,,1,59029,66.0,machine_Cellular/Molecular,1,0,26,Japan,Predoctoral student,2,Male
+598,9945842.0,8,30,clicked,1,47026,83.0,machine_Development/Plasticity/Repair,1,0,26,Japan,Predoctoral student,2,Male
+599,9945842.0,18,71,clicked,1,55335,19.0,human_Systems/Circuits,1,0,26,Japan,Predoctoral student,2,Male
+600,9945842.0,16,24,clicked,0,40579,183.0,human_Cellular/Molecular,1,0,26,Japan,Predoctoral student,2,Male
+601,9945842.0,19,25,clicked,0,33511,63.0,human_Systems/Circuits,1,0,26,Japan,Predoctoral student,2,Male
+602,9945842.0,13,16,clicked,0,18679,92.0,human_Development/Plasticity/Repair,1,0,26,Japan,Predoctoral student,2,Male
+622,9945927.0,42,61,clicked,1,47899,186.0,human_Behavioral/Cognitive,1,0,26,Australia,Doctoral student,1,Male
+623,9945927.0,37,37,clicked,0,51444,36.0,human_Cellular/Molecular,1,0,26,Australia,Doctoral student,1,Male
+624,9945927.0,21,39,clicked,1,58063,108.0,machine_Systems/Circuits,1,0,26,Australia,Doctoral student,1,Male
+625,9945927.0,1,23,clicked,1,52375,104.0,machine_Development/Plasticity/Repair,1,0,26,Australia,Doctoral student,1,Male
+626,9945927.0,20,33,clicked,1,73672,189.0,human_Behavioral/Cognitive,1,0,26,Australia,Doctoral student,1,Male
+627,9945927.0,23,37,clicked,1,77489,51.0,machine_Development/Plasticity/Repair,1,0,26,Australia,Doctoral student,1,Male
+628,9945927.0,47,65,clicked,1,55584,173.0,human_Development/Plasticity/Repair,1,0,26,Australia,Doctoral student,1,Male
+629,9945927.0,57,77,clicked,1,63814,120.0,human_Systems/Circuits,1,0,26,Australia,Doctoral student,1,Male
+630,9946014.0,38,89,,0,15990,153.0,machine_Behavioral/Cognitive,1,0,53,Australia,Faculty/Academic staff,27,Male
+631,9946014.0,1,8,,1,41191,192.0,human_Behavioral/Cognitive,1,0,53,Australia,Faculty/Academic staff,27,Male
+632,9946014.0,11,21,,1,42323,126.0,human_Systems/Circuits,1,0,53,Australia,Faculty/Academic staff,27,Male
+633,9946014.0,17,42,,1,36425,58.0,machine_Neurobiology of Disease,1,0,53,Australia,Faculty/Academic staff,27,Male
+634,9946014.0,37,39,,0,51909,86.0,machine_Development/Plasticity/Repair,1,0,53,Australia,Faculty/Academic staff,27,Male
+635,9946014.0,40,30,,0,50475,5.0,human_Behavioral/Cognitive,1,0,53,Australia,Faculty/Academic staff,27,Male
+636,9946014.0,31,58,,1,67788,172.0,human_Systems/Circuits,1,0,53,Australia,Faculty/Academic staff,27,Male
+637,9946014.0,7,23,,1,35075,44.0,human_Development/Plasticity/Repair,1,0,53,Australia,Faculty/Academic staff,27,Male
+638,9946014.0,27,44,,0,45524,78.0,human_Behavioral/Cognitive,1,0,53,Australia,Faculty/Academic staff,27,Male
+639,9946778.0,13,31,,1,83947,83.0,human_Development/Plasticity/Repair,1,0,38,France,Research scientist,13,Male
+640,9946778.0,15,84,,1,84046,165.0,human_Development/Plasticity/Repair,1,0,38,France,Research scientist,13,Male
+641,9946778.0,64,89,,1,11538,135.0,machine_Behavioral/Cognitive,1,0,38,France,Research scientist,13,Male
+642,9946778.0,83,66,,1,122851,170.0,human_Systems/Circuits,1,0,38,France,Research scientist,13,Male
+643,9946778.0,15,31,,1,29524,30.0,human_Development/Plasticity/Repair,1,0,38,France,Research scientist,13,Male
+644,9946778.0,19,62,,1,115878,51.0,human_Development/Plasticity/Repair,1,0,38,France,Research scientist,13,Male
+645,9946778.0,28,59,,1,36305,10.0,machine_Development/Plasticity/Repair,1,0,38,France,Research scientist,13,Male
+646,9946778.0,34,57,,1,46379,181.0,machine_Systems/Circuits,1,0,38,France,Research scientist,13,Male
+647,9946778.0,30,75,,1,55288,1.0,human_Behavioral/Cognitive,1,0,38,France,Research scientist,13,Male
+648,9946827.0,28,81,clicked,0,632143,60.0,human_Cellular/Molecular,1,0,30,China,Doctoral student,10,Male
+649,9946827.0,13,14,clicked,1,141631,85.0,human_Behavioral/Cognitive,1,0,30,China,Doctoral student,10,Male
+650,9946827.0,50,85,clicked,0,43572,96.0,machine_Cellular/Molecular,1,0,30,China,Doctoral student,10,Male
+651,9946827.0,10,6,clicked,0,66945,102.0,human_Development/Plasticity/Repair,1,0,30,China,Doctoral student,10,Male
+652,9946827.0,13,13,clicked,0,44199,111.0,human_Systems/Circuits,1,0,30,China,Doctoral student,10,Male
+653,9946827.0,50,50,clicked,0,34176,65.0,human_Neurobiology of Disease,0,0,30,China,Doctoral student,10,Male
+654,9946827.0,50,78,clicked,1,47266,75.0,human_Systems/Circuits,1,0,30,China,Doctoral student,10,Male
+655,9946827.0,50,50,clicked,1,27866,151.0,machine_Systems/Circuits,0,0,30,China,Doctoral student,10,Male
+656,9946827.0,50,50,clicked,0,32533,25.0,machine_Development/Plasticity/Repair,0,0,30,China,Doctoral student,10,Male
+657,9947158.0,5,100,clicked,1,78306,59.0,machine_Cellular/Molecular,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+658,9947158.0,15,13,clicked,1,96108,4.0,machine_Behavioral/Cognitive,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+659,9947158.0,1,8,clicked,0,101908,113.0,human_Systems/Circuits,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+660,9947158.0,1,76,clicked,1,5095195,118.0,human_Development/Plasticity/Repair,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+661,9947158.0,1,59,clicked,1,127186,32.0,human_Cellular/Molecular,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+662,9947158.0,1,50,clicked,1,34995,82.0,machine_Neurobiology of Disease,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+663,9947158.0,1,90,clicked,1,40188,80.0,human_Behavioral/Cognitive,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+664,9947158.0,54,1,clicked,1,124485,62.0,human_Behavioral/Cognitive,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+665,9947158.0,1,1,clicked,0,110264,177.0,human_Behavioral/Cognitive,1,0,32,Switzerland,Postdoctoral researcher,10,Male
+666,9947273.0,1,21,,1,124025,121.0,machine_Neurobiology of Disease,1,0,31,Germany,Postdoctoral researcher,8,Female
+667,9947273.0,40,50,,1,42047,16.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,8,Female
+668,9947273.0,18,36,,0,22613,99.0,machine_Development/Plasticity/Repair,1,0,31,Germany,Postdoctoral researcher,8,Female
+669,9947273.0,22,27,,1,33896,197.0,machine_Neurobiology of Disease,1,0,31,Germany,Postdoctoral researcher,8,Female
+670,9947273.0,67,86,,1,33319,74.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,8,Female
+671,9947273.0,85,37,clicked,1,56700,54.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,8,Female
+672,9947273.0,31,23,clicked,1,31264,95.0,human_Cellular/Molecular,1,0,31,Germany,Postdoctoral researcher,8,Female
+673,9947273.0,26,61,clicked,0,27397,151.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,8,Female
+674,9947273.0,22,74,clicked,0,24979,108.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,8,Female
+675,9947805.0,1,33,,1,220516,134.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,7,Male
+676,9947805.0,1,87,,1,208660,117.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,7,Male
+677,9947805.0,38,76,,1,110998,122.0,machine_Systems/Circuits,1,0,26,Germany,Doctoral student,7,Male
+678,9947805.0,38,69,,1,184258,196.0,human_Development/Plasticity/Repair,1,0,26,Germany,Doctoral student,7,Male
+679,9947805.0,1,29,,1,241920,18.0,machine_Systems/Circuits,1,0,26,Germany,Doctoral student,7,Male
+680,9947805.0,7,69,,1,167445,140.0,human_Neurobiology of Disease,1,0,26,Germany,Doctoral student,7,Male
+681,9947805.0,1,14,,0,209516,57.0,human_Neurobiology of Disease,1,0,26,Germany,Doctoral student,7,Male
+682,9947805.0,25,100,,1,109057,49.0,human_Development/Plasticity/Repair,1,0,26,Germany,Doctoral student,7,Male
+683,9947805.0,1,70,,1,127181,107.0,human_Systems/Circuits,1,0,26,Germany,Doctoral student,7,Male
+684,9947935.0,1,1,,1,179203,52.0,human_Cellular/Molecular,1,0,29,Switzerland,Doctoral student,7,Female
+685,9947935.0,11,12,clicked,0,182891,181.0,human_Systems/Circuits,1,0,29,Switzerland,Doctoral student,7,Female
+686,9947935.0,1,1,clicked,0,42989,179.0,machine_Neurobiology of Disease,1,0,29,Switzerland,Doctoral student,7,Female
+687,9947935.0,30,28,clicked,0,113831,171.0,human_Systems/Circuits,1,0,29,Switzerland,Doctoral student,7,Female
+688,9947935.0,29,28,clicked,0,85665,33.0,human_Cellular/Molecular,1,0,29,Switzerland,Doctoral student,7,Female
+689,9947935.0,1,1,clicked,1,25639,77.0,human_Cellular/Molecular,1,0,29,Switzerland,Doctoral student,7,Female
+690,9947935.0,8,68,clicked,0,88107,46.0,machine_Systems/Circuits,1,0,29,Switzerland,Doctoral student,7,Female
+691,9947935.0,1,14,clicked,1,65325,86.0,human_Development/Plasticity/Repair,1,0,29,Switzerland,Doctoral student,7,Female
+692,9947935.0,1,22,clicked,1,96181,50.0,machine_Cellular/Molecular,1,0,29,Switzerland,Doctoral student,7,Female
+702,9948425.0,63,63,,1,311051,22.0,human_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,1,Female
+703,9948425.0,35,66,,0,148296,114.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,1,Female
+704,9948425.0,58,59,,0,127038,31.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,1,Female
+705,9948425.0,50,50,,1,309242,131.0,machine_Behavioral/Cognitive,0,0,23,United Kingdom,Doctoral student,1,Female
+706,9948425.0,58,66,clicked,1,190875,139.0,human_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,1,Female
+707,9948425.0,10,1,clicked,0,262113,45.0,machine_Cellular/Molecular,1,0,23,United Kingdom,Doctoral student,1,Female
+708,9948425.0,56,57,clicked,1,110246,12.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,1,Female
+709,9948425.0,29,63,clicked,1,238113,100.0,human_Development/Plasticity/Repair,1,0,23,United Kingdom,Doctoral student,1,Female
+710,9948425.0,21,16,clicked,1,119807,149.0,machine_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,1,Female
+711,9949785.0,61,84,,1,264655,155.0,machine_Neurobiology of Disease,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+712,9949785.0,61,93,clicked,1,309869,106.0,machine_Systems/Circuits,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+713,9949785.0,57,64,clicked,0,155761,138.0,human_Systems/Circuits,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+714,9949785.0,29,36,clicked,1,322816,149.0,human_Behavioral/Cognitive,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+715,9949785.0,21,10,clicked,1,168173,68.0,human_Neurobiology of Disease,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+716,9949785.0,50,63,clicked,1,200542,195.0,human_Behavioral/Cognitive,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+717,9949785.0,32,77,clicked,1,266813,150.0,human_Behavioral/Cognitive,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+718,9949785.0,1,66,clicked,1,472707,96.0,human_Cellular/Molecular,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+719,9949785.0,33,83,clicked,1,152661,175.0,machine_Systems/Circuits,1,0,50,United Kingdom,Postdoctoral researcher,23,Male
+720,9949991.0,33,55,,1,84637,100.0,machine_Development/Plasticity/Repair,1,0,25,United Kingdom,Doctoral student,5,Male
+721,9949991.0,32,44,,0,42760,117.0,human_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,5,Male
+722,9949991.0,25,84,,1,39906,3.0,human_Neurobiology of Disease,1,0,25,United Kingdom,Doctoral student,5,Male
+723,9949991.0,38,78,,0,74075,88.0,machine_Neurobiology of Disease,1,0,25,United Kingdom,Doctoral student,5,Male
+724,9949991.0,19,51,,0,74463,195.0,machine_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,5,Male
+725,9949991.0,22,34,,0,106017,174.0,human_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,5,Male
+726,9949991.0,56,100,,1,50116,27.0,human_Cellular/Molecular,1,0,25,United Kingdom,Doctoral student,5,Male
+727,9949991.0,43,65,,1,72379,61.0,human_Cellular/Molecular,1,0,25,United Kingdom,Doctoral student,5,Male
+728,9949991.0,63,61,,1,88937,45.0,human_Cellular/Molecular,1,0,25,United Kingdom,Doctoral student,5,Male
+729,9950029.0,50,50,,0,78747,126.0,human_Systems/Circuits,0,0,57,United States,Faculty/Academic staff,30,Male
+730,9950029.0,73,79,,0,84553,69.0,machine_Systems/Circuits,1,0,57,United States,Faculty/Academic staff,30,Male
+731,9950029.0,50,50,,0,117843,170.0,human_Systems/Circuits,0,0,57,United States,Faculty/Academic staff,30,Male
+732,9950029.0,76,78,,1,111658,121.0,human_Neurobiology of Disease,1,0,57,United States,Faculty/Academic staff,30,Male
+733,9950029.0,63,64,,1,158519,104.0,machine_Development/Plasticity/Repair,1,0,57,United States,Faculty/Academic staff,30,Male
+734,9950029.0,70,72,,1,733852,83.0,human_Development/Plasticity/Repair,1,0,57,United States,Faculty/Academic staff,30,Male
+735,9950029.0,50,50,,1,88946,15.0,human_Behavioral/Cognitive,0,0,57,United States,Faculty/Academic staff,30,Male
+736,9950029.0,78,78,,0,94025,140.0,machine_Neurobiology of Disease,1,0,57,United States,Faculty/Academic staff,30,Male
+737,9950029.0,71,51,,1,106322,136.0,human_Behavioral/Cognitive,1,0,57,United States,Faculty/Academic staff,30,Male
+738,9951059.0,15,36,,0,45049,133.0,human_Systems/Circuits,1,0,34,United States,Postdoctoral researcher,10,Male
+739,9951059.0,17,36,,1,66322,73.0,machine_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+740,9951059.0,16,41,,1,57428,192.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+741,9951059.0,5,55,,0,47474,40.0,human_Neurobiology of Disease,1,0,34,United States,Postdoctoral researcher,10,Male
+742,9951059.0,19,41,,0,75447,4.0,machine_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+743,9951059.0,59,65,,0,71829,193.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+744,9951059.0,23,26,,0,25450,45.0,human_Cellular/Molecular,1,0,34,United States,Postdoctoral researcher,10,Male
+745,9951059.0,89,87,,1,65883,162.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+746,9951059.0,14,34,,1,26478,52.0,machine_Cellular/Molecular,1,0,34,United States,Postdoctoral researcher,10,Male
+747,9951257.0,45,34,,1,242331,51.0,human_Development/Plasticity/Repair,1,0,27,United States,Predoctoral student,9,Female
+748,9951257.0,5,6,,0,847455,2.0,human_Systems/Circuits,1,0,27,United States,Predoctoral student,9,Female
+749,9951257.0,22,36,,1,232357,60.0,human_Cellular/Molecular,1,0,27,United States,Predoctoral student,9,Female
+750,9951257.0,29,43,,0,134398,75.0,human_Systems/Circuits,1,0,27,United States,Predoctoral student,9,Female
+751,9951257.0,13,35,,1,197557,91.0,machine_Neurobiology of Disease,1,0,27,United States,Predoctoral student,9,Female
+752,9951257.0,65,58,,1,229106,125.0,machine_Behavioral/Cognitive,1,0,27,United States,Predoctoral student,9,Female
+753,9951257.0,26,24,,1,137715,78.0,human_Behavioral/Cognitive,1,0,27,United States,Predoctoral student,9,Female
+754,9951257.0,7,8,,0,331997,46.0,machine_Systems/Circuits,1,0,27,United States,Predoctoral student,9,Female
+755,9951257.0,1,1,,0,211649,158.0,human_Cellular/Molecular,1,0,27,United States,Predoctoral student,9,Female
+756,9952254.0,25,36,,1,39460,14.0,machine_Behavioral/Cognitive,1,0,39,Germany,Faculty/Academic staff,12,Male
+757,9952254.0,61,82,,1,55970,98.0,human_Development/Plasticity/Repair,1,0,39,Germany,Faculty/Academic staff,12,Male
+758,9952254.0,50,39,,0,54203,183.0,machine_Cellular/Molecular,1,0,39,Germany,Faculty/Academic staff,12,Male
+759,9952254.0,33,38,,0,63776,58.0,machine_Neurobiology of Disease,1,0,39,Germany,Faculty/Academic staff,12,Male
+760,9952254.0,21,33,,1,74211,8.0,human_Behavioral/Cognitive,1,0,39,Germany,Faculty/Academic staff,12,Male
+761,9952254.0,30,30,,0,51939,190.0,human_Behavioral/Cognitive,1,0,39,Germany,Faculty/Academic staff,12,Male
+762,9952254.0,36,69,,0,48138,22.0,human_Systems/Circuits,1,0,39,Germany,Faculty/Academic staff,12,Male
+763,9952254.0,41,70,,1,47720,25.0,human_Development/Plasticity/Repair,1,0,39,Germany,Faculty/Academic staff,12,Male
+764,9952254.0,39,34,,1,41277,178.0,human_Behavioral/Cognitive,1,0,39,Germany,Faculty/Academic staff,12,Male
+765,9952745.0,60,60,,0,208883,57.0,human_Neurobiology of Disease,1,0,31,Australia,Postdoctoral researcher,8,Male
+766,9952745.0,38,70,,0,59675,137.0,human_Behavioral/Cognitive,1,0,31,Australia,Postdoctoral researcher,8,Male
+767,9952745.0,7,20,clicked,1,138687,196.0,human_Development/Plasticity/Repair,1,0,31,Australia,Postdoctoral researcher,8,Male
+768,9952745.0,24,28,clicked,0,106125,153.0,machine_Behavioral/Cognitive,1,0,31,Australia,Postdoctoral researcher,8,Male
+769,9952745.0,31,50,clicked,1,55826,162.0,machine_Behavioral/Cognitive,1,0,31,Australia,Postdoctoral researcher,8,Male
+770,9952745.0,9,62,clicked,1,138844,141.0,human_Development/Plasticity/Repair,1,0,31,Australia,Postdoctoral researcher,8,Male
+771,9952745.0,21,67,clicked,1,91195,15.0,machine_Behavioral/Cognitive,1,0,31,Australia,Postdoctoral researcher,8,Male
+772,9952745.0,4,16,clicked,1,428672,104.0,human_Development/Plasticity/Repair,1,0,31,Australia,Postdoctoral researcher,8,Male
+773,9952745.0,56,72,clicked,1,56781,111.0,human_Systems/Circuits,1,0,31,Australia,Postdoctoral researcher,8,Male
+774,9952989.0,10,34,,1,147290,189.0,human_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,4,Female
+775,9952989.0,41,67,,0,134308,120.0,human_Systems/Circuits,1,0,25,United Kingdom,Doctoral student,4,Female
+776,9952989.0,1,39,,0,160663,161.0,human_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,4,Female
+777,9952989.0,1,42,,0,96835,50.0,human_Cellular/Molecular,1,0,25,United Kingdom,Doctoral student,4,Female
+778,9952989.0,1,12,,0,199131,92.0,human_Development/Plasticity/Repair,1,0,25,United Kingdom,Doctoral student,4,Female
+779,9952989.0,1,43,,0,206981,20.0,machine_Systems/Circuits,1,0,25,United Kingdom,Doctoral student,4,Female
+780,9952989.0,50,50,,1,275358,73.0,human_Behavioral/Cognitive,0,0,25,United Kingdom,Doctoral student,4,Female
+781,9952989.0,40,42,,0,87046,195.0,machine_Behavioral/Cognitive,1,0,25,United Kingdom,Doctoral student,4,Female
+782,9952989.0,1,65,,1,101063,48.0,machine_Cellular/Molecular,1,0,25,United Kingdom,Doctoral student,4,Female
+783,9953521.0,50,70,,0,31526,171.0,human_Systems/Circuits,1,0,50,China,Faculty/Academic staff,30,Male
+784,9953521.0,56,76,,0,35874,156.0,human_Systems/Circuits,1,0,50,China,Faculty/Academic staff,30,Male
+785,9953521.0,80,86,,1,40541,117.0,human_Behavioral/Cognitive,1,0,50,China,Faculty/Academic staff,30,Male
+786,9953521.0,60,72,,1,74124,69.0,machine_Systems/Circuits,1,0,50,China,Faculty/Academic staff,30,Male
+787,9953521.0,50,78,,1,99787,98.0,machine_Development/Plasticity/Repair,1,0,50,China,Faculty/Academic staff,30,Male
+788,9953521.0,1,1,clicked,1,742574,82.0,machine_Neurobiology of Disease,1,0,50,China,Faculty/Academic staff,30,Male
+789,9953521.0,67,84,clicked,1,17389,122.0,human_Systems/Circuits,1,0,50,China,Faculty/Academic staff,30,Male
+790,9953521.0,27,1,clicked,0,42848,10.0,human_Development/Plasticity/Repair,1,0,50,China,Faculty/Academic staff,30,Male
+791,9953521.0,50,50,clicked,0,60697,47.0,human_Systems/Circuits,0,0,50,China,Faculty/Academic staff,30,Male
+792,9953699.0,63,90,,0,217431,187.0,human_Systems/Circuits,1,0,35,China,Faculty/Academic staff,8,Male
+793,9953699.0,7,25,,0,150629,23.0,human_Systems/Circuits,1,0,35,China,Faculty/Academic staff,8,Male
+794,9953699.0,17,52,,1,54023,50.0,machine_Cellular/Molecular,1,0,35,China,Faculty/Academic staff,8,Male
+795,9953699.0,8,45,,0,348325,149.0,human_Behavioral/Cognitive,1,0,35,China,Faculty/Academic staff,8,Male
+796,9953699.0,7,31,,1,36603,103.0,human_Neurobiology of Disease,1,0,35,China,Faculty/Academic staff,8,Male
+797,9953699.0,6,52,,0,60676,188.0,human_Systems/Circuits,1,0,35,China,Faculty/Academic staff,8,Male
+798,9953699.0,6,37,,1,41456,29.0,human_Cellular/Molecular,1,0,35,China,Faculty/Academic staff,8,Male
+799,9953699.0,1,23,,1,74855,59.0,machine_Cellular/Molecular,1,0,35,China,Faculty/Academic staff,8,Male
+800,9953699.0,43,34,,0,117762,51.0,machine_Development/Plasticity/Repair,1,0,35,China,Faculty/Academic staff,8,Male
+810,9955883.0,5,71,,1,65487,17.0,human_Systems/Circuits,1,0,39,United States,Faculty/Academic staff,18,Male
+811,9955883.0,29,54,,0,69939,137.0,machine_Behavioral/Cognitive,1,0,39,United States,Faculty/Academic staff,18,Male
+812,9955883.0,54,69,,1,114457,112.0,machine_Behavioral/Cognitive,1,0,39,United States,Faculty/Academic staff,18,Male
+813,9955883.0,21,43,clicked,0,156389,16.0,machine_Systems/Circuits,1,0,39,United States,Faculty/Academic staff,18,Male
+814,9955883.0,46,47,clicked,1,143748,12.0,human_Behavioral/Cognitive,1,0,39,United States,Faculty/Academic staff,18,Male
+815,9955883.0,34,35,clicked,1,147942,9.0,human_Behavioral/Cognitive,1,0,39,United States,Faculty/Academic staff,18,Male
+816,9955883.0,1,5,clicked,1,180314,82.0,human_Neurobiology of Disease,1,0,39,United States,Faculty/Academic staff,18,Male
+817,9955883.0,20,43,clicked,1,130740,55.0,human_Behavioral/Cognitive,1,0,39,United States,Faculty/Academic staff,18,Male
+818,9955883.0,11,1,clicked,1,60623,40.0,human_Neurobiology of Disease,1,0,39,United States,Faculty/Academic staff,18,Male
+819,9956051.0,15,54,clicked,0,207690,66.0,machine_Cellular/Molecular,1,0,25,United States,Doctoral student,4,Male
+820,9956051.0,23,51,clicked,0,105258,178.0,machine_Behavioral/Cognitive,1,0,25,United States,Doctoral student,4,Male
+821,9956051.0,15,50,clicked,1,33686,155.0,human_Neurobiology of Disease,1,0,25,United States,Doctoral student,4,Male
+822,9956051.0,32,22,clicked,1,61458,81.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,4,Male
+823,9956051.0,21,13,clicked,0,34232,131.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,4,Male
+824,9956051.0,19,15,clicked,1,28653,135.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,4,Male
+825,9956051.0,12,9,clicked,0,19572,48.0,human_Cellular/Molecular,1,0,25,United States,Doctoral student,4,Male
+826,9956051.0,4,1,clicked,1,31771,3.0,machine_Neurobiology of Disease,1,0,25,United States,Doctoral student,4,Male
+827,9956051.0,1,1,clicked,0,19379,101.0,human_Neurobiology of Disease,1,0,25,United States,Doctoral student,4,Male
+828,9957539.0,1,70,,1,132038,89.0,human_Systems/Circuits,1,0,42,United States,__other,0,Male
+829,9957539.0,1,86,,1,67542,88.0,machine_Neurobiology of Disease,1,0,42,United States,__other,0,Male
+830,9957539.0,19,11,,1,60721,191.0,machine_Behavioral/Cognitive,1,0,42,United States,__other,0,Male
+831,9957539.0,6,24,,0,405999,144.0,human_Behavioral/Cognitive,1,0,42,United States,__other,0,Male
+832,9957539.0,1,1,clicked,1,258157,56.0,human_Behavioral/Cognitive,1,0,42,United States,__other,0,Male
+833,9957539.0,2,50,clicked,0,163043,99.0,human_Development/Plasticity/Repair,1,0,42,United States,__other,0,Male
+834,9957539.0,1,60,clicked,1,108036,4.0,human_Behavioral/Cognitive,1,0,42,United States,__other,0,Male
+835,9957539.0,2,49,clicked,0,82497,23.0,human_Systems/Circuits,1,0,42,United States,__other,0,Male
+836,9957539.0,2,79,clicked,1,95378,120.0,machine_Systems/Circuits,1,0,42,United States,__other,0,Male
+837,9957977.0,32,100,,1,78186,55.0,human_Behavioral/Cognitive,1,0,27,Netherlands,Doctoral student,1,Female
+838,9957977.0,12,73,,0,143055,182.0,human_Cellular/Molecular,1,0,27,Netherlands,Doctoral student,1,Female
+839,9957977.0,1,34,,1,116129,161.0,machine_Behavioral/Cognitive,1,0,27,Netherlands,Doctoral student,1,Female
+840,9957977.0,1,100,,1,60144,116.0,human_Behavioral/Cognitive,1,0,27,Netherlands,Doctoral student,1,Female
+841,9957977.0,6,1,,1,48934,94.0,human_Cellular/Molecular,1,0,27,Netherlands,Doctoral student,1,Female
+842,9957977.0,6,50,,0,164445,69.0,human_Systems/Circuits,1,0,27,Netherlands,Doctoral student,1,Female
+843,9957977.0,1,1,,1,109194,24.0,machine_Development/Plasticity/Repair,1,0,27,Netherlands,Doctoral student,1,Female
+844,9957977.0,3,50,,1,140713,107.0,human_Systems/Circuits,1,0,27,Netherlands,Doctoral student,1,Female
+845,9957977.0,11,28,clicked,1,179015,156.0,machine_Systems/Circuits,1,0,27,Netherlands,Doctoral student,1,Female
+846,9958355.0,15,50,,1,45197,186.0,machine_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+847,9958355.0,38,67,,0,48739,78.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+848,9958355.0,1,100,,1,53116,122.0,machine_Systems/Circuits,1,0,45,United States,Faculty/Academic staff,15,Male
+849,9958355.0,1,65,,1,14030,6.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+850,9958355.0,4,95,,1,10462,169.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+851,9958355.0,7,90,,1,14825,66.0,machine_Cellular/Molecular,1,0,45,United States,Faculty/Academic staff,15,Male
+852,9958355.0,63,100,,1,37559,31.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+853,9958355.0,31,97,,0,22128,5.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,15,Male
+854,9958355.0,1,63,,0,27610,99.0,human_Development/Plasticity/Repair,1,0,45,United States,Faculty/Academic staff,15,Male
+855,9958632.0,12,50,clicked,1,252025,22.0,machine_Systems/Circuits,1,0,30,United States,Doctoral student,10,Male
+856,9958632.0,9,8,clicked,0,275951,129.0,human_Systems/Circuits,1,0,30,United States,Doctoral student,10,Male
+857,9958632.0,18,92,clicked,1,79662,32.0,human_Cellular/Molecular,1,0,30,United States,Doctoral student,10,Male
+858,9958632.0,7,1,clicked,0,61538,186.0,machine_Behavioral/Cognitive,1,0,30,United States,Doctoral student,10,Male
+859,9958632.0,91,67,clicked,1,118996,59.0,human_Cellular/Molecular,1,0,30,United States,Doctoral student,10,Male
+860,9958632.0,19,7,clicked,0,81567,167.0,human_Behavioral/Cognitive,1,0,30,United States,Doctoral student,10,Male
+861,9958632.0,22,84,clicked,1,36157,191.0,machine_Behavioral/Cognitive,1,0,30,United States,Doctoral student,10,Male
+862,9958632.0,12,1,clicked,1,43011,63.0,human_Systems/Circuits,1,0,30,United States,Doctoral student,10,Male
+863,9958632.0,3,21,clicked,1,250089,80.0,human_Behavioral/Cognitive,1,0,30,United States,Doctoral student,10,Male
+864,9958646.0,50,29,,1,157849,174.0,machine_Behavioral/Cognitive,1,0,34,United States,Faculty/Academic staff,15,Female
+865,9958646.0,32,58,,1,174602,98.0,human_Development/Plasticity/Repair,1,0,34,United States,Faculty/Academic staff,15,Female
+866,9958646.0,31,13,clicked,0,108479,24.0,machine_Development/Plasticity/Repair,1,0,34,United States,Faculty/Academic staff,15,Female
+867,9958646.0,72,50,clicked,1,205928,144.0,human_Behavioral/Cognitive,1,0,34,United States,Faculty/Academic staff,15,Female
+868,9958646.0,62,63,clicked,1,181174,23.0,human_Systems/Circuits,1,0,34,United States,Faculty/Academic staff,15,Female
+869,9958646.0,16,35,clicked,0,142124,46.0,human_Systems/Circuits,1,0,34,United States,Faculty/Academic staff,15,Female
+870,9958646.0,6,50,clicked,0,61192,158.0,human_Cellular/Molecular,1,0,34,United States,Faculty/Academic staff,15,Female
+871,9958646.0,26,59,clicked,1,43132,179.0,human_Neurobiology of Disease,1,0,34,United States,Faculty/Academic staff,15,Female
+872,9958646.0,83,69,clicked,1,49280,1.0,machine_Behavioral/Cognitive,1,0,34,United States,Faculty/Academic staff,15,Female
+873,9958680.0,1,1,,1,188568,2.0,human_Systems/Circuits,1,0,48,United States,Research scientist,10,Male
+874,9958680.0,50,50,clicked,1,198461,139.0,machine_Systems/Circuits,0,0,48,United States,Research scientist,10,Male
+875,9958680.0,50,50,clicked,1,198150,41.0,machine_Neurobiology of Disease,0,0,48,United States,Research scientist,10,Male
+876,9958680.0,50,50,clicked,0,146332,164.0,human_Systems/Circuits,0,0,48,United States,Research scientist,10,Male
+877,9958680.0,14,1,clicked,0,91872,195.0,human_Behavioral/Cognitive,1,0,48,United States,Research scientist,10,Male
+878,9958680.0,1,1,clicked,0,181970,109.0,human_Systems/Circuits,1,0,48,United States,Research scientist,10,Male
+879,9958680.0,66,82,clicked,1,134040,120.0,machine_Systems/Circuits,1,0,48,United States,Research scientist,10,Male
+880,9958680.0,1,77,clicked,1,89678,101.0,human_Neurobiology of Disease,1,0,48,United States,Research scientist,10,Male
+881,9958680.0,96,95,clicked,1,181958,145.0,human_Behavioral/Cognitive,1,0,48,United States,Research scientist,10,Male
+882,9958751.0,1,1,,1,56875,157.0,machine_Systems/Circuits,1,0,37,United States,Faculty/Academic staff,13,Male
+883,9958751.0,1,1,clicked,1,83571,16.0,machine_Systems/Circuits,1,0,37,United States,Faculty/Academic staff,13,Male
+884,9958751.0,31,80,clicked,0,37206,135.0,human_Behavioral/Cognitive,1,0,37,United States,Faculty/Academic staff,13,Male
+885,9958751.0,30,29,clicked,0,51694,100.0,human_Development/Plasticity/Repair,1,0,37,United States,Faculty/Academic staff,13,Male
+886,9958751.0,63,100,clicked,1,56708,41.0,human_Neurobiology of Disease,1,0,37,United States,Faculty/Academic staff,13,Male
+887,9958751.0,37,42,clicked,1,47008,185.0,human_Behavioral/Cognitive,1,0,37,United States,Faculty/Academic staff,13,Male
+888,9958751.0,59,60,clicked,1,68803,85.0,human_Behavioral/Cognitive,1,0,37,United States,Faculty/Academic staff,13,Male
+889,9958751.0,1,1,clicked,1,22830,38.0,machine_Systems/Circuits,1,0,37,United States,Faculty/Academic staff,13,Male
+890,9958751.0,66,100,clicked,1,19186,143.0,human_Behavioral/Cognitive,1,0,37,United States,Faculty/Academic staff,13,Male
+900,9958890.0,58,82,,1,83890,122.0,machine_Systems/Circuits,1,0,26,United States,Doctoral student,7,Female
+901,9958890.0,15,41,,0,46341,87.0,human_Systems/Circuits,1,0,26,United States,Doctoral student,7,Female
+902,9958890.0,43,79,,1,65903,61.0,human_Cellular/Molecular,1,0,26,United States,Doctoral student,7,Female
+903,9958890.0,16,25,,0,83989,17.0,human_Systems/Circuits,1,0,26,United States,Doctoral student,7,Female
+904,9958890.0,55,59,,1,68170,116.0,machine_Behavioral/Cognitive,1,0,26,United States,Doctoral student,7,Female
+905,9958890.0,37,67,,1,59178,108.0,human_Systems/Circuits,1,0,26,United States,Doctoral student,7,Female
+906,9958890.0,36,70,,0,49508,199.0,human_Systems/Circuits,1,0,26,United States,Doctoral student,7,Female
+907,9958890.0,65,79,,1,68881,134.0,human_Behavioral/Cognitive,1,0,26,United States,Doctoral student,7,Female
+908,9958890.0,31,68,,1,56474,197.0,machine_Neurobiology of Disease,1,0,26,United States,Doctoral student,7,Female
+909,9958926.0,20,52,,1,54178,166.0,human_Systems/Circuits,1,0,34,Germany,Postdoctoral researcher,10,Male
+910,9958926.0,56,75,,1,51914,140.0,human_Neurobiology of Disease,1,0,34,Germany,Postdoctoral researcher,10,Male
+911,9958926.0,27,43,,1,83020,127.0,human_Behavioral/Cognitive,1,0,34,Germany,Postdoctoral researcher,10,Male
+912,9958926.0,29,36,,0,62434,181.0,machine_Systems/Circuits,1,0,34,Germany,Postdoctoral researcher,10,Male
+913,9958926.0,19,46,,1,50980,187.0,machine_Systems/Circuits,1,0,34,Germany,Postdoctoral researcher,10,Male
+914,9958926.0,17,72,,1,50692,169.0,human_Behavioral/Cognitive,1,0,34,Germany,Postdoctoral researcher,10,Male
+915,9958926.0,43,60,,1,79533,72.0,human_Systems/Circuits,1,0,34,Germany,Postdoctoral researcher,10,Male
+916,9958926.0,9,50,,0,72059,108.0,machine_Systems/Circuits,1,0,34,Germany,Postdoctoral researcher,10,Male
+917,9958926.0,28,36,clicked,1,120059,117.0,human_Behavioral/Cognitive,1,0,34,Germany,Postdoctoral researcher,10,Male
+918,9958955.0,6,77,clicked,1,55343,153.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,10,Female
+919,9958955.0,1,14,clicked,1,55016,24.0,machine_Development/Plasticity/Repair,1,0,28,United States,Doctoral student,10,Female
+920,9958955.0,50,50,clicked,1,89430,64.0,human_Behavioral/Cognitive,0,0,28,United States,Doctoral student,10,Female
+921,9958955.0,3,50,clicked,1,29710,3.0,human_Neurobiology of Disease,1,0,28,United States,Doctoral student,10,Female
+922,9958955.0,10,50,clicked,1,39162,59.0,human_Cellular/Molecular,1,0,28,United States,Doctoral student,10,Female
+923,9958955.0,50,50,clicked,0,33645,106.0,human_Systems/Circuits,0,0,28,United States,Doctoral student,10,Female
+924,9958955.0,50,50,clicked,1,12594,152.0,human_Development/Plasticity/Repair,0,0,28,United States,Doctoral student,10,Female
+925,9958955.0,24,93,clicked,1,20426,91.0,machine_Neurobiology of Disease,1,0,28,United States,Doctoral student,10,Female
+926,9958955.0,65,74,clicked,0,40130,117.0,machine_Behavioral/Cognitive,1,0,28,United States,Doctoral student,10,Female
+927,9958964.0,15,35,,1,130884,83.0,human_Development/Plasticity/Repair,1,0,38,United States,Postdoctoral researcher,15,Male
+928,9958964.0,35,78,,1,82431,106.0,machine_Systems/Circuits,1,0,38,United States,Postdoctoral researcher,15,Male
+929,9958964.0,55,86,,1,85472,178.0,machine_Behavioral/Cognitive,1,0,38,United States,Postdoctoral researcher,15,Male
+930,9958964.0,33,55,,1,71309,62.0,human_Behavioral/Cognitive,1,0,38,United States,Postdoctoral researcher,15,Male
+931,9958964.0,11,14,,1,146857,110.0,human_Neurobiology of Disease,1,0,38,United States,Postdoctoral researcher,15,Male
+932,9958964.0,35,69,,1,149705,95.0,human_Cellular/Molecular,1,0,38,United States,Postdoctoral researcher,15,Male
+933,9958964.0,4,19,,1,92272,104.0,human_Development/Plasticity/Repair,1,0,38,United States,Postdoctoral researcher,15,Male
+934,9958964.0,2,53,,1,62204,88.0,human_Neurobiology of Disease,1,0,38,United States,Postdoctoral researcher,15,Male
+935,9958964.0,73,13,,1,102437,153.0,machine_Behavioral/Cognitive,1,0,38,United States,Postdoctoral researcher,15,Male
+936,9959014.0,16,89,,1,88823,173.0,machine_Development/Plasticity/Repair,1,0,33,United States,Research scientist,10,Male
+937,9959014.0,78,96,,1,11881,135.0,human_Behavioral/Cognitive,1,0,33,United States,Research scientist,10,Male
+938,9959014.0,3,47,,1,52160,158.0,human_Cellular/Molecular,1,0,33,United States,Research scientist,10,Male
+939,9959014.0,10,69,,1,52352,10.0,human_Development/Plasticity/Repair,1,0,33,United States,Research scientist,10,Male
+940,9959014.0,66,90,,1,95502,69.0,human_Systems/Circuits,1,0,33,United States,Research scientist,10,Male
+941,9959014.0,11,28,,0,80577,103.0,human_Neurobiology of Disease,1,0,33,United States,Research scientist,10,Male
+942,9959014.0,8,48,,0,95167,98.0,machine_Development/Plasticity/Repair,1,0,33,United States,Research scientist,10,Male
+943,9959014.0,56,96,,1,41613,43.0,human_Behavioral/Cognitive,1,0,33,United States,Research scientist,10,Male
+944,9959014.0,11,92,,1,71452,171.0,machine_Systems/Circuits,1,0,33,United States,Research scientist,10,Male
+945,9959150.0,50,50,,0,89705,65.0,human_Neurobiology of Disease,0,0,41,United States,Research scientist,10,Male
+946,9959150.0,50,66,,1,73040,79.0,machine_Behavioral/Cognitive,1,0,41,United States,Research scientist,10,Male
+947,9959150.0,50,50,,0,53150,18.0,human_Systems/Circuits,0,0,41,United States,Research scientist,10,Male
+948,9959150.0,21,17,,0,58000,184.0,human_Behavioral/Cognitive,1,0,41,United States,Research scientist,10,Male
+949,9959150.0,50,50,,0,52135,125.0,human_Behavioral/Cognitive,0,0,41,United States,Research scientist,10,Male
+950,9959150.0,27,66,,1,48081,119.0,human_Behavioral/Cognitive,1,0,41,United States,Research scientist,10,Male
+951,9959150.0,54,79,,1,33768,16.0,machine_Systems/Circuits,1,0,41,United States,Research scientist,10,Male
+952,9959150.0,50,92,,0,13057,88.0,machine_Neurobiology of Disease,1,0,41,United States,Research scientist,10,Male
+953,9959150.0,49,42,,0,30108,33.0,human_Cellular/Molecular,1,0,41,United States,Research scientist,10,Male
+954,9959188.0,23,14,,1,170345,45.0,human_Cellular/Molecular,1,0,36,United States,Faculty/Academic staff,15,Female
+955,9959188.0,26,50,,0,60841,8.0,machine_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,15,Female
+956,9959188.0,3,12,,1,69283,149.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,15,Female
+957,9959188.0,7,92,,1,59266,99.0,machine_Development/Plasticity/Repair,1,0,36,United States,Faculty/Academic staff,15,Female
+958,9959188.0,3,98,,1,57548,118.0,human_Development/Plasticity/Repair,1,0,36,United States,Faculty/Academic staff,15,Female
+959,9959188.0,7,89,,1,45587,116.0,machine_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,15,Female
+960,9959188.0,6,97,,1,47983,145.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,15,Female
+961,9959188.0,1,50,,1,60927,130.0,human_Development/Plasticity/Repair,1,0,36,United States,Faculty/Academic staff,15,Female
+962,9959188.0,1,5,,0,123946,57.0,human_Neurobiology of Disease,1,0,36,United States,Faculty/Academic staff,15,Female
+963,9959321.0,50,68,,1,108106,186.0,human_Behavioral/Cognitive,1,0,37,Germany,Doctoral student,2,Female
+964,9959321.0,50,50,,1,315804,121.0,machine_Neurobiology of Disease,0,0,37,Germany,Doctoral student,2,Female
+965,9959321.0,50,50,,0,95970,32.0,human_Cellular/Molecular,0,0,37,Germany,Doctoral student,2,Female
+968,9959321.0,50,50,,1,137414,93.0,human_Systems/Circuits,0,0,37,Germany,Doctoral student,2,Female
+969,9959321.0,50,50,,1,148341,98.0,human_Development/Plasticity/Repair,0,0,37,Germany,Doctoral student,2,Female
+970,9959321.0,50,50,,0,100358,62.0,machine_Behavioral/Cognitive,0,0,37,Germany,Doctoral student,2,Female
+971,9959321.0,50,50,,1,69569,80.0,human_Behavioral/Cognitive,0,0,37,Germany,Doctoral student,2,Female
+972,9959407.0,56,19,,1,175830,20.0,machine_Systems/Circuits,1,0,37,United States,__other,12,Male
+973,9959407.0,53,70,,1,75042,49.0,human_Development/Plasticity/Repair,1,0,37,United States,__other,12,Male
+974,9959407.0,57,50,,1,108423,138.0,human_Systems/Circuits,1,0,37,United States,__other,12,Male
+975,9959407.0,38,10,clicked,0,170099,171.0,machine_Systems/Circuits,1,0,37,United States,__other,12,Male
+976,9959407.0,52,65,clicked,0,94285,13.0,human_Behavioral/Cognitive,1,0,37,United States,__other,12,Male
+977,9959407.0,32,77,clicked,1,84555,90.0,human_Neurobiology of Disease,1,0,37,United States,__other,12,Male
+978,9959407.0,1,17,clicked,0,133067,33.0,human_Cellular/Molecular,1,0,37,United States,__other,12,Male
+979,9959407.0,12,1,clicked,0,213746,16.0,machine_Systems/Circuits,1,0,37,United States,__other,12,Male
+980,9959407.0,21,26,clicked,0,152936,43.0,human_Behavioral/Cognitive,1,0,37,United States,__other,12,Male
+981,9959468.0,7,20,,1,129755,182.0,human_Cellular/Molecular,1,0,28,United States,Doctoral student,7,Male
+982,9959468.0,67,69,,1,117281,131.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,7,Male
+983,9959468.0,10,71,,1,118097,30.0,human_Development/Plasticity/Repair,1,0,28,United States,Doctoral student,7,Male
+984,9959468.0,13,9,,0,116698,13.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,7,Male
+985,9959468.0,1,2,,0,84111,6.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,7,Male
+986,9959468.0,15,67,,1,94343,51.0,machine_Development/Plasticity/Repair,1,0,28,United States,Doctoral student,7,Male
+987,9959468.0,25,82,,1,69040,174.0,machine_Behavioral/Cognitive,1,0,28,United States,Doctoral student,7,Male
+988,9959468.0,9,19,,1,145322,36.0,machine_Cellular/Molecular,1,0,28,United States,Doctoral student,7,Male
+989,9959468.0,22,1,,1,83238,31.0,human_Behavioral/Cognitive,1,0,28,United States,Doctoral student,7,Male
+990,9959550.0,1,1,,1,64192,102.0,human_Development/Plasticity/Repair,1,0,45,United States,Faculty/Academic staff,20,Male
+991,9959550.0,65,61,,1,42375,54.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,20,Male
+992,9959550.0,12,74,,0,24543,2.0,human_Systems/Circuits,1,0,45,United States,Faculty/Academic staff,20,Male
+993,9959550.0,1,27,,0,65355,65.0,machine_Neurobiology of Disease,1,0,45,United States,Faculty/Academic staff,20,Male
+994,9959550.0,29,57,,1,66881,168.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,20,Male
+995,9959550.0,50,74,,0,38552,14.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,20,Male
+996,9959550.0,12,57,,0,58329,155.0,machine_Neurobiology of Disease,1,0,45,United States,Faculty/Academic staff,20,Male
+997,9959550.0,87,93,,1,27702,55.0,human_Behavioral/Cognitive,1,0,45,United States,Faculty/Academic staff,20,Male
+998,9959550.0,4,94,,1,30101,93.0,machine_Systems/Circuits,1,0,45,United States,Faculty/Academic staff,20,Male
+999,9959676.0,24,50,,1,75265,25.0,human_Development/Plasticity/Repair,1,0,41,United States,Postdoctoral researcher,13,Male
+1000,9959676.0,27,50,,0,500956,58.0,human_Neurobiology of Disease,1,0,41,United States,Postdoctoral researcher,13,Male
+1001,9959676.0,59,57,,1,63719,149.0,machine_Behavioral/Cognitive,1,0,41,United States,Postdoctoral researcher,13,Male
+1002,9959676.0,59,64,,1,13602,81.0,human_Behavioral/Cognitive,1,0,41,United States,Postdoctoral researcher,13,Male
+1003,9959676.0,15,21,,0,30066,38.0,human_Systems/Circuits,1,0,41,United States,Postdoctoral researcher,13,Male
+1004,9959676.0,50,50,,1,303201,20.0,human_Systems/Circuits,0,0,41,United States,Postdoctoral researcher,13,Male
+1005,9959676.0,19,17,,1,136678,84.0,machine_Cellular/Molecular,1,0,41,United States,Postdoctoral researcher,13,Male
+1006,9959676.0,23,21,,1,22608,37.0,machine_Systems/Circuits,1,0,41,United States,Postdoctoral researcher,13,Male
+1007,9959676.0,50,50,,1,39055,129.0,human_Systems/Circuits,0,0,41,United States,Postdoctoral researcher,13,Male
+1008,9960047.0,16,20,,1,116057,179.0,human_Neurobiology of Disease,1,0,43,United States,Faculty/Academic staff,20,Female
+1009,9960047.0,61,41,,0,89502,15.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,20,Female
+1010,9960047.0,9,88,,1,124387,82.0,human_Neurobiology of Disease,1,0,43,United States,Faculty/Academic staff,20,Female
+1011,9960047.0,80,98,,1,99918,41.0,machine_Neurobiology of Disease,1,0,43,United States,Faculty/Academic staff,20,Female
+1012,9960047.0,69,14,,1,77903,191.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,20,Female
+1013,9960047.0,25,78,,0,81209,175.0,machine_Systems/Circuits,1,0,43,United States,Faculty/Academic staff,20,Female
+1014,9960047.0,15,99,,1,41268,48.0,human_Cellular/Molecular,1,0,43,United States,Faculty/Academic staff,20,Female
+1015,9960047.0,100,62,,1,73909,162.0,machine_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,20,Female
+1016,9960047.0,51,82,,1,114100,42.0,human_Neurobiology of Disease,1,0,43,United States,Faculty/Academic staff,20,Female
+1017,9960076.0,9,50,,1,178207,173.0,machine_Development/Plasticity/Repair,1,0,46,United States,Faculty/Academic staff,20,Male
+1018,9960076.0,34,50,,1,126671,5.0,machine_Behavioral/Cognitive,1,0,46,United States,Faculty/Academic staff,20,Male
+1019,9960076.0,50,50,,1,60758,148.0,human_Behavioral/Cognitive,0,0,46,United States,Faculty/Academic staff,20,Male
+1020,9960076.0,50,50,,1,31450,151.0,machine_Systems/Circuits,0,0,46,United States,Faculty/Academic staff,20,Male
+1021,9960076.0,50,50,,0,132157,180.0,human_Neurobiology of Disease,0,0,46,United States,Faculty/Academic staff,20,Male
+1022,9960076.0,50,50,,1,60727,18.0,human_Systems/Circuits,0,0,46,United States,Faculty/Academic staff,20,Male
+1023,9960076.0,50,50,,1,76630,114.0,human_Behavioral/Cognitive,0,0,46,United States,Faculty/Academic staff,20,Male
+1024,9960076.0,50,50,,1,52002,171.0,human_Systems/Circuits,0,0,46,United States,Faculty/Academic staff,20,Male
+1025,9960076.0,50,50,,1,146584,110.0,human_Neurobiology of Disease,0,0,46,United States,Faculty/Academic staff,20,Male
+1026,9960182.0,1,53,,0,160183,38.0,human_Systems/Circuits,1,0,31,United States,Doctoral student,5,Male
+1027,9960182.0,60,59,,1,104971,166.0,human_Systems/Circuits,1,0,31,United States,Doctoral student,5,Male
+1028,9960182.0,1,54,,1,170148,184.0,human_Behavioral/Cognitive,1,0,31,United States,Doctoral student,5,Male
+1029,9960182.0,1,54,,0,231641,1.0,machine_Behavioral/Cognitive,1,0,31,United States,Doctoral student,5,Male
+1030,9960182.0,1,35,,1,169016,86.0,machine_Development/Plasticity/Repair,1,0,31,United States,Doctoral student,5,Male
+1031,9960182.0,1,1,,0,79661,65.0,human_Neurobiology of Disease,1,0,31,United States,Doctoral student,5,Male
+1032,9960182.0,1,1,,1,110489,13.0,human_Behavioral/Cognitive,1,0,31,United States,Doctoral student,5,Male
+1033,9960182.0,1,5,,1,97957,45.0,machine_Cellular/Molecular,1,0,31,United States,Doctoral student,5,Male
+1034,9960182.0,6,5,,1,73667,161.0,human_Behavioral/Cognitive,1,0,31,United States,Doctoral student,5,Male
+1053,9960692.0,100,100,,1,31365,163.0,human_Behavioral/Cognitive,1,0,36,Germany,Postdoctoral researcher,14,Male
+1054,9960692.0,28,100,,0,28004,118.0,human_Development/Plasticity/Repair,1,0,36,Germany,Postdoctoral researcher,14,Male
+1055,9960692.0,100,7,,1,166725,178.0,machine_Behavioral/Cognitive,1,0,36,Germany,Postdoctoral researcher,14,Male
+1056,9960692.0,76,1,,1,84133,184.0,machine_Behavioral/Cognitive,1,0,36,Germany,Postdoctoral researcher,14,Male
+1057,9960692.0,43,12,,1,76421,99.0,human_Development/Plasticity/Repair,1,0,36,Germany,Postdoctoral researcher,14,Male
+1058,9960692.0,100,38,,1,80541,117.0,machine_Behavioral/Cognitive,1,0,36,Germany,Postdoctoral researcher,14,Male
+1059,9960692.0,9,1,,0,45017,188.0,human_Systems/Circuits,1,0,36,Germany,Postdoctoral researcher,14,Male
+1060,9960692.0,13,12,,1,72503,32.0,human_Cellular/Molecular,1,0,36,Germany,Postdoctoral researcher,14,Male
+1061,9960692.0,9,50,,0,47365,164.0,human_Systems/Circuits,1,0,36,Germany,Postdoctoral researcher,14,Male
+1062,9960772.0,6,8,,1,91003,181.0,human_Systems/Circuits,1,0,36,Austria,Postdoctoral researcher,7,Male
+1063,9960772.0,11,28,,0,85813,106.0,machine_Systems/Circuits,1,0,36,Austria,Postdoctoral researcher,7,Male
+1064,9960772.0,42,74,,1,48407,64.0,human_Behavioral/Cognitive,1,0,36,Austria,Postdoctoral researcher,7,Male
+1065,9960772.0,36,8,,0,35135,197.0,human_Neurobiology of Disease,1,0,36,Austria,Postdoctoral researcher,7,Male
+1066,9960772.0,3,1,,0,25394,97.0,human_Cellular/Molecular,1,0,36,Austria,Postdoctoral researcher,7,Male
+1067,9960772.0,28,65,,0,82403,22.0,human_Systems/Circuits,1,0,36,Austria,Postdoctoral researcher,7,Male
+1068,9960772.0,27,50,clicked,0,55964,120.0,machine_Systems/Circuits,1,0,36,Austria,Postdoctoral researcher,7,Male
+1069,9960772.0,79,98,clicked,1,48644,112.0,human_Behavioral/Cognitive,1,0,36,Austria,Postdoctoral researcher,7,Male
+1070,9960772.0,24,79,clicked,1,81926,161.0,machine_Behavioral/Cognitive,1,0,36,Austria,Postdoctoral researcher,7,Male
+1071,9962086.0,33,68,,1,69514,8.0,machine_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1072,9962086.0,21,84,,0,76941,31.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1073,9962086.0,35,66,,1,57403,133.0,human_Systems/Circuits,1,0,43,United States,Faculty/Academic staff,21,Female
+1074,9962086.0,62,81,,1,86282,128.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1075,9962086.0,31,34,,1,110442,175.0,human_Systems/Circuits,1,0,43,United States,Faculty/Academic staff,21,Female
+1076,9962086.0,72,55,,1,145504,198.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1077,9962086.0,63,82,,1,86933,127.0,human_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1078,9962086.0,42,69,,1,63798,148.0,machine_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1079,9962086.0,56,37,,1,123074,190.0,machine_Behavioral/Cognitive,1,0,43,United States,Faculty/Academic staff,21,Female
+1080,9963203.0,50,74,,1,97504,52.0,human_Cellular/Molecular,1,0,26,Germany,Predoctoral student,4,Female
+1081,9963203.0,21,23,,1,104456,63.0,human_Systems/Circuits,1,0,26,Germany,Predoctoral student,4,Female
+1082,9963203.0,50,66,clicked,1,139115,155.0,machine_Neurobiology of Disease,1,0,26,Germany,Predoctoral student,4,Female
+1083,9963203.0,31,32,clicked,0,81723,16.0,human_Systems/Circuits,1,0,26,Germany,Predoctoral student,4,Female
+1084,9963203.0,11,39,clicked,1,201546,66.0,machine_Cellular/Molecular,1,0,26,Germany,Predoctoral student,4,Female
+1085,9963203.0,13,18,clicked,0,71776,5.0,human_Behavioral/Cognitive,1,0,26,Germany,Predoctoral student,4,Female
+1086,9963203.0,14,32,clicked,1,66339,49.0,human_Development/Plasticity/Repair,1,0,26,Germany,Predoctoral student,4,Female
+1087,9963203.0,50,63,clicked,0,162937,179.0,machine_Neurobiology of Disease,1,0,26,Germany,Predoctoral student,4,Female
+1088,9963203.0,14,38,clicked,0,115524,162.0,human_Behavioral/Cognitive,1,0,26,Germany,Predoctoral student,4,Female
+1089,9964699.0,14,50,,1,50942,98.0,machine_Development/Plasticity/Repair,1,0,54,Germany,Faculty/Academic staff,20,Male
+1090,9964699.0,66,50,,1,22022,49.0,human_Development/Plasticity/Repair,1,0,54,Germany,Faculty/Academic staff,20,Male
+1091,9964699.0,50,50,,0,38210,137.0,machine_Behavioral/Cognitive,0,0,54,Germany,Faculty/Academic staff,20,Male
+1092,9964699.0,50,50,,1,46561,100.0,human_Development/Plasticity/Repair,0,0,54,Germany,Faculty/Academic staff,20,Male
+1093,9964699.0,50,50,,1,32716,90.0,human_Neurobiology of Disease,0,0,54,Germany,Faculty/Academic staff,20,Male
+1094,9964699.0,50,50,,1,51918,161.0,human_Behavioral/Cognitive,0,0,54,Germany,Faculty/Academic staff,20,Male
+1095,9964699.0,50,50,,1,31800,120.0,human_Systems/Circuits,0,0,54,Germany,Faculty/Academic staff,20,Male
+1096,9964699.0,50,50,,0,34618,5.0,machine_Behavioral/Cognitive,0,0,54,Germany,Faculty/Academic staff,20,Male
+1097,9964699.0,50,50,,0,27182,2.0,human_Systems/Circuits,0,0,54,Germany,Faculty/Academic staff,20,Male
+1098,9964963.0,1,38,,1,28656,68.0,human_Neurobiology of Disease,1,0,36,United States,Faculty/Academic staff,14,Female
+1099,9964963.0,24,24,,1,102456,15.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,14,Female
+1100,9964963.0,23,57,,1,63505,76.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,14,Female
+1101,9964963.0,1,50,clicked,1,5440843,161.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,14,Female
+1102,9964963.0,88,100,clicked,1,103543,172.0,human_Systems/Circuits,1,0,36,United States,Faculty/Academic staff,14,Female
+1103,9964963.0,67,77,clicked,1,96653,62.0,human_Behavioral/Cognitive,1,0,36,United States,Faculty/Academic staff,14,Female
+1104,9964963.0,1,1,clicked,1,156183,24.0,machine_Development/Plasticity/Repair,1,0,36,United States,Faculty/Academic staff,14,Female
+1105,9964963.0,1,60,clicked,1,81674,91.0,machine_Neurobiology of Disease,1,0,36,United States,Faculty/Academic staff,14,Female
+1106,9964963.0,1,61,clicked,1,84659,58.0,machine_Neurobiology of Disease,1,0,36,United States,Faculty/Academic staff,14,Female
+1107,9966119.0,13,74,,1,71805,156.0,machine_Systems/Circuits,1,0,44,Canada,Faculty/Academic staff,15,Female
+1108,9966119.0,1,23,,1,75416,104.0,human_Development/Plasticity/Repair,1,0,44,Canada,Faculty/Academic staff,15,Female
+1109,9966119.0,1,30,,1,55593,196.0,human_Development/Plasticity/Repair,1,0,44,Canada,Faculty/Academic staff,15,Female
+1110,9966119.0,68,59,,0,97640,162.0,human_Behavioral/Cognitive,1,0,44,Canada,Faculty/Academic staff,15,Female
+1111,9966119.0,6,57,,0,64435,197.0,machine_Neurobiology of Disease,1,0,44,Canada,Faculty/Academic staff,15,Female
+1112,9966119.0,6,29,,1,56712,98.0,human_Development/Plasticity/Repair,1,0,44,Canada,Faculty/Academic staff,15,Female
+1113,9966119.0,6,19,,0,23474,100.0,human_Development/Plasticity/Repair,1,0,44,Canada,Faculty/Academic staff,15,Female
+1114,9966119.0,8,47,,0,28996,91.0,machine_Neurobiology of Disease,1,0,44,Canada,Faculty/Academic staff,15,Female
+1115,9966119.0,9,26,,1,17714,97.0,human_Cellular/Molecular,1,0,44,Canada,Faculty/Academic staff,15,Female
+1125,9967672.0,1,30,,1,85311,100.0,machine_Development/Plasticity/Repair,1,0,31,Germany,Postdoctoral researcher,6,Male
+1126,9967672.0,50,50,,0,83387,187.0,human_Systems/Circuits,0,0,31,Germany,Postdoctoral researcher,6,Male
+1127,9967672.0,50,67,,1,40514,1.0,machine_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,6,Male
+1128,9967672.0,86,83,,1,41899,128.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,6,Male
+1129,9967672.0,21,24,,1,118957,109.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,6,Male
+1130,9967672.0,50,79,,1,28589,120.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,6,Male
+1131,9967672.0,50,11,,1,57193,153.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,6,Male
+1132,9967672.0,50,65,,1,55756,170.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,6,Male
+1133,9967672.0,50,37,,1,136046,9.0,machine_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,6,Male
+1134,9967742.0,5,17,clicked,1,550905,47.0,machine_Systems/Circuits,1,0,28,Germany,Doctoral student,4,Female
+1135,9967742.0,32,49,clicked,1,217550,106.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,4,Female
+1136,9967742.0,15,78,clicked,0,153074,135.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,4,Female
+1137,9967742.0,1,1,clicked,1,176230,66.0,human_Cellular/Molecular,1,0,28,Germany,Doctoral student,4,Female
+1138,9967742.0,3,92,clicked,0,556690,116.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,4,Female
+1139,9967742.0,5,79,clicked,1,247671,52.0,machine_Cellular/Molecular,1,0,28,Germany,Doctoral student,4,Female
+1140,9967742.0,3,47,clicked,0,203337,33.0,human_Cellular/Molecular,1,0,28,Germany,Doctoral student,4,Female
+1141,9967742.0,1,10,clicked,0,86208,13.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,4,Female
+1142,9967742.0,33,26,clicked,1,185534,12.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,4,Female
+1143,9967798.0,49,80,,0,60251,183.0,human_Cellular/Molecular,1,0,37,Germany,Postdoctoral researcher,5,Female
+1144,9967798.0,33,66,,0,95211,144.0,machine_Behavioral/Cognitive,1,0,37,Germany,Postdoctoral researcher,5,Female
+1145,9967798.0,32,62,,1,62729,196.0,human_Development/Plasticity/Repair,1,0,37,Germany,Postdoctoral researcher,5,Female
+1146,9967798.0,20,42,,1,54959,187.0,human_Systems/Circuits,1,0,37,Germany,Postdoctoral researcher,5,Female
+1147,9967798.0,35,45,,1,29090,161.0,human_Behavioral/Cognitive,1,0,37,Germany,Postdoctoral researcher,5,Female
+1148,9967798.0,16,36,,0,38898,100.0,machine_Development/Plasticity/Repair,1,0,37,Germany,Postdoctoral researcher,5,Female
+1149,9967798.0,21,29,,0,80559,40.0,human_Neurobiology of Disease,1,0,37,Germany,Postdoctoral researcher,5,Female
+1150,9967798.0,5,8,,1,47408,88.0,human_Neurobiology of Disease,1,0,37,Germany,Postdoctoral researcher,5,Female
+1151,9967798.0,5,3,,1,23356,153.0,machine_Behavioral/Cognitive,1,0,37,Germany,Postdoctoral researcher,5,Female
+1152,9967868.0,62,100,,1,88397,17.0,machine_Systems/Circuits,1,0,25,Germany,Doctoral student,2,Female
+1153,9967868.0,36,55,,1,135322,117.0,human_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,2,Female
+1154,9967868.0,83,66,,1,95818,181.0,machine_Systems/Circuits,1,0,25,Germany,Doctoral student,2,Female
+1155,9967868.0,55,55,,0,534230,79.0,machine_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,2,Female
+1156,9967868.0,53,53,,1,145808,37.0,human_Systems/Circuits,1,0,25,Germany,Doctoral student,2,Female
+1157,9967868.0,67,63,,0,49316,68.0,human_Neurobiology of Disease,1,0,25,Germany,Doctoral student,2,Female
+1158,9967868.0,45,80,,0,167208,162.0,human_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,2,Female
+1159,9967868.0,53,63,,1,155061,35.0,human_Cellular/Molecular,1,0,25,Germany,Doctoral student,2,Female
+1160,9967868.0,59,53,,0,63729,86.0,human_Development/Plasticity/Repair,1,0,25,Germany,Doctoral student,2,Female
+1161,9968151.0,80,16,,1,194793,152.0,human_Development/Plasticity/Repair,1,0,40,Germany,Research scientist,14,Female
+1162,9968151.0,19,60,,1,89967,61.0,machine_Cellular/Molecular,1,0,40,Germany,Research scientist,14,Female
+1163,9968151.0,20,80,,1,115180,145.0,human_Behavioral/Cognitive,1,0,40,Germany,Research scientist,14,Female
+1164,9968151.0,28,50,,1,68345,14.0,human_Behavioral/Cognitive,1,0,40,Germany,Research scientist,14,Female
+1165,9968151.0,50,30,,1,67319,16.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Female
+1166,9968151.0,46,67,clicked,1,72570,2.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Female
+1167,9968151.0,50,50,clicked,0,108086,151.0,machine_Systems/Circuits,0,0,40,Germany,Research scientist,14,Female
+1168,9968151.0,22,75,clicked,0,31664,72.0,human_Systems/Circuits,1,0,40,Germany,Research scientist,14,Female
+1169,9968151.0,39,5,clicked,0,178331,45.0,machine_Cellular/Molecular,1,0,40,Germany,Research scientist,14,Female
+1170,9968553.0,1,3,,0,104728,155.0,machine_Neurobiology of Disease,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1171,9968553.0,23,50,,0,124650,167.0,machine_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1172,9968553.0,1,2,,1,162089,23.0,machine_Systems/Circuits,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1173,9968553.0,21,50,,0,122460,125.0,human_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1174,9968553.0,3,19,,1,84033,161.0,human_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1175,9968553.0,8,60,,1,66288,78.0,human_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1176,9968553.0,3,62,,1,92896,61.0,human_Cellular/Molecular,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1177,9968553.0,50,31,,1,100188,8.0,human_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1178,9968553.0,11,66,,1,64517,116.0,human_Behavioral/Cognitive,1,0,44,United Kingdom,Faculty/Academic staff,20,Female
+1179,9969516.0,1,50,,1,174194,137.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1180,9969516.0,68,50,,1,218787,95.0,human_Cellular/Molecular,1,0,26,Germany,Doctoral student,2,Female
+1181,9969516.0,72,77,,1,278101,121.0,human_Neurobiology of Disease,1,0,26,Germany,Doctoral student,2,Female
+1182,9969516.0,5,83,,1,195568,161.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1183,9969516.0,17,9,,0,132698,102.0,human_Development/Plasticity/Repair,1,0,26,Germany,Doctoral student,2,Female
+1184,9969516.0,32,50,,0,96575,186.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1185,9969516.0,33,94,,1,92010,143.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1186,9969516.0,17,50,clicked,1,101558,119.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1187,9969516.0,23,31,clicked,1,274689,117.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,2,Female
+1188,9970821.0,1,7,,0,52583,129.0,human_Systems/Circuits,1,0,38,United States,Faculty/Academic staff,0,Male
+1189,9970821.0,1,14,,0,51269,122.0,human_Systems/Circuits,1,0,38,United States,Faculty/Academic staff,0,Male
+1190,9970821.0,1,17,,0,56361,50.0,human_Cellular/Molecular,1,0,38,United States,Faculty/Academic staff,0,Male
+1191,9970821.0,1,1,,1,121377,179.0,machine_Neurobiology of Disease,1,0,38,United States,Faculty/Academic staff,0,Male
+1192,9970821.0,1,6,clicked,0,312211,96.0,machine_Cellular/Molecular,1,0,38,United States,Faculty/Academic staff,0,Male
+1193,9970821.0,1,1,clicked,0,131427,60.0,human_Cellular/Molecular,1,0,38,United States,Faculty/Academic staff,0,Male
+1194,9970821.0,1,1,clicked,0,76131,104.0,human_Development/Plasticity/Repair,1,0,38,United States,Faculty/Academic staff,0,Male
+1195,9970821.0,1,6,clicked,0,97117,76.0,human_Behavioral/Cognitive,1,0,38,United States,Faculty/Academic staff,0,Male
+1196,9970821.0,1,41,clicked,1,78606,151.0,machine_Systems/Circuits,1,0,38,United States,Faculty/Academic staff,0,Male
+1197,9971744.0,15,87,,1,85150,9.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Female
+1198,9971744.0,40,66,,1,30130,178.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Female
+1199,9971744.0,15,42,,1,31009,26.0,human_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,3,Female
+1200,9971744.0,29,61,,0,78391,126.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,3,Female
+1201,9971744.0,33,54,,0,27216,37.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,3,Female
+1202,9971744.0,53,63,,1,57785,8.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Female
+1203,9971744.0,43,43,,0,47967,183.0,machine_Cellular/Molecular,1,0,28,Germany,Doctoral student,3,Female
+1204,9971744.0,21,27,clicked,0,411173,25.0,machine_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,3,Female
+1205,9971744.0,57,63,clicked,0,58792,12.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Female
+1206,9975993.0,5,6,,1,259830,161.0,machine_Behavioral/Cognitive,1,0,25,United States,Doctoral student,6,Male
+1207,9975993.0,20,69,,1,55529,101.0,human_Neurobiology of Disease,1,0,25,United States,Doctoral student,6,Male
+1208,9975993.0,39,34,,1,150631,2.0,human_Systems/Circuits,1,0,25,United States,Doctoral student,6,Male
+1209,9975993.0,27,67,,1,76956,82.0,human_Neurobiology of Disease,1,0,25,United States,Doctoral student,6,Male
+1210,9975993.0,38,58,,1,97682,39.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,6,Male
+1211,9975993.0,29,32,,0,48283,16.0,machine_Systems/Circuits,1,0,25,United States,Doctoral student,6,Male
+1212,9975993.0,3,65,,1,44963,99.0,machine_Development/Plasticity/Repair,1,0,25,United States,Doctoral student,6,Male
+1213,9975993.0,42,59,,1,39291,134.0,human_Behavioral/Cognitive,1,0,25,United States,Doctoral student,6,Male
+1214,9975993.0,65,62,,0,37309,66.0,human_Cellular/Molecular,1,0,25,United States,Doctoral student,6,Male
+1242,9984169.0,25,24,,1,113934,71.0,human_Neurobiology of Disease,1,0,30,Germany,Doctoral student,7,Female
+1243,9984169.0,69,100,,1,49414,165.0,human_Development/Plasticity/Repair,1,0,30,Germany,Doctoral student,7,Female
+1244,9984169.0,80,72,,1,34258,124.0,human_Systems/Circuits,1,0,30,Germany,Doctoral student,7,Female
+1245,9984169.0,36,28,,0,18981,30.0,machine_Development/Plasticity/Repair,1,0,30,Germany,Doctoral student,7,Female
+1246,9984169.0,32,31,clicked,0,25535,22.0,machine_Systems/Circuits,1,0,30,Germany,Doctoral student,7,Female
+1247,9984169.0,16,87,clicked,1,10159,160.0,human_Cellular/Molecular,1,0,30,Germany,Doctoral student,7,Female
+1248,9984169.0,41,37,clicked,0,15421,140.0,human_Neurobiology of Disease,1,0,30,Germany,Doctoral student,7,Female
+1249,9984169.0,66,71,clicked,1,32056,12.0,human_Behavioral/Cognitive,1,0,30,Germany,Doctoral student,7,Female
+1250,9984169.0,36,35,clicked,1,11525,23.0,machine_Systems/Circuits,1,0,30,Germany,Doctoral student,7,Female
+1251,9984524.0,87,84,,1,80433,52.0,machine_Cellular/Molecular,1,0,28,Germany,Predoctoral student,7,Female
+1252,9984524.0,55,91,,1,146529,140.0,machine_Neurobiology of Disease,1,0,28,Germany,Predoctoral student,7,Female
+1253,9984524.0,53,58,clicked,1,162387,84.0,human_Cellular/Molecular,1,0,28,Germany,Predoctoral student,7,Female
+1254,9984524.0,57,89,clicked,1,214332,48.0,machine_Cellular/Molecular,1,0,28,Germany,Predoctoral student,7,Female
+1255,9984524.0,45,61,clicked,1,144749,22.0,human_Systems/Circuits,1,0,28,Germany,Predoctoral student,7,Female
+1256,9984524.0,46,57,clicked,1,210007,35.0,human_Cellular/Molecular,1,0,28,Germany,Predoctoral student,7,Female
+1257,9984524.0,30,20,clicked,1,116964,87.0,human_Systems/Circuits,1,0,28,Germany,Predoctoral student,7,Female
+1258,9984524.0,57,43,clicked,1,89557,168.0,human_Behavioral/Cognitive,1,0,28,Germany,Predoctoral student,7,Female
+1259,9984524.0,36,56,clicked,1,167561,174.0,human_Behavioral/Cognitive,1,0,28,Germany,Predoctoral student,7,Female
+1260,9984555.0,9,32,,1,279295,69.0,machine_Systems/Circuits,1,0,24,Germany,Predoctoral student,1,Female
+1261,9984555.0,23,49,,1,265128,114.0,human_Behavioral/Cognitive,1,0,24,Germany,Predoctoral student,1,Female
+1262,9984555.0,15,55,,1,281146,136.0,machine_Behavioral/Cognitive,1,0,24,Germany,Predoctoral student,1,Female
+1263,9984555.0,15,56,,1,440890,67.0,human_Neurobiology of Disease,1,0,24,Germany,Predoctoral student,1,Female
+1264,9984555.0,8,50,,0,76611,30.0,human_Development/Plasticity/Repair,1,0,24,Germany,Predoctoral student,1,Female
+1265,9984555.0,12,59,,1,201090,163.0,human_Behavioral/Cognitive,1,0,24,Germany,Predoctoral student,1,Female
+1266,9984555.0,7,65,,1,75045,61.0,machine_Cellular/Molecular,1,0,24,Germany,Predoctoral student,1,Female
+1267,9984555.0,13,26,,1,322168,21.0,human_Systems/Circuits,1,0,24,Germany,Predoctoral student,1,Female
+1268,9984555.0,6,61,,1,288917,118.0,human_Development/Plasticity/Repair,1,0,24,Germany,Predoctoral student,1,Female
+1269,9984813.0,1,17,,1,104727,66.0,machine_Cellular/Molecular,1,0,33,Germany,Doctoral student,6,Male
+1270,9984813.0,1,16,,1,150865,148.0,machine_Behavioral/Cognitive,1,0,33,Germany,Doctoral student,6,Male
+1271,9984813.0,1,84,,1,109468,136.0,human_Behavioral/Cognitive,1,0,33,Germany,Doctoral student,6,Male
+1272,9984813.0,1,1,,1,99810,5.0,machine_Behavioral/Cognitive,1,0,33,Germany,Doctoral student,6,Male
+1273,9984813.0,1,1,clicked,1,135667,95.0,human_Cellular/Molecular,1,0,33,Germany,Doctoral student,6,Male
+1274,9984813.0,13,50,clicked,0,50077,88.0,human_Neurobiology of Disease,1,0,33,Germany,Doctoral student,6,Male
+1275,9984813.0,1,8,clicked,0,58906,151.0,human_Systems/Circuits,1,0,33,Germany,Doctoral student,6,Male
+1276,9984813.0,1,69,clicked,1,60913,107.0,human_Systems/Circuits,1,0,33,Germany,Doctoral student,6,Male
+1277,9984813.0,15,41,clicked,0,64546,40.0,human_Neurobiology of Disease,1,0,33,Germany,Doctoral student,6,Male
+1278,9985610.0,21,28,,1,50138,93.0,human_Systems/Circuits,1,0,52,Netherlands,Faculty/Academic staff,25,Male
+1279,9985610.0,11,8,,1,39350,157.0,human_Systems/Circuits,1,0,52,Netherlands,Faculty/Academic staff,25,Male
+1280,9985610.0,50,50,,1,30804,141.0,human_Development/Plasticity/Repair,0,0,52,Netherlands,Faculty/Academic staff,25,Male
+1281,9985610.0,20,19,,1,28305,34.0,human_Neurobiology of Disease,1,0,52,Netherlands,Faculty/Academic staff,25,Male
+1282,9985610.0,50,50,,1,23006,131.0,machine_Behavioral/Cognitive,0,0,52,Netherlands,Faculty/Academic staff,25,Male
+1283,9985610.0,67,66,,0,42351,83.0,human_Development/Plasticity/Repair,1,0,52,Netherlands,Faculty/Academic staff,25,Male
+1284,9985610.0,50,50,,1,13519,123.0,human_Cellular/Molecular,0,0,52,Netherlands,Faculty/Academic staff,25,Male
+1285,9985610.0,2,38,,0,11217,108.0,machine_Systems/Circuits,1,0,52,Netherlands,Faculty/Academic staff,25,Male
+1286,9985610.0,50,50,,1,40206,18.0,machine_Systems/Circuits,0,0,52,Netherlands,Faculty/Academic staff,25,Male
+1287,9987060.0,1,54,,0,112476,65.0,machine_Neurobiology of Disease,1,0,34,United States,Postdoctoral researcher,10,Male
+1288,9987060.0,4,4,,1,157325,118.0,human_Development/Plasticity/Repair,1,0,34,United States,Postdoctoral researcher,10,Male
+1289,9987060.0,23,54,,1,56682,15.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+1291,9987060.0,33,16,,1,39458,124.0,human_Systems/Circuits,1,0,34,United States,Postdoctoral researcher,10,Male
+1292,9987060.0,70,80,,1,146295,80.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+1294,9987060.0,57,88,,1,84775,85.0,human_Behavioral/Cognitive,1,0,34,United States,Postdoctoral researcher,10,Male
+1295,9987060.0,8,29,clicked,1,138851,38.0,machine_Systems/Circuits,1,0,34,United States,Postdoctoral researcher,10,Male
+1296,9987284.0,23,39,,1,53972,52.0,machine_Cellular/Molecular,1,0,50,United States,Faculty/Academic staff,28,Male
+1297,9987284.0,18,44,,1,72508,18.0,machine_Systems/Circuits,1,0,50,United States,Faculty/Academic staff,28,Male
+1298,9987284.0,11,55,,0,49447,108.0,human_Systems/Circuits,1,0,50,United States,Faculty/Academic staff,28,Male
+1299,9987284.0,14,31,,0,49207,46.0,human_Systems/Circuits,1,0,50,United States,Faculty/Academic staff,28,Male
+1300,9987284.0,12,53,,0,28123,156.0,human_Systems/Circuits,1,0,50,United States,Faculty/Academic staff,28,Male
+1301,9987284.0,7,80,,1,49741,151.0,human_Systems/Circuits,1,0,50,United States,Faculty/Academic staff,28,Male
+1302,9987284.0,12,38,,0,54123,54.0,machine_Behavioral/Cognitive,1,0,50,United States,Faculty/Academic staff,28,Male
+1303,9987284.0,16,40,,0,54611,136.0,human_Behavioral/Cognitive,1,0,50,United States,Faculty/Academic staff,28,Male
+1304,9987284.0,10,29,,1,64670,96.0,human_Cellular/Molecular,1,0,50,United States,Faculty/Academic staff,28,Male
+1305,9987316.0,40,59,,1,89686,41.0,machine_Neurobiology of Disease,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1306,9987316.0,38,24,,0,23346,23.0,human_Systems/Circuits,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1307,9987316.0,24,73,,1,53461,186.0,machine_Behavioral/Cognitive,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1308,9987316.0,27,67,,0,23009,188.0,human_Systems/Circuits,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1309,9987316.0,24,50,,1,22940,48.0,human_Cellular/Molecular,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1310,9987316.0,32,61,,0,9005,59.0,human_Cellular/Molecular,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1311,9987316.0,50,50,,1,12124,114.0,human_Behavioral/Cognitive,0,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1312,9987316.0,50,50,,1,22814,115.0,human_Systems/Circuits,0,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1313,9987316.0,80,73,,0,39035,4.0,machine_Behavioral/Cognitive,1,0,29,United Kingdom,Postdoctoral researcher,6,Female
+1314,9987360.0,1,64,,0,171841,39.0,human_Behavioral/Cognitive,1,0,33,Romania,Research scientist,0,Male
+1315,9987360.0,1,45,,0,140069,17.0,machine_Systems/Circuits,1,0,33,Romania,Research scientist,0,Male
+1316,9987360.0,1,84,,0,120795,78.0,human_Behavioral/Cognitive,1,0,33,Romania,Research scientist,0,Male
+1317,9987360.0,1,100,,0,81203,175.0,human_Systems/Circuits,1,0,33,Romania,Research scientist,0,Male
+1318,9987360.0,1,26,,1,183988,166.0,human_Systems/Circuits,1,0,33,Romania,Research scientist,0,Male
+1319,9987360.0,1,1,,1,146929,125.0,machine_Behavioral/Cognitive,1,0,33,Romania,Research scientist,0,Male
+1320,9987360.0,1,83,,0,96002,100.0,human_Development/Plasticity/Repair,1,0,33,Romania,Research scientist,0,Male
+1321,9987360.0,1,89,,1,61703,171.0,machine_Systems/Circuits,1,0,33,Romania,Research scientist,0,Male
+1322,9987360.0,5,71,,1,40945,56.0,human_Behavioral/Cognitive,1,0,33,Romania,Research scientist,0,Male
+1323,9987391.0,1,1,,1,98197,94.0,human_Cellular/Molecular,1,0,28,Germany,Doctoral student,3,Male
+1324,9987391.0,1,1,,1,90746,24.0,human_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,3,Male
+1325,9987391.0,1,1,,1,65987,167.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1326,9987391.0,1,1,,0,5072,44.0,human_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,3,Male
+1327,9987391.0,1,1,,0,16240,107.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,3,Male
+1329,9987391.0,1,1,,0,7805,171.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,3,Male
+1330,9987391.0,1,1,,0,5586,121.0,machine_Neurobiology of Disease,1,0,28,Germany,Doctoral student,3,Male
+1331,9987391.0,1,1,,0,47849,137.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1332,9987455.0,1,45,,1,62400,192.0,machine_Behavioral/Cognitive,1,0,36,Germany,Doctoral student,7,Female
+1333,9987455.0,1,54,,0,27398,137.0,human_Behavioral/Cognitive,1,0,36,Germany,Doctoral student,7,Female
+1334,9987455.0,1,10,,0,15317,10.0,human_Development/Plasticity/Repair,1,0,36,Germany,Doctoral student,7,Female
+1335,9987455.0,1,25,,1,15967,156.0,machine_Systems/Circuits,1,0,36,Germany,Doctoral student,7,Female
+1337,9987455.0,1,15,clicked,1,17315,191.0,human_Behavioral/Cognitive,1,0,36,Germany,Doctoral student,7,Female
+1338,9987455.0,1,2,clicked,0,6725,41.0,human_Neurobiology of Disease,1,0,36,Germany,Doctoral student,7,Female
+1339,9987455.0,1,12,clicked,0,9512,84.0,machine_Cellular/Molecular,1,0,36,Germany,Doctoral student,7,Female
+1340,9987455.0,1,1,clicked,0,5342,155.0,human_Neurobiology of Disease,1,0,36,Germany,Doctoral student,7,Female
+1341,9987618.0,3,17,,1,40465,10.0,machine_Development/Plasticity/Repair,1,0,35,United States,Predoctoral student,12,Female
+1342,9987618.0,1,1,clicked,0,50845,28.0,human_Development/Plasticity/Repair,1,0,35,United States,Predoctoral student,12,Female
+1343,9987618.0,1,23,clicked,1,61663,11.0,human_Systems/Circuits,1,0,35,United States,Predoctoral student,12,Female
+1344,9987618.0,1,1,clicked,0,49182,65.0,human_Neurobiology of Disease,1,0,35,United States,Predoctoral student,12,Female
+1345,9987618.0,47,74,clicked,1,42882,122.0,machine_Systems/Circuits,1,0,35,United States,Predoctoral student,12,Female
+1346,9987618.0,1,22,clicked,0,57322,144.0,human_Behavioral/Cognitive,1,0,35,United States,Predoctoral student,12,Female
+1347,9987618.0,13,81,clicked,1,22465,90.0,human_Neurobiology of Disease,1,0,35,United States,Predoctoral student,12,Female
+1348,9987618.0,100,100,clicked,1,18099,159.0,human_Behavioral/Cognitive,1,0,35,United States,Predoctoral student,12,Female
+1349,9987618.0,14,3,clicked,0,68910,62.0,machine_Behavioral/Cognitive,1,0,35,United States,Predoctoral student,12,Female
+1350,9987934.0,37,40,,0,86863,168.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+1351,9987934.0,33,76,clicked,1,43558,143.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+1352,9987934.0,33,59,clicked,0,110585,57.0,human_Neurobiology of Disease,1,0,23,United Kingdom,Doctoral student,2,Male
+1353,9987934.0,29,38,clicked,0,104170,45.0,human_Cellular/Molecular,1,0,23,United Kingdom,Doctoral student,2,Male
+1354,9987934.0,19,70,clicked,1,39736,116.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+1355,9987934.0,7,50,clicked,1,96169,108.0,machine_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,2,Male
+1356,9987934.0,15,25,clicked,0,133455,195.0,machine_Behavioral/Cognitive,1,0,23,United Kingdom,Doctoral student,2,Male
+1357,9987934.0,29,71,clicked,1,52884,46.0,machine_Systems/Circuits,1,0,23,United Kingdom,Doctoral student,2,Male
+1358,9987934.0,32,59,clicked,1,54082,34.0,human_Neurobiology of Disease,1,0,23,United Kingdom,Doctoral student,2,Male
+1359,9988240.0,9,24,,0,49165,152.0,human_Development/Plasticity/Repair,1,0,23,United Kingdom,Predoctoral student,2,Male
+1360,9988240.0,8,6,,1,12300,158.0,human_Cellular/Molecular,1,0,23,United Kingdom,Predoctoral student,2,Male
+1361,9988240.0,53,41,,1,40799,70.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Predoctoral student,2,Male
+1362,9988240.0,36,32,,1,23232,91.0,human_Neurobiology of Disease,1,0,23,United Kingdom,Predoctoral student,2,Male
+1363,9988240.0,67,71,,1,29014,170.0,human_Systems/Circuits,1,0,23,United Kingdom,Predoctoral student,2,Male
+1364,9988240.0,19,22,,1,33549,148.0,machine_Behavioral/Cognitive,1,0,23,United Kingdom,Predoctoral student,2,Male
+1365,9988240.0,45,47,,1,37217,194.0,human_Behavioral/Cognitive,1,0,23,United Kingdom,Predoctoral student,2,Male
+1366,9988240.0,30,32,,1,12520,59.0,machine_Cellular/Molecular,1,0,23,United Kingdom,Predoctoral student,2,Male
+1367,9988240.0,47,53,,1,27211,119.0,machine_Behavioral/Cognitive,1,0,23,United Kingdom,Predoctoral student,2,Male
+1368,9989337.0,26,11,,1,52350,7.0,human_Behavioral/Cognitive,1,0,30,United States,Postdoctoral researcher,11,Female
+1369,9989337.0,41,59,,1,47708,131.0,human_Behavioral/Cognitive,1,0,30,United States,Postdoctoral researcher,11,Female
+1370,9989337.0,1,73,,1,33374,3.0,human_Neurobiology of Disease,1,0,30,United States,Postdoctoral researcher,11,Female
+1371,9989337.0,16,20,,1,51780,6.0,human_Behavioral/Cognitive,1,0,30,United States,Postdoctoral researcher,11,Female
+1372,9989337.0,1,82,,1,37989,30.0,machine_Development/Plasticity/Repair,1,0,30,United States,Postdoctoral researcher,11,Female
+1373,9989337.0,59,1,,0,39069,132.0,human_Behavioral/Cognitive,1,0,30,United States,Postdoctoral researcher,11,Female
+1374,9989337.0,84,81,,1,47978,144.0,machine_Behavioral/Cognitive,1,0,30,United States,Postdoctoral researcher,11,Female
+1376,9989337.0,21,12,,1,114957,21.0,human_Systems/Circuits,1,0,30,United States,Postdoctoral researcher,11,Female
+1377,9989435.0,25,37,,1,14589,51.0,human_Development/Plasticity/Repair,1,0,24,United States,Predoctoral student,1,Male
+1378,9989435.0,19,19,,0,7045,76.0,human_Behavioral/Cognitive,1,0,24,United States,Predoctoral student,1,Male
+1404,9990324.0,9,13,,1,140678,69.0,machine_Systems/Circuits,1,0,32,Germany,Postdoctoral researcher,5,Male
+1405,9990324.0,1,1,,1,19239,26.0,human_Development/Plasticity/Repair,1,0,32,Germany,Postdoctoral researcher,5,Male
+1406,9990324.0,1,1,,1,43206,67.0,human_Neurobiology of Disease,1,0,32,Germany,Postdoctoral researcher,5,Male
+1407,9990324.0,1,2,,1,43140,122.0,human_Systems/Circuits,1,0,32,Germany,Postdoctoral researcher,5,Male
+1408,9990324.0,44,76,,1,61508,144.0,human_Behavioral/Cognitive,1,0,32,Germany,Postdoctoral researcher,5,Male
+1409,9990324.0,45,54,,0,113958,184.0,human_Behavioral/Cognitive,1,0,32,Germany,Postdoctoral researcher,5,Male
+1410,9990324.0,36,37,clicked,0,108859,178.0,machine_Behavioral/Cognitive,1,0,32,Germany,Postdoctoral researcher,5,Male
+1411,9990324.0,45,55,clicked,0,45756,41.0,human_Neurobiology of Disease,1,0,32,Germany,Postdoctoral researcher,5,Male
+1412,9990324.0,45,63,clicked,1,34422,162.0,machine_Behavioral/Cognitive,1,0,32,Germany,Postdoctoral researcher,5,Male
+1440,9990536.0,55,86,,1,62312,11.0,human_Systems/Circuits,1,0,29,Germany,Doctoral student,5,Female
+1441,9990536.0,57,28,,0,74990,64.0,human_Behavioral/Cognitive,1,0,29,Germany,Doctoral student,5,Female
+1442,9990536.0,56,60,,1,63025,116.0,machine_Behavioral/Cognitive,1,0,29,Germany,Doctoral student,5,Female
+1443,9990536.0,6,4,,0,74897,66.0,human_Cellular/Molecular,1,0,29,Germany,Doctoral student,5,Female
+1444,9990536.0,55,67,,1,36588,95.0,human_Cellular/Molecular,1,0,29,Germany,Doctoral student,5,Female
+1445,9990536.0,11,61,,1,33137,17.0,machine_Systems/Circuits,1,0,29,Germany,Doctoral student,5,Female
+1446,9990536.0,12,11,,0,61685,25.0,human_Development/Plasticity/Repair,1,0,29,Germany,Doctoral student,5,Female
+1447,9990536.0,30,76,,1,43647,50.0,machine_Cellular/Molecular,1,0,29,Germany,Doctoral student,5,Female
+1448,9990536.0,85,46,,0,45709,167.0,human_Behavioral/Cognitive,1,0,29,Germany,Doctoral student,5,Female
+1449,9990784.0,16,15,,0,46434,176.0,human_Neurobiology of Disease,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1450,9990784.0,37,73,,1,75665,60.0,human_Cellular/Molecular,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1451,9990784.0,1,27,,0,236663,96.0,machine_Cellular/Molecular,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1452,9990784.0,4,5,,0,84734,59.0,human_Cellular/Molecular,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1453,9990784.0,46,81,,0,107970,4.0,machine_Behavioral/Cognitive,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1454,9990784.0,33,65,clicked,1,507322,186.0,human_Behavioral/Cognitive,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1455,9990784.0,43,56,clicked,1,458803,109.0,human_Systems/Circuits,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1456,9990784.0,90,92,clicked,1,155993,135.0,human_Behavioral/Cognitive,1,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1457,9990784.0,50,50,clicked,1,498151,174.0,machine_Behavioral/Cognitive,0,0,39,United Kingdom,Faculty/Academic staff,10,Male
+1458,9991201.0,11,59,,0,29193,159.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1459,9991201.0,50,80,,1,43586,112.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1460,9991201.0,31,50,,0,36229,23.0,human_Systems/Circuits,1,0,28,Germany,Doctoral student,3,Male
+1461,9991201.0,30,50,clicked,1,50080,200.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1462,9991201.0,1,28,clicked,1,61456,158.0,human_Cellular/Molecular,1,0,28,Germany,Doctoral student,3,Male
+1463,9991201.0,1,31,clicked,1,29681,141.0,human_Development/Plasticity/Repair,1,0,28,Germany,Doctoral student,3,Male
+1464,9991201.0,1,16,clicked,1,38232,3.0,machine_Neurobiology of Disease,1,0,28,Germany,Doctoral student,3,Male
+1465,9991201.0,1,50,clicked,1,22758,131.0,machine_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1466,9991201.0,1,33,clicked,1,72224,163.0,human_Behavioral/Cognitive,1,0,28,Germany,Doctoral student,3,Male
+1467,9991253.0,1,1,,1,120932,134.0,human_Behavioral/Cognitive,1,0,29,Germany,Doctoral student,3,Female
+1468,9991253.0,1,1,,1,72950,172.0,human_Systems/Circuits,1,0,29,Germany,Doctoral student,3,Female
+1469,9991253.0,1,1,,1,69250,181.0,machine_Systems/Circuits,1,0,29,Germany,Doctoral student,3,Female
+1470,9991253.0,1,1,,0,39473,18.0,machine_Systems/Circuits,1,0,29,Germany,Doctoral student,3,Female
+1471,9991253.0,29,59,,1,184021,38.0,human_Systems/Circuits,1,0,29,Germany,Doctoral student,3,Female
+1472,9991253.0,50,73,,0,117254,45.0,human_Cellular/Molecular,1,0,29,Germany,Doctoral student,3,Female
+1473,9991253.0,1,1,,1,58312,123.0,human_Cellular/Molecular,1,0,29,Germany,Doctoral student,3,Female
+1474,9991253.0,1,23,,0,64885,147.0,human_Behavioral/Cognitive,1,0,29,Germany,Doctoral student,3,Female
+1475,9991253.0,1,8,,0,80466,22.0,machine_Systems/Circuits,1,0,29,Germany,Doctoral student,3,Female
+1476,9991500.0,4,14,,0,115295,64.0,machine_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1477,9991500.0,1,11,,0,72333,183.0,human_Cellular/Molecular,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1478,9991500.0,24,31,,1,60542,5.0,machine_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1479,9991500.0,26,41,,1,96688,43.0,human_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1480,9991500.0,1,32,,0,88015,108.0,human_Systems/Circuits,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1481,9991500.0,1,1,,1,49399,92.0,human_Development/Plasticity/Repair,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1482,9991500.0,1,22,,1,49584,101.0,human_Neurobiology of Disease,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1483,9991500.0,1,20,,1,40235,90.0,human_Neurobiology of Disease,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1484,9991500.0,72,58,,0,54788,137.0,machine_Behavioral/Cognitive,1,0,46,United Kingdom,Faculty/Academic staff,20,Prefer Not to Answer
+1485,9992285.0,29,37,,1,178350,83.0,human_Development/Plasticity/Repair,1,0,30,France,Predoctoral student,7,Male
+1486,9992285.0,30,50,,1,182119,47.0,machine_Systems/Circuits,1,0,30,France,Predoctoral student,7,Male
+1487,9992285.0,56,71,,1,108061,156.0,machine_Systems/Circuits,1,0,30,France,Predoctoral student,7,Male
+1488,9992285.0,4,65,,1,137124,179.0,human_Neurobiology of Disease,1,0,30,France,Predoctoral student,7,Male
+1489,9992285.0,40,78,clicked,1,116633,98.0,human_Development/Plasticity/Repair,1,0,30,France,Predoctoral student,7,Male
+1490,9992285.0,36,73,clicked,1,191286,199.0,human_Systems/Circuits,1,0,30,France,Predoctoral student,7,Male
+1491,9992285.0,50,62,clicked,0,80695,21.0,human_Systems/Circuits,1,0,30,France,Predoctoral student,7,Male
+1492,9992285.0,8,70,clicked,1,90627,77.0,human_Cellular/Molecular,1,0,30,France,Predoctoral student,7,Male
+1493,9992285.0,59,71,clicked,1,84459,15.0,machine_Behavioral/Cognitive,1,0,30,France,Predoctoral student,7,Male
+1494,9992301.0,71,86,clicked,1,101036,80.0,human_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1495,9992301.0,40,62,clicked,0,55973,40.0,human_Neurobiology of Disease,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1497,9992301.0,67,41,clicked,1,106971,127.0,human_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1498,9992301.0,71,39,clicked,1,186113,8.0,human_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1499,9992301.0,28,57,clicked,1,55797,139.0,human_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1500,9992301.0,57,84,clicked,1,81425,119.0,machine_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1501,9992301.0,17,60,clicked,1,24695,29.0,human_Cellular/Molecular,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1502,9992301.0,64,75,clicked,1,41506,171.0,machine_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,10,Male
+1503,9992329.0,8,28,,0,165971,96.0,human_Cellular/Molecular,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1504,9992329.0,42,45,,0,125832,185.0,human_Behavioral/Cognitive,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1505,9992329.0,20,54,,1,136088,106.0,machine_Systems/Circuits,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1506,9992329.0,26,41,,1,50028,68.0,human_Neurobiology of Disease,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1507,9992329.0,54,65,,0,102532,137.0,human_Behavioral/Cognitive,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1508,9992329.0,4,6,clicked,0,199636,182.0,human_Cellular/Molecular,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1509,9992329.0,41,29,clicked,0,111681,113.0,human_Systems/Circuits,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1510,9992329.0,12,15,clicked,0,135304,157.0,machine_Systems/Circuits,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1511,9992329.0,44,53,clicked,0,106176,117.0,machine_Behavioral/Cognitive,1,0,30,Ireland {Republic},Doctoral student,5,Female
+1512,9992483.0,24,68,,0,100880,188.0,human_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1513,9992483.0,1,1,,1,57950,133.0,machine_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1514,9992483.0,57,70,,0,247149,23.0,machine_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1515,9992483.0,63,75,,0,87578,69.0,human_Systems/Circuits,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1516,9992483.0,10,68,,1,73207,9.0,human_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1517,9992483.0,62,79,,1,73202,36.0,human_Cellular/Molecular,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1519,9992483.0,6,1,,0,35067,195.0,human_Behavioral/Cognitive,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1520,9992483.0,61,58,,0,105154,173.0,machine_Development/Plasticity/Repair,1,0,31,United Kingdom,Postdoctoral researcher,8,Male
+1521,9992587.0,18,16,,0,107932,64.0,human_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,3,Female
+1522,9992587.0,12,12,,0,60917,36.0,machine_Cellular/Molecular,1,0,25,Germany,Doctoral student,3,Female
+1523,9992587.0,10,37,,1,31367,8.0,machine_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,3,Female
+1524,9992587.0,1,1,,1,53909,18.0,machine_Systems/Circuits,1,0,25,Germany,Doctoral student,3,Female
+1525,9992587.0,1,1,,1,5552,95.0,human_Cellular/Molecular,1,0,25,Germany,Doctoral student,3,Female
+1526,9992587.0,1,1,,1,49242,161.0,human_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,3,Female
+1527,9992587.0,1,1,,1,19472,27.0,human_Cellular/Molecular,1,0,25,Germany,Doctoral student,3,Female
+1528,9992587.0,1,1,,0,78306,2.0,human_Systems/Circuits,1,0,25,Germany,Doctoral student,3,Female
+1529,9992587.0,1,1,clicked,1,88359,134.0,human_Behavioral/Cognitive,1,0,25,Germany,Doctoral student,3,Female
+1530,9992677.0,25,82,,0,45457,71.0,human_Neurobiology of Disease,1,0,26,Germany,Doctoral student,4,Male
+1531,9992677.0,11,66,,1,178278,62.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,4,Male
+1532,9992677.0,1,29,,1,88937,149.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,4,Male
+1533,9992677.0,3,5,,0,126602,124.0,human_Systems/Circuits,1,0,26,Germany,Doctoral student,4,Male
+1534,9992677.0,17,83,,1,73540,183.0,machine_Cellular/Molecular,1,0,26,Germany,Doctoral student,4,Male
+1535,9992677.0,1,62,,1,56170,152.0,human_Development/Plasticity/Repair,1,0,26,Germany,Doctoral student,4,Male
+1536,9992677.0,1,16,,0,338997,157.0,human_Systems/Circuits,1,0,26,Germany,Doctoral student,4,Male
+1537,9992677.0,6,73,,1,65755,72.0,human_Systems/Circuits,1,0,26,Germany,Doctoral student,4,Male
+1538,9992677.0,11,88,,1,54170,93.0,machine_Systems/Circuits,1,0,26,Germany,Doctoral student,4,Male
+1539,9992936.0,17,18,clicked,1,169399,136.0,machine_Behavioral/Cognitive,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1540,9992936.0,25,15,clicked,1,35826,53.0,human_Behavioral/Cognitive,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1541,9992936.0,10,21,clicked,1,57421,46.0,human_Systems/Circuits,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1542,9992936.0,37,50,clicked,1,11500,74.0,human_Behavioral/Cognitive,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1543,9992936.0,7,9,clicked,0,44357,96.0,machine_Cellular/Molecular,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1544,9992936.0,10,13,clicked,0,32924,200.0,human_Behavioral/Cognitive,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1545,9992936.0,1,1,clicked,1,19204,98.0,machine_Development/Plasticity/Repair,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1546,9992936.0,16,16,clicked,0,35883,63.0,human_Systems/Circuits,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1547,9992936.0,4,21,clicked,0,20077,78.0,human_Behavioral/Cognitive,1,0,57,United Kingdom,Faculty/Academic staff,25,Male
+1548,9992275.0,1,16,clicked,1,340974,120.0,machine_Systems/Circuits,1,0,32,Belgium,Predoctoral student,8,Female
+1549,9992275.0,14,64,clicked,1,57747,7.0,human_Behavioral/Cognitive,1,0,32,Belgium,Predoctoral student,8,Female
+1550,9992275.0,16,21,clicked,0,125408,37.0,human_Systems/Circuits,1,0,32,Belgium,Predoctoral student,8,Female
+1551,9992275.0,1,16,clicked,1,45869,44.0,human_Development/Plasticity/Repair,1,0,32,Belgium,Predoctoral student,8,Female
+1552,9992275.0,32,14,clicked,0,67445,13.0,human_Behavioral/Cognitive,1,0,32,Belgium,Predoctoral student,8,Female
+1553,9992275.0,7,5,clicked,1,67364,181.0,machine_Systems/Circuits,1,0,32,Belgium,Predoctoral student,8,Female
+1554,9992275.0,5,10,clicked,0,176498,157.0,machine_Systems/Circuits,1,0,32,Belgium,Predoctoral student,8,Female
+1555,9992275.0,72,91,clicked,1,49346,195.0,human_Behavioral/Cognitive,1,0,32,Belgium,Predoctoral student,8,Female
+1556,9992275.0,3,17,clicked,1,132729,98.0,human_Development/Plasticity/Repair,1,0,32,Belgium,Predoctoral student,8,Female
+1557,9993020.0,32,76,,1,51039,192.0,machine_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,3,Female
+1558,9993020.0,8,75,,1,57344,93.0,machine_Systems/Circuits,1,0,26,Germany,Doctoral student,3,Female
+1559,9993020.0,7,93,,1,86918,139.0,machine_Systems/Circuits,1,0,26,Germany,Doctoral student,3,Female
+1560,9993020.0,1,11,,1,93540,141.0,human_Development/Plasticity/Repair,1,0,26,Germany,Doctoral student,3,Female
+1561,9993020.0,57,99,,1,48470,163.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,3,Female
+1562,9993020.0,75,12,,0,136108,34.0,human_Neurobiology of Disease,1,0,26,Germany,Doctoral student,3,Female
+1563,9993020.0,54,68,,1,103731,136.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,3,Female
+1564,9993020.0,50,22,,0,60695,1.0,human_Behavioral/Cognitive,1,0,26,Germany,Doctoral student,3,Female
+1565,9993020.0,28,64,,1,86934,95.0,human_Cellular/Molecular,1,0,26,Germany,Doctoral student,3,Female
+1575,9993604.0,48,75,,1,65053,184.0,machine_Behavioral/Cognitive,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1576,9993604.0,1,6,,1,75848,17.0,human_Systems/Circuits,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1577,9993604.0,1,5,,1,102453,25.0,human_Development/Plasticity/Repair,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1578,9993604.0,1,3,,1,82319,91.0,human_Neurobiology of Disease,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1579,9993604.0,69,68,,0,59669,64.0,machine_Behavioral/Cognitive,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1580,9993604.0,31,31,,1,44482,187.0,human_Systems/Circuits,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1581,9993604.0,1,1,clicked,1,329946,129.0,human_Systems/Circuits,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1582,9993604.0,60,60,clicked,0,47220,132.0,human_Behavioral/Cognitive,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1583,9993604.0,84,74,clicked,0,75491,153.0,machine_Behavioral/Cognitive,1,0,47,Netherlands,Faculty/Academic staff,23,Female
+1584,9993794.0,1,32,,0,130546,88.0,machine_Neurobiology of Disease,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1585,9993794.0,3,1,,0,223195,16.0,human_Systems/Circuits,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1586,9993794.0,6,64,,1,159246,25.0,machine_Development/Plasticity/Repair,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1587,9993794.0,11,37,,1,964682,93.0,human_Systems/Circuits,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1588,9993794.0,4,36,,1,471425,51.0,human_Development/Plasticity/Repair,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1589,9993794.0,5,43,,1,1212107,194.0,human_Behavioral/Cognitive,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1590,9993794.0,7,35,,1,204268,23.0,human_Systems/Circuits,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1591,9993794.0,3,63,,1,562730,174.0,machine_Behavioral/Cognitive,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1592,9993794.0,6,6,,1,136795,176.0,human_Neurobiology of Disease,1,0,32,Czech Republic,Postdoctoral researcher,1,Male
+1593,9994046.0,17,96,clicked,1,93504,143.0,human_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,10,Female
+1594,9994046.0,92,94,clicked,1,95140,29.0,human_Cellular/Molecular,1,0,29,United States,Postdoctoral researcher,10,Female
+1595,9994046.0,10,6,clicked,1,49307,167.0,human_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,10,Female
+1596,9994046.0,72,84,clicked,1,148374,84.0,human_Cellular/Molecular,1,0,29,United States,Postdoctoral researcher,10,Female
+1597,9994046.0,62,65,clicked,0,85112,155.0,machine_Neurobiology of Disease,1,0,29,United States,Postdoctoral researcher,10,Female
+1598,9994046.0,12,67,clicked,1,99928,182.0,human_Cellular/Molecular,1,0,29,United States,Postdoctoral researcher,10,Female
+1599,9994046.0,86,53,clicked,1,69779,53.0,human_Behavioral/Cognitive,1,0,29,United States,Postdoctoral researcher,10,Female
+1600,9994046.0,55,81,clicked,1,96016,140.0,machine_Neurobiology of Disease,1,0,29,United States,Postdoctoral researcher,10,Female
+1601,9994046.0,48,75,clicked,1,81920,36.0,machine_Cellular/Molecular,1,0,29,United States,Postdoctoral researcher,10,Female
+1602,9994257.0,17,79,,0,103676,35.0,human_Cellular/Molecular,1,0,50,Singapore,Faculty/Academic staff,24,Male
+1603,9994257.0,50,50,,1,192692,86.0,human_Development/Plasticity/Repair,0,0,50,Singapore,Faculty/Academic staff,24,Male
+1604,9994257.0,50,64,,1,129133,125.0,machine_Behavioral/Cognitive,1,0,50,Singapore,Faculty/Academic staff,24,Male
+1605,9994257.0,100,50,,1,204144,69.0,human_Systems/Circuits,1,0,50,Singapore,Faculty/Academic staff,24,Male
+1606,9994257.0,50,50,,1,107743,81.0,human_Behavioral/Cognitive,0,0,50,Singapore,Faculty/Academic staff,24,Male
+1607,9994257.0,50,50,,1,196024,197.0,machine_Neurobiology of Disease,0,0,50,Singapore,Faculty/Academic staff,24,Male
+1608,9994257.0,50,58,clicked,1,227951,57.0,machine_Neurobiology of Disease,1,0,50,Singapore,Faculty/Academic staff,24,Male
+1609,9994257.0,50,50,clicked,1,169104,107.0,human_Systems/Circuits,0,0,50,Singapore,Faculty/Academic staff,24,Male
+1611,9995993.0,30,73,,1,59510,45.0,human_Cellular/Molecular,1,0,36,United States,Postdoctoral researcher,15,Male
+1612,9995993.0,67,70,,1,44482,183.0,machine_Cellular/Molecular,1,0,36,United States,Postdoctoral researcher,15,Male
+1613,9995993.0,40,60,,0,31041,47.0,human_Systems/Circuits,1,0,36,United States,Postdoctoral researcher,15,Male
+1614,9995993.0,71,80,,1,36852,162.0,machine_Behavioral/Cognitive,1,0,36,United States,Postdoctoral researcher,15,Male
+1615,9995993.0,55,48,,1,53231,133.0,human_Systems/Circuits,1,0,36,United States,Postdoctoral researcher,15,Male
+1616,9995993.0,28,59,,0,63276,42.0,human_Neurobiology of Disease,1,0,36,United States,Postdoctoral researcher,15,Male
+1617,9995993.0,32,50,,0,43123,188.0,human_Systems/Circuits,1,0,36,United States,Postdoctoral researcher,15,Male
+1618,9995993.0,44,72,,1,57760,38.0,machine_Systems/Circuits,1,0,36,United States,Postdoctoral researcher,15,Male
+1619,9995993.0,11,71,,0,68757,104.0,human_Development/Plasticity/Repair,1,0,36,United States,Postdoctoral researcher,15,Male
+1620,9995420.0,50,73,,1,164520,148.0,machine_Behavioral/Cognitive,1,0,37,United States,Postdoctoral researcher,9,Male
+1621,9995420.0,59,84,,1,222758,9.0,human_Behavioral/Cognitive,1,0,37,United States,Postdoctoral researcher,9,Male
+1622,9995420.0,34,45,,1,270969,58.0,human_Neurobiology of Disease,1,0,37,United States,Postdoctoral researcher,9,Male
+1623,9995420.0,17,80,,1,123636,156.0,machine_Systems/Circuits,1,0,37,United States,Postdoctoral researcher,9,Male
+1624,9995420.0,2,13,clicked,1,358494,103.0,human_Neurobiology of Disease,1,0,37,United States,Postdoctoral researcher,9,Male
+1625,9995420.0,6,60,clicked,1,138209,106.0,human_Systems/Circuits,1,0,37,United States,Postdoctoral researcher,9,Male
+1626,9995420.0,8,33,clicked,1,196505,104.0,machine_Development/Plasticity/Repair,1,0,37,United States,Postdoctoral researcher,9,Male
+1627,9995420.0,1,7,clicked,0,401437,82.0,human_Neurobiology of Disease,1,0,37,United States,Postdoctoral researcher,9,Male
+1628,9995420.0,7,4,clicked,1,9550,152.0,human_Development/Plasticity/Repair,1,0,37,United States,Postdoctoral researcher,9,Male
+1629,9996522.0,8,80,,1,137594,55.0,human_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1630,9996522.0,1,21,,1,187212,62.0,human_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1631,9996522.0,63,74,,1,159161,59.0,human_Cellular/Molecular,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1632,9996522.0,1,1,,1,124511,149.0,human_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1633,9996522.0,50,68,clicked,1,408968,178.0,human_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1634,9996522.0,1,1,clicked,1,449204,130.0,human_Development/Plasticity/Repair,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1635,9996522.0,82,84,clicked,1,98977,69.0,machine_Systems/Circuits,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1636,9996522.0,1,81,clicked,1,86377,5.0,machine_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1637,9996522.0,1,20,clicked,0,96692,159.0,machine_Behavioral/Cognitive,1,0,44,Belgium,Faculty/Academic staff,16,Male
+1647,9998447.0,19,50,,0,473110,172.0,human_Systems/Circuits,1,0,38,Japan,__other,0,Female
+1648,9998447.0,92,36,clicked,1,268108,71.0,human_Neurobiology of Disease,1,0,38,Japan,__other,0,Female
+1649,9998447.0,41,50,clicked,1,144023,183.0,human_Cellular/Molecular,1,0,38,Japan,__other,0,Female
+1650,9998447.0,100,50,clicked,1,136506,129.0,human_Systems/Circuits,1,0,38,Japan,__other,0,Female
+1651,9998447.0,22,50,clicked,1,84674,42.0,human_Neurobiology of Disease,1,0,38,Japan,__other,0,Female
+1652,9998447.0,50,50,clicked,1,158289,159.0,machine_Behavioral/Cognitive,0,0,38,Japan,__other,0,Female
+1653,9998447.0,100,50,clicked,0,42190,154.0,human_Behavioral/Cognitive,1,0,38,Japan,__other,0,Female
+1654,9998447.0,50,50,clicked,1,664548,14.0,machine_Behavioral/Cognitive,0,0,38,Japan,__other,0,Female
+1655,9998447.0,50,50,clicked,1,19591,41.0,machine_Neurobiology of Disease,0,0,38,Japan,__other,0,Female
+1656,9998852.0,23,25,,1,165885,174.0,human_Behavioral/Cognitive,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1657,9998852.0,19,26,clicked,1,189621,199.0,human_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1658,9998852.0,35,46,clicked,1,143133,120.0,machine_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1659,9998852.0,13,42,clicked,1,182392,107.0,human_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1660,9998852.0,1,73,clicked,1,178890,46.0,machine_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1661,9998852.0,11,23,clicked,1,165299,170.0,human_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1662,9998852.0,62,56,clicked,1,103893,162.0,human_Behavioral/Cognitive,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1663,9998852.0,1,1,clicked,1,107308,136.0,machine_Behavioral/Cognitive,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1664,9998852.0,29,40,clicked,0,100115,23.0,human_Systems/Circuits,1,0,33,Singapore,Postdoctoral researcher,10,Female
+1665,9998904.0,65,85,,0,103294,200.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,10,Female
+1666,9998904.0,22,16,,1,171682,188.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Female
+1667,9998904.0,15,18,,1,170891,96.0,machine_Cellular/Molecular,1,0,33,Germany,Postdoctoral researcher,10,Female
+1668,9998904.0,34,50,,1,134814,47.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Female
+1669,9998904.0,77,92,,1,161917,16.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Female
+1670,9998904.0,19,19,,0,81757,62.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,10,Female
+1671,9998904.0,6,71,,0,110619,198.0,human_Behavioral/Cognitive,1,0,33,Germany,Postdoctoral researcher,10,Female
+1672,9998904.0,25,88,,1,75214,175.0,human_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Female
+1673,9998904.0,1,1,,0,82249,108.0,machine_Systems/Circuits,1,0,33,Germany,Postdoctoral researcher,10,Female
+1674,9999162.0,36,75,,1,161750,5.0,human_Behavioral/Cognitive,1,0,24,Germany,Doctoral student,1,Female
+1675,9999162.0,6,55,,1,241654,31.0,human_Behavioral/Cognitive,1,0,24,Germany,Doctoral student,1,Female
+1676,9999162.0,92,76,,0,61900,3.0,machine_Neurobiology of Disease,1,0,24,Germany,Doctoral student,1,Female
+1677,9999162.0,3,19,clicked,0,999536,149.0,machine_Behavioral/Cognitive,1,0,24,Germany,Doctoral student,1,Female
+1678,9999162.0,18,50,clicked,1,273541,73.0,machine_Behavioral/Cognitive,1,0,24,Germany,Doctoral student,1,Female
+1679,9999162.0,30,31,clicked,0,259520,32.0,human_Cellular/Molecular,1,0,24,Germany,Doctoral student,1,Female
+1680,9999162.0,1,31,clicked,0,99188,190.0,human_Behavioral/Cognitive,1,0,24,Germany,Doctoral student,1,Female
+1681,9999162.0,65,50,clicked,0,87724,88.0,human_Neurobiology of Disease,1,0,24,Germany,Doctoral student,1,Female
+1682,9999162.0,50,50,clicked,1,944514,49.0,human_Development/Plasticity/Repair,0,0,24,Germany,Doctoral student,1,Female
+1683,9999297.0,6,6,,1,61520,133.0,human_Systems/Circuits,1,0,81,United Kingdom,Research scientist,50,Male
+1684,9999297.0,18,21,,0,47288,13.0,human_Behavioral/Cognitive,1,0,81,United Kingdom,Research scientist,50,Male
+1685,9999297.0,10,31,,1,44413,122.0,machine_Systems/Circuits,1,0,81,United Kingdom,Research scientist,50,Male
+1686,9999297.0,50,50,,1,22475,135.0,human_Behavioral/Cognitive,0,0,81,United Kingdom,Research scientist,50,Male
+1687,9999297.0,59,58,,1,34871,56.0,human_Behavioral/Cognitive,1,0,81,United Kingdom,Research scientist,50,Male
+1688,9999297.0,58,60,,0,29876,22.0,machine_Systems/Circuits,1,0,81,United Kingdom,Research scientist,50,Male
+1689,9999297.0,36,32,,1,60498,34.0,human_Neurobiology of Disease,1,0,81,United Kingdom,Research scientist,50,Male
+1690,9999297.0,24,23,,1,18617,95.0,human_Cellular/Molecular,1,0,81,United Kingdom,Research scientist,50,Male
+1691,9999297.0,50,50,,0,59852,20.0,machine_Systems/Circuits,0,0,81,United Kingdom,Research scientist,50,Male
+1692,10001630.0,37,70,,1,187707,85.0,human_Behavioral/Cognitive,1,0,38,Spain,Faculty/Academic staff,15,Female
+1693,10001630.0,36,61,,0,125421,99.0,human_Development/Plasticity/Repair,1,0,38,Spain,Faculty/Academic staff,15,Female
+1694,10001630.0,36,56,,0,102574,20.0,human_Systems/Circuits,1,0,38,Spain,Faculty/Academic staff,15,Female
+1695,10001630.0,34,50,,1,151346,25.0,machine_Development/Plasticity/Repair,1,0,38,Spain,Faculty/Academic staff,15,Female
+1696,10001630.0,38,50,,1,208518,12.0,human_Behavioral/Cognitive,1,0,38,Spain,Faculty/Academic staff,15,Female
+1697,10001630.0,33,50,,1,104777,50.0,machine_Cellular/Molecular,1,0,38,Spain,Faculty/Academic staff,15,Female
+1698,10001630.0,46,44,,0,61986,5.0,machine_Behavioral/Cognitive,1,0,38,Spain,Faculty/Academic staff,15,Female
+1699,10001630.0,50,63,,1,28250,81.0,human_Behavioral/Cognitive,1,0,38,Spain,Faculty/Academic staff,15,Female
+1700,10001630.0,37,45,,1,49760,76.0,human_Behavioral/Cognitive,1,0,38,Spain,Faculty/Academic staff,15,Female
+1701,10004322.0,75,80,,0,106413,153.0,machine_Behavioral/Cognitive,1,0,37,Australia,Postdoctoral researcher,8,Female
+1702,10004322.0,58,79,,0,139149,86.0,machine_Development/Plasticity/Repair,1,0,37,Australia,Postdoctoral researcher,8,Female
+1703,10004322.0,50,66,,1,218269,113.0,human_Systems/Circuits,1,0,37,Australia,Postdoctoral researcher,8,Female
+1704,10004322.0,66,73,clicked,1,210631,70.0,human_Behavioral/Cognitive,1,0,37,Australia,Postdoctoral researcher,8,Female
+1705,10004322.0,53,85,clicked,1,49373,119.0,human_Behavioral/Cognitive,1,0,37,Australia,Postdoctoral researcher,8,Female
+1706,10004322.0,6,22,clicked,0,69711,160.0,human_Cellular/Molecular,1,0,37,Australia,Postdoctoral researcher,8,Female
+1707,10004322.0,14,5,clicked,0,181893,26.0,human_Development/Plasticity/Repair,1,0,37,Australia,Postdoctoral researcher,8,Female
+1708,10004322.0,1,16,clicked,0,29607,182.0,machine_Cellular/Molecular,1,0,37,Australia,Postdoctoral researcher,8,Female
+1709,10004322.0,1,22,clicked,1,61561,66.0,human_Cellular/Molecular,1,0,37,Australia,Postdoctoral researcher,8,Female
+1710,10005116.0,10,11,,0,85153,132.0,human_Behavioral/Cognitive,1,0,31,Germany,Doctoral student,7,Male
+1711,10005116.0,16,18,,0,82395,186.0,machine_Behavioral/Cognitive,1,0,31,Germany,Doctoral student,7,Male
+1712,10005116.0,1,20,,1,15897,84.0,machine_Cellular/Molecular,1,0,31,Germany,Doctoral student,7,Male
+1713,10005116.0,1,30,,1,21254,46.0,human_Systems/Circuits,1,0,31,Germany,Doctoral student,7,Male
+1714,10005116.0,1,29,clicked,0,501123,184.0,human_Behavioral/Cognitive,1,0,31,Germany,Doctoral student,7,Male
+1716,10005116.0,58,57,clicked,1,71013,166.0,human_Systems/Circuits,1,0,31,Germany,Doctoral student,7,Male
+1717,10005116.0,1,1,clicked,0,12556,90.0,human_Neurobiology of Disease,1,0,31,Germany,Doctoral student,7,Male
+1718,10005116.0,3,1,clicked,0,6169,195.0,machine_Behavioral/Cognitive,1,0,31,Germany,Doctoral student,7,Male
+1728,10005881.0,1,34,,1,152612,82.0,human_Neurobiology of Disease,1,0,24,Spain,Predoctoral student,4,Female
+1729,10005881.0,1,1,,1,99786,14.0,human_Behavioral/Cognitive,1,0,24,Spain,Predoctoral student,4,Female
+1730,10005881.0,1,6,clicked,1,279692,121.0,machine_Neurobiology of Disease,1,0,24,Spain,Predoctoral student,4,Female
+1731,10005881.0,1,1,clicked,1,147569,9.0,human_Behavioral/Cognitive,1,0,24,Spain,Predoctoral student,4,Female
+1732,10005881.0,14,25,clicked,1,175493,153.0,human_Behavioral/Cognitive,1,0,24,Spain,Predoctoral student,4,Female
+1733,10005881.0,1,9,clicked,1,123533,96.0,human_Cellular/Molecular,1,0,24,Spain,Predoctoral student,4,Female
+1734,10005881.0,1,81,clicked,1,113998,125.0,machine_Behavioral/Cognitive,1,0,24,Spain,Predoctoral student,4,Female
+1735,10005881.0,1,1,clicked,0,104294,102.0,human_Development/Plasticity/Repair,1,0,24,Spain,Predoctoral student,4,Female
+1736,10005881.0,1,2,clicked,1,156913,131.0,machine_Behavioral/Cognitive,1,0,24,Spain,Predoctoral student,4,Female
+1737,10005882.0,27,45,,1,104241,10.0,machine_Development/Plasticity/Repair,1,0,34,Spain,Faculty/Academic staff,11,Male
+1738,10005882.0,57,69,,1,127292,197.0,machine_Neurobiology of Disease,1,0,34,Spain,Faculty/Academic staff,11,Male
+1739,10005882.0,6,8,clicked,1,112879,7.0,human_Behavioral/Cognitive,1,0,34,Spain,Faculty/Academic staff,11,Male
+1740,10005882.0,84,92,clicked,1,84363,74.0,human_Behavioral/Cognitive,1,0,34,Spain,Faculty/Academic staff,11,Male
+1741,10005882.0,59,65,clicked,1,87207,125.0,human_Behavioral/Cognitive,1,0,34,Spain,Faculty/Academic staff,11,Male
+1742,10005882.0,7,37,clicked,1,70274,186.0,human_Behavioral/Cognitive,1,0,34,Spain,Faculty/Academic staff,11,Male
+1743,10005882.0,29,34,clicked,1,29370,68.0,human_Neurobiology of Disease,1,0,34,Spain,Faculty/Academic staff,11,Male
+1744,10005882.0,58,59,clicked,0,51637,123.0,human_Cellular/Molecular,1,0,34,Spain,Faculty/Academic staff,11,Male
+1745,10005882.0,89,91,clicked,1,67805,100.0,machine_Development/Plasticity/Repair,1,0,34,Spain,Faculty/Academic staff,11,Male
+1746,10005871.0,39,62,,0,225013,73.0,human_Behavioral/Cognitive,1,0,27,Spain,Predoctoral student,2,Female
+1747,10005871.0,7,53,,1,123420,157.0,human_Systems/Circuits,1,0,27,Spain,Predoctoral student,2,Female
+1748,10005871.0,30,7,,1,325277,57.0,machine_Neurobiology of Disease,1,0,27,Spain,Predoctoral student,2,Female
+1749,10005871.0,13,75,,0,165418,189.0,human_Behavioral/Cognitive,1,0,27,Spain,Predoctoral student,2,Female
+1750,10005871.0,27,56,clicked,1,248412,195.0,human_Behavioral/Cognitive,1,0,27,Spain,Predoctoral student,2,Female
+1751,10005871.0,19,16,clicked,1,138146,54.0,machine_Behavioral/Cognitive,1,0,27,Spain,Predoctoral student,2,Female
+1752,10005871.0,46,57,clicked,0,170218,173.0,machine_Development/Plasticity/Repair,1,0,27,Spain,Predoctoral student,2,Female
+1753,10005871.0,54,25,clicked,1,165147,130.0,human_Development/Plasticity/Repair,1,0,27,Spain,Predoctoral student,2,Female
+1754,10005871.0,21,44,clicked,0,270005,136.0,human_Behavioral/Cognitive,1,0,27,Spain,Predoctoral student,2,Female
+1773,10006467.0,65,97,,1,86472,61.0,machine_Cellular/Molecular,1,0,25,Spain,Predoctoral student,2,Female
+1774,10006467.0,49,50,,1,96591,6.0,machine_Behavioral/Cognitive,1,0,25,Spain,Predoctoral student,2,Female
+1775,10006467.0,50,99,,1,139346,29.0,human_Cellular/Molecular,1,0,25,Spain,Predoctoral student,2,Female
+1776,10006467.0,41,29,,1,110499,35.0,human_Cellular/Molecular,1,0,25,Spain,Predoctoral student,2,Female
+1777,10006467.0,37,31,,1,250978,60.0,human_Cellular/Molecular,1,0,25,Spain,Predoctoral student,2,Female
+1778,10006467.0,44,23,,0,80636,83.0,human_Development/Plasticity/Repair,1,0,25,Spain,Predoctoral student,2,Female
+1779,10006467.0,50,50,,1,147382,192.0,machine_Behavioral/Cognitive,0,0,25,Spain,Predoctoral student,2,Female
+1780,10006467.0,59,50,,1,59351,53.0,human_Behavioral/Cognitive,1,0,25,Spain,Predoctoral student,2,Female
+1781,10006467.0,50,60,,0,108059,22.0,human_Systems/Circuits,1,0,25,Spain,Predoctoral student,2,Female
+1782,10009698.0,10,50,,1,162132,57.0,machine_Neurobiology of Disease,1,0,47,Spain,Research scientist,25,Female
+1783,10009698.0,4,17,,0,64421,172.0,human_Systems/Circuits,1,0,47,Spain,Research scientist,25,Female
+1784,10009698.0,14,29,,1,71324,115.0,human_Systems/Circuits,1,0,47,Spain,Research scientist,25,Female
+1785,10009698.0,7,40,,0,190658,161.0,machine_Behavioral/Cognitive,1,0,47,Spain,Research scientist,25,Female
+1786,10009698.0,8,26,,0,25263,48.0,human_Cellular/Molecular,1,0,47,Spain,Research scientist,25,Female
+1787,10009698.0,52,30,,0,58270,3.0,human_Neurobiology of Disease,1,0,47,Spain,Research scientist,25,Female
+1788,10009698.0,3,6,,0,31358,139.0,human_Systems/Circuits,1,0,47,Spain,Research scientist,25,Female
+1789,10009698.0,7,41,,1,39426,135.0,machine_Behavioral/Cognitive,1,0,47,Spain,Research scientist,25,Female
+1790,10009698.0,6,3,,0,41383,78.0,human_Behavioral/Cognitive,1,0,47,Spain,Research scientist,25,Female
+1791,10009892.0,1,1,,0,205336,177.0,human_Behavioral/Cognitive,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1792,10009892.0,1,1,,1,159330,174.0,machine_Behavioral/Cognitive,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1793,10009892.0,1,1,,1,158644,18.0,human_Systems/Circuits,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1794,10009892.0,1,1,,0,79778,72.0,human_Systems/Circuits,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1795,10009892.0,1,1,,1,99371,114.0,human_Behavioral/Cognitive,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1796,10009892.0,1,1,,0,78800,17.0,human_Systems/Circuits,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1797,10009892.0,1,15,,1,55034,159.0,machine_Behavioral/Cognitive,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1798,10009892.0,1,1,,1,113560,58.0,machine_Neurobiology of Disease,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1799,10009892.0,1,66,,1,78664,96.0,human_Cellular/Molecular,1,0,64,Spain,Research scientist,40,Prefer Not to Answer
+1800,10010146.0,75,77,,1,55191,144.0,human_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1801,10010146.0,23,60,,0,41830,73.0,human_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1802,10010146.0,15,11,,1,53891,45.0,human_Cellular/Molecular,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1803,10010146.0,6,30,,1,104495,145.0,human_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1804,10010146.0,54,35,,1,44262,8.0,human_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1805,10010146.0,9,19,,1,89673,136.0,machine_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1806,10010146.0,14,43,,1,43619,5.0,machine_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1807,10010146.0,11,18,,1,135137,187.0,machine_Systems/Circuits,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1808,10010146.0,13,31,,1,22514,194.0,human_Behavioral/Cognitive,1,0,44,Switzerland,Faculty/Academic staff,15,Male
+1809,10010157.0,46,72,,0,28055,2.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,10,Male
+1810,10010157.0,32,31,,1,47803,17.0,machine_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,10,Male
+1811,10010157.0,36,69,,0,110601,107.0,human_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,10,Male
+1812,10010157.0,34,76,,1,77607,5.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,10,Male
+1813,10010157.0,22,96,,1,71808,122.0,machine_Systems/Circuits,1,0,31,Germany,Postdoctoral researcher,10,Male
+1814,10010157.0,72,60,,1,69120,4.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,10,Male
+1815,10010157.0,49,50,,0,105737,149.0,machine_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,10,Male
+1816,10010157.0,28,32,,1,86171,186.0,human_Behavioral/Cognitive,1,0,31,Germany,Postdoctoral researcher,10,Male
+1817,10010157.0,20,84,,0,60732,110.0,human_Neurobiology of Disease,1,0,31,Germany,Postdoctoral researcher,10,Male

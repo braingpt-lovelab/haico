@@ -1,0 +1,5 @@
+You are a neuroscientist with deep knowledge in neuroscience.
+### Instruction:
+Here is an abstract from a neuroscience publication:
+
+### Response: <choice abstract>
