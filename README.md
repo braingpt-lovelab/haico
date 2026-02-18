@@ -14,16 +14,15 @@ pip install -e .
 If you use `haico` consider citing our manuscript.
 ```
 @article{YanezEtAl2026,
-         title={Confidence-weighted integration of human and machine judgments for superior decision-making}, 
-         author={Yáñez, Felipe and Luo, Xiaoliang and Valerio Minero, Omar and Love, Bradley C.},
-         journal={Patterns},
-         publisher={Elsevier},
-         volume={7},
-         pages={101423},
-         issn={2666-3899},
-         year={2026},
-         month=feb,
-         doi={10.1016/j.patter.2025.101423},
-         note={In press as of 2025; to appear February 13, 2026}
+  author    = {Y{\'a}{\~n}ez, Felipe and Luo, Xiaoliang and Valerio Minero, Omar and Love, Bradley C.},
+  title     = {Confidence-weighted integration of human and machine judgments for superior decision-making},
+  journal   = {Patterns},
+  year      = {2026},
+  volume    = {7},
+  number    = {2},
+  publisher = {Elsevier},
+  issn      = {2666-3899},
+  doi       = {10.1016/j.patter.2025.101423},
+  url       = {https://doi.org/10.1016/j.patter.2025.101423}
 }
 ```
