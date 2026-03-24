@@ -73,7 +73,7 @@ jobs:
       - name: Publish to TestPyPI
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
-          repository-url: https://upload.test.pypi.org/legacy/
+          repository-url: https://test.pypi.org/legacy/
 
   # ── 3. Publish to PyPI ────────────────────────────────────────────────────
   #  Runs when:  a full (non-pre) release is published  OR  manual dispatch → pypi
