@@ -1,0 +1,105 @@
+name: Publish to PyPI / TestPyPI
+
+# Triggers:
+#  - A GitHub Release marked as pre-release  → publishes to TestPyPI
+#  - A GitHub Release marked as full release → publishes to PyPI
+#  - Manual workflow_dispatch                → lets you choose the target
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Target registry"
+        required: true
+        default: "testpypi"
+        type: choice
+        options:
+          - testpypi
+          - pypi
+
+jobs:
+  # ── 1. Build source distribution and wheel ───────────────────────────────
+  build:
+    name: Build distribution packages
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install build tool
+        run: pip install build
+
+      - name: Build sdist and wheel
+        run: python -m build
+
+      - name: Store distribution packages
+        uses: actions/upload-artifact@v4
+        with:
+          name: python-package-distributions
+          path: dist/
+
+  # ── 2. Publish to TestPyPI ────────────────────────────────────────────────
+  #  Runs when:  a pre-release is published  OR  manual dispatch → testpypi
+  publish-testpypi:
+    name: Publish to TestPyPI
+    if: >-
+      (github.event_name == 'release' && github.event.release.prerelease) ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'testpypi')
+    needs: build
+    runs-on: ubuntu-latest
+
+    # This environment name must match the one configured in TestPyPI
+    # trusted publisher settings (see README for setup instructions).
+    environment:
+      name: testpypi
+      url: https://test.pypi.org/p/haico
+
+    permissions:
+      id-token: write  # Required for OIDC trusted publishing
+
+    steps:
+      - name: Download distribution packages
+        uses: actions/download-artifact@v4
+        with:
+          name: python-package-distributions
+          path: dist/
+
+      - name: Publish to TestPyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          repository-url: https://upload.test.pypi.org/legacy/
+
+  # ── 3. Publish to PyPI ────────────────────────────────────────────────────
+  #  Runs when:  a full (non-pre) release is published  OR  manual dispatch → pypi
+  publish-pypi:
+    name: Publish to PyPI
+    if: >-
+      (github.event_name == 'release' && !github.event.release.prerelease) ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'pypi')
+    needs: build
+    runs-on: ubuntu-latest
+
+    # This environment name must match the one configured in PyPI
+    # trusted publisher settings (see README for setup instructions).
+    environment:
+      name: pypi
+      url: https://pypi.org/p/haico
+
+    permissions:
+      id-token: write  # Required for OIDC trusted publishing
+
+    steps:
+      - name: Download distribution packages
+        uses: actions/download-artifact@v4
+        with:
+          name: python-package-distributions
+          path: dist/
+
+      - name: Publish to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
