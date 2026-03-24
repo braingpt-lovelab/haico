@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "haico"
+version = "0.1.0"
+description = "Human-AI complementarity: confidence-weighted integration of human and machine judgments"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [
+    { name = "Felipe Yanez", email = "felipe.yanez@mpinb.mpg.de" },
+]
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "pandas",
+    "torch",
+    "pyro-ppl",
+]
+keywords = ["human-AI collaboration", "Bayesian", "decision making", "complementarity"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage = "https://braingpt.org/"
+Repository = "https://github.com/braingpt-lovelab/haico"
+"Bug Tracker" = "https://github.com/braingpt-lovelab/haico/issues"
+Paper = "https://doi.org/10.1016/j.patter.2025.101423"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["haico*"]
+exclude = ["data*", "notebooks*", "results*"]
